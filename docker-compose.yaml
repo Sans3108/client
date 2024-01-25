@@ -4,25 +4,15 @@ services:
     container_name: bot
     build:
       context: .
-      dockerfile: dockerfile
+      dockerfile: Dockerfile
     restart: unless-stopped
+    stdin_open: true
+    tty: true
+    env_file:
+      - .env
     environment:
       - TZ=Europe/Berlin
-      - TEST_GUILD_ID=${TEST_GUILD_ID}
-      - STATUS=DEVELOPMENT
-      - BOTSTATUS=Would You?
-      - TOKEN=${TOKEN}
-      - ENCRYPTION_KEY=${ENCRYPTION_KEY}
-      - TOPGG_TOKEN=${TOPGG_TOKEN}
-      - TOPGG_WEBHOOK=${TOPGG_WEBHOOK}
-      - SENTRY_DSN=${SENTRY_DSN}
-      - MONGO_URI=${MONGO_URI}
-      - LOG_PRIVATE=${LOG_PRIVATE}
-      - LOG_GUILDS=${LOG_GUILDS}
-    networks:
-      - node
+      - TAG=DOCKER
+    network_mode: "host"
     labels:
       gg.wouldyou.compose-author: "Discord username 536b656c6c79 "
-networks:
-  node:
-    driver: bridge

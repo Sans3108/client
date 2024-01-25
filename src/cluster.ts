@@ -2,22 +2,25 @@ import "dotenv/config";
 import {
   ClusterManager,
 } from "discord-hybrid-sharding";
-import { white, gray, green } from "chalk-advanced";
 
 const manager = new ClusterManager(`${__dirname}/index.js`, {
-  totalShards: "auto",
   shardsPerClusters: 10,
+  totalShards: "auto",
   mode: "process",
   token: process.env.TOKEN,
 });
 
 
 manager.on("clusterCreate", (cluster) => {
-  console.log(
-    `${white("Would You?")} ${gray(">")} ${green(
-      "Successfully created cluster #" + cluster.id,
-    )}`,
-  );
+  cluster.on("ready", () => {
+    console.log(`[Cluster Manager] Cluster ${cluster.id} ready`);
+  });
+
+  cluster.on("reconnecting", () => {
+    console.log(`[Cluster Manager] Cluster ${cluster.id} reconnecting`);
+  });
+
+  console.log(`[Cluster Manager] Cluster ${cluster.id} created`);
 });
 
 manager.spawn({ timeout: -1 });

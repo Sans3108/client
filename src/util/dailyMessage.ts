@@ -1,107 +1,113 @@
 import { Channel, EmbedBuilder, bold } from "discord.js";
-import { white, gray, green } from "chalk-advanced";
-import * as mom from "moment-timezone";
-import { CronJob } from "cron";
-import { captureException } from "@sentry/node";
 import WouldYou from "./wouldYou";
-import { getWouldYouRather, getWwyd } from "./Functions/jsonImport";
-import { IGuildModel } from "./Models/guildModel";
-import { Error } from "mongoose";
-
+import amqplib, { MessageProperties } from "amqplib";
+import { IQueueMessage, Result } from "../global";
+import QueueError from "./Error/QueueError";
+import { Scope, captureException, withScope } from "@sentry/node";
 export default class DailyMessage {
   private client: WouldYou;
-
   constructor(client: WouldYou) {
     this.client = client;
   }
-
   /**
    * Start the daily message Schedule
    */
-  start() {
-    const job = new CronJob(
-      "*/5 * * * *",  // Every 5 minutes, every hour, every day
-      () => {
-        this.runSchedule();
-      },
-      null,
-      false,
-      "Europe/Berlin",
-    );
-    job.start();
-  }
-
-  /**
-   * Run the daily message schedule
-   * @return {Promise<void>}
-   */
-  async runSchedule() {
-    let guilds = (
-      await this.client.database.getAllActiveDailyMessageGuilds()
-    ).filter(
-      (guild) =>
-        guild.dailyInterval === mom.tz(guild.dailyTimezone).format("HH:mm"),
-    );
-    if (guilds.length <= 0) {
-      //Check if there are any daily messages active for guilds.
-      return console.log(
-        `${new Date().toISOString()}`,
-        white("Daily Message"),
-        gray(">"),
-        green("No active daily messages"),
-      );
-    }
-    console.log(
-      white("Daily Message"),
-      gray(">"),
-      green(`Running daily message check for ${guilds.length} guilds`),
-    );
-    // Loop over every guild to get their message and send it to them trough a webhook.
-    guilds.forEach(async (guild) => {
-      try {
-        await this.sendDaily(guild);
-      } catch (error) {
-        this.handleError(new Error(error as string), guild);
+  async listen() {
+    const QUEUE = process.env.QUEUE || "fallback";
+    const URL = process.env.RABBITMQ_URL || "fallback";
+    const connection = await amqplib.connect(URL);
+    if (connection) {
+      const channel = await connection.createChannel();
+      if (channel) {
+        channel.prefetch(1);
+        await channel.assertQueue(QUEUE, {
+          durable: false,
+          deadLetterExchange: "DLX",
+          deadLetterRoutingKey: "key",
+        });
+        channel.consume(QUEUE, async (message) => {
+          if (message) {
+            setTimeout(async () => {
+              try {
+                const result = await this.sendDaily(
+                  <IQueueMessage>JSON.parse(message.content.toString()),
+                  message.properties,
+                );
+                if (!result.success) {
+                  const error: QueueError = new QueueError(
+                    `Could not acknowledge queue message`,
+                    {
+                      error: result.error,
+                      id: message.properties.messageId,
+                      guildId: (
+                        JSON.parse(message.content.toString()) as IQueueMessage
+                      ).guildId,
+                      context: message.properties.deliveryMode,
+                    },
+                  );
+                  this.captureError(error, QUEUE);
+                  this.handleReject(channel, error.causeError.message, message);
+                } else {
+                  channel.ack(message);
+                }
+              } catch (error) {
+                console.log("something different");
+                console.log(error);
+                this.handleReject(channel, (error as Error).message, message);
+                this.captureError(error as Error, QUEUE);
+              }
+            }, 1000); // (NOTE) Update this to increase wait time
+          }
+        });
       }
-    });
-    return;
+    }
   }
   /**
    * @name sendDaily
    * @description handle the daily message and sent it to the webhookhandler.
-   * @param guild
+   * @param message
    * @returns Promise<void>
    * @author Nidrux
    */
-  private async sendDaily(guild: IGuildModel): Promise<void> {
-    let randomDaily = await this.getDailyMessage(guild);
-    let channel = await this.getDailyMessageChannel(guild);
-    if (!channel) {
-      return this.handleError(
-        new Error("No channel has been fetched to post a daily message to!"),
-        guild,
-      );
+  private async sendDaily(
+    message: IQueueMessage,
+    properties: MessageProperties,
+  ): Promise<Result<string>> {
+    if (message.channelId == null) {
+      return {
+        success: false,
+        error: new Error("No channel id provided by the queue message!"),
+      };
     }
-    if (!randomDaily) {
-      return this.handleError(
-        new Error("No random question has been fetched!"),
-        guild,
-      );
-    }
+    let channel = await this.getDailyMessageChannel(message.channelId);
     let embed = this.buildEmbed(
-      randomDaily[0],
-      randomDaily[1],
-      guild.customTypes,
+      message.message[0],
+      message.message[1],
+      message.type,
+      properties.messageId,
     );
     if (!embed) {
-      return this.handleError(
-        new Error(
-          `Failed to build daily message embed for guild ${guild.guildID}`,
+      return {
+        success: false,
+        error: new Error(
+          `Failed to build daily message embed for guild ${message.guildId}`,
         ),
-        guild,
-      );
+      };
     }
-    return this.sendWebhook(channel, embed, guild);
+    if (!channel.success) {
+      return {
+        success: false,
+        error: new Error(
+          `No channel has been fetched to post a daily message to! ${message.guildId}`,
+        ),
+      };
+    }
+    const result = await this.sendWebhook(channel.result, embed, message);
+    if (result.success) {
+      return { success: true, result: "I have send the webhook" };
+    } else {
+      return { success: false, error: result.error };
+    }
   }
   /**
    * @name getDailyMessageChannel
@@ -110,47 +116,16 @@ export default class DailyMessage {
    * @author Nidrux
    */
   private async getDailyMessageChannel(
-    guild: IGuildModel,
-  ): Promise<Channel | null> {
-    return await this.client.channels.fetch(guild.dailyChannel);
-  }
-  /**
-   * @description Return a question and id based on the type of questions the guild wants.
-   * @param guild
-   * @returns Promise<[string, number] | null>
-   * @author Nidrux
-   */
-  private async getDailyMessage(
-    guild: IGuildModel,
-  ): Promise<[string, number] | null> {
-    const General = await getWouldYouRather(guild.language); // Fetch all general questions with the specified guild language
-    const WhatYouDo = await getWwyd(guild.language); // Fetch all WouldYou questions with the specified guild language
-    let allMessageArray = []; //Create a funcion scoped array to store all questions.
-    // Populate the allMessageArray with all the regular questions.
-    if (guild.customTypes === "regular") {
-      allMessageArray.push(...General, ...WhatYouDo);
+    channelId: string,
+  ): Promise<Result<Channel>> {
+    try {
+      const channel = await this.client.channels.fetch(channelId);
+      if (channel) return { success: true, result: channel };
+      else
+        return { success: false, error: new Error("fetched channel is null") };
+    } catch (error) {
+      return { success: false, error: error as Error };
     }
-    // Populate the allMessageArray with all custom messages and the regular questions.
-    if (guild.customTypes === "mixed") {
-      allMessageArray.push(...General, ...WhatYouDo);
-      if (guild.customMessages.length <= 0) {
-        let id = Math.floor(Math.random() * allMessageArray.length);
-        return [allMessageArray[id], id];
-      }
-      guild.customMessages.forEach((message) =>
-        allMessageArray.push(message.msg),
-      );
-    }
-    // Populate the allMessageArray with all custom messages.
-    if (guild.customTypes === "custom") {
-      guild.customMessages.forEach((message) =>
-        allMessageArray.push(message.msg),
-      );
-    }
-    // Handle the allMessageArray and send a return a random question or 0
-    if (allMessageArray.length <= 0) return null;
-    let id = Math.floor(Math.random() * allMessageArray.length);
-    return [allMessageArray[id], id];
   }
   /**
    * @description Send the embed to the webhookhandler
@@ -163,38 +138,22 @@ export default class DailyMessage {
   private async sendWebhook(
     channel: Channel,
     embed: EmbedBuilder,
-    guild: IGuildModel,
-  ): Promise<void> {
+    message: IQueueMessage,
+  ): Promise<Result<string>> {
     try {
-      await this.client.webhookHandler.sendWebhook(
+      const result = await this.client.webhookHandler.handleWebhook(
         channel,
-        guild.dailyChannel,
         {
           embeds: [embed],
-          content: guild.dailyRole ? `<@&${guild.dailyRole}>` : null,
+          content: message.role ? `<@&${message.role}>` : null,
         },
-        guild.dailyThread,
+        message,
+        message.thread,
       );
-    } catch (error) {
-      this.handleError(new Error(error as string), guild);
-    } finally {
-      return;
+      return result;
+    } catch (err) {
+      return { success: false, error: err as Error };
     }
-  }
-  /**
-   * @description Every error will set the dailyMsg flag for guilds to false.
-   * @param error
-   * @param guild
-   * @returns Promise<void>
-   * @author Nidrux
-   */
-  private async handleError(error: Error, guild: IGuildModel): Promise<void> {
-    console.error(error);
-    captureException(error);
-    await this.client.database.updateGuild(guild.guildID, {
-      guild,
-      dailyMsg: false,
-    });
   }
   /**
    *
@@ -204,14 +163,44 @@ export default class DailyMessage {
    * @returns EmbedBuilder
    * @author Nidrux
    */
-  private buildEmbed(question: string, id: number, type: string): EmbedBuilder {
+  private buildEmbed(
+    question: string,
+    id: number,
+    type: string,
+    qid: string,
+  ): EmbedBuilder {
     return new EmbedBuilder()
       .setColor("#0598F6")
       .setFooter({
-        text: `Daily Message | Type: ${type.replace(/^\w/, (c) =>
-          c.toUpperCase(),
-        )} | ID: ${id}`,
+        text: `Daily Message | Type: ${type.replace(/^\w/, (content) =>
+          content.toUpperCase(),
+        )} | ID: ${id} QID: ${qid}`,
       })
       .setDescription(bold(question) as string);
+  }
+  /**
+   *
+   * @param error
+   * @param queue
+   * @author Nidrux
+   */
+  private captureError(error: Error, queue: string): void {
+    withScope((scope) => {
+      scope.setLevel("warning");
+      scope.setTag("queue", queue);
+      captureException(error);
+    });
+  }
+  private handleReject(
+    channel: amqplib.Channel,
+    reason: string,
+    message: amqplib.Message,
+  ) {
+    const headers = { rejectionCause: reason };
+    channel.publish("DLX", "key", message.content, {
+      headers: headers,
+      messageId: message.properties.messageId,
+    });
+    channel.ack(message);
   }
 }
