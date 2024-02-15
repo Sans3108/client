@@ -8,6 +8,7 @@ export interface IQuestionModel {
     de: string;
     es: string;
     fr: string;
+    it: string;
   };
 }
 
@@ -23,7 +24,12 @@ const questionModelSchema = new Schema({
   },
 });
 
-export const questionModel = model<IQuestionModel>(
-  "questionModel",
-  questionModelSchema,
-);
+const createModel = (modelName: string, schema: Schema) => {
+  return model<IQuestionModel>(modelName, schema);
+}
+
+export const wyrModel = createModel("wyrModel", questionModelSchema);
+export const wwydModel = createModel("wwydModel", questionModelSchema);
+export const nhieModel = createModel("nhieModel", questionModelSchema);
+export const dareModel = createModel("dareModel", questionModelSchema);
+export const truthModel = createModel("truthModel", questionModelSchema);
