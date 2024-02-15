@@ -7,7 +7,7 @@ import {
 import shuffle from "../../util/shuffle";
 import { captureException } from "@sentry/node";
 import { ChatInputCommand } from "../../models";
-import { getWouldYouRather } from "../../util/Functions/jsonImport";
+import { getQuestionsByType } from "../../util/Functions/jsonImport";
 import { DefaultGameEmbed } from "../../util/Defaults/Embeds/Games/DefaultGameEmbed";
 
 const command: ChatInputCommand = {
@@ -29,8 +29,9 @@ const command: ChatInputCommand = {
    */
 
   execute: async (interaction, client, guildDb) => {
-    let General = await getWouldYouRather(guildDb.language);
 
+    let General = await getQuestionsByType("wouldyourather", guildDb.language);
+    console.log(General)
     const dbquestions = guildDb.customMessages.filter(
       (c) => c.type === "wouldyourather",
     );
@@ -39,20 +40,20 @@ const command: ChatInputCommand = {
 
     if (!dbquestions.length) guildDb.customTypes = "regular";
 
-    switch (guildDb.customTypes) {
-      case "regular":
-        wouldyourather = shuffle([...General]);
-        break;
-      case "mixed":
-        wouldyourather = shuffle([
-          ...General,
-          ...dbquestions.map((c) => c.msg),
-        ]);
-        break;
-      case "custom":
-        wouldyourather = shuffle(dbquestions.map((c) => c.msg));
-        break;
-    }
+    //switch (guildDb.customTypes) {
+    //  case "regular":
+    //    wouldyourather = shuffle([...General]);
+    //    break;
+    //  case "mixed":
+    //    wouldyourather = shuffle([
+    //      ...General,
+    //      ...dbquestions.map((c) => c.msg),
+    //    ]);
+    //    break;
+    //  case "custom":
+    //    wouldyourather = shuffle(dbquestions.map((c) => c.msg));
+    //    break;
+    //}
 
     const Random = Math.floor(Math.random() * wouldyourather.length);
 
