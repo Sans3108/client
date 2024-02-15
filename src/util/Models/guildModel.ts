@@ -111,6 +111,12 @@ const guildProfileSchema = new Schema(
       type: String,
       default: "Guild",
     },
+    usedQuestions: [
+      {
+        id: { type: String, required: true },
+        type: { type: String, required: true },
+      },
+    ],
     replayChannels: [
       {
         id: { type: String, required: true },

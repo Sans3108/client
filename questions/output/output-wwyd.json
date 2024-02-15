@@ -1,0 +1,2152 @@
+[
+  {
+    "id": "fa6994fd-7354-4b4a-b184-beac6f5f7c58",
+    "type": "wwyd",
+    "question": "Every country has decided to unite, what would do if you are the president",
+    "translations": {
+      "de": "Jedes Land hat beschlossen, sich zu vereinigen. Was würdest du tun, wenn du der Präsident wärst?",
+      "es": "Todos los países han decidido unirse, ¿qué haría usted si fuera el presidente?",
+      "fr": "Tous les pays ont décidé de s'unir, que feriez-vous si vous étiez le président ?"
+    }
+  },
+  {
+    "id": "96df34a5-477f-48d6-ac2f-c143a7758c6a",
+    "type": "wwyd",
+    "question": "What would you do if your discord direct messages were seen",
+    "translations": {
+      "de": "Was würdest du tun, wenn deine Discord-Direktnachrichten gesehen würden?",
+      "es": "¿Qué harías si tus mensajes directos de discordia fueran vistos",
+      "fr": "Que feriez-vous si vos messages directs discord étaient vus ?"
+    }
+  },
+  {
+    "id": "c5743192-fb1b-4caf-be9f-c23cad3ddf87",
+    "type": "wwyd",
+    "question": "What would you do if you are the president",
+    "translations": {
+      "de": "Was würdest du tun, wenn du der Präsident wärst?",
+      "es": "¿Qué harías si fueras el presidente",
+      "fr": "Que feriez-vous si vous étiez président ?"
+    }
+  },
+  {
+    "id": "4a5ac11b-a670-4b3f-87ad-620eace5a7f3",
+    "type": "wwyd",
+    "question": "What would you do if you could control minds?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du Gedanken kontrollieren könntest?",
+      "es": "¿Qué harías si pudieras controlar las mentes?",
+      "fr": "Que feriez-vous si vous pouviez contrôler les esprits ?"
+    }
+  },
+  {
+    "id": "54a0c767-e23b-453c-9959-bea78cbf4534",
+    "type": "wwyd",
+    "question": "What would you do if you only have 24 hours left on the internet.",
+    "translations": {
+      "de": "Was würdest du tun, wenn du nur noch 24 Stunden Zeit im Internet hättest?",
+      "es": "¿Qué harías si sólo te quedaran 24 horas en Internet?",
+      "fr": "Que feriez-vous s'il ne vous restait que 24 heures sur Internet ?"
+    }
+  },
+  {
+    "id": "193ee145-e591-404d-938f-f7c6aa90fb60",
+    "type": "wwyd",
+    "question": "What would you do if you witness a colleague stealing office supplies?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du Zeuge wirst, wie ein Kollege Büromaterial stiehlt?",
+      "es": "¿Qué harías si ves a un compañero robando material de oficina?",
+      "fr": "Que feriez-vous si vous étiez témoin du vol de fournitures de bureau par un collègue ?"
+    }
+  },
+  {
+    "id": "e6d93f53-85ad-4038-b66f-c1e794573d30",
+    "type": "wwyd",
+    "question": "What would you do if you receive a promotion at work, but your colleague who was also in the running for the position is upset?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du bei der Arbeit befördert wirst, aber dein Kollege, der auch im Rennen um die Stelle war, ist verärgert?",
+      "es": "¿Qué harías si te ascienden en el trabajo, pero tu compañero, que también optaba al puesto, se enfada?",
+      "fr": "Que feriez-vous si vous receviez une promotion au travail, mais que votre collègue, qui était également en lice pour le poste, soit contrarié ?"
+    }
+  },
+  {
+    "id": "b895a45d-66e9-4708-9f49-2094e667907b",
+    "type": "wwyd",
+    "question": "What would you do if you find out that you have been left out of an important meeting that your boss wanted you to attend?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du herausfindest, dass du bei einer wichtigen Besprechung, an der dein Chef dich teilnehmen lassen wollte, nicht dabei warst?",
+      "es": "¿Qué harías si te enteras de que te han dejado fuera de una reunión importante a la que tu jefe quería que asistieras?",
+      "fr": "Que feriez-vous si vous découvriez que vous avez été exclu d'une réunion importante à laquelle votre patron voulait que vous participiez ?"
+    }
+  },
+  {
+    "id": "a050a24e-2f87-4db0-b4ee-6fd8b799664e",
+    "type": "wwyd",
+    "question": "What would you do if you are asked to work on a project that goes against your personal values?",
+    "translations": {
+      "de": "Was würdest du tun, wenn man dich bittet, an einem Projekt zu arbeiten, das deinen persönlichen Werten widerspricht?",
+      "es": "¿Qué haría si le piden que trabaje en un proyecto que va en contra de sus valores personales?",
+      "fr": "Que feriez-vous si l'on vous demandait de travailler sur un projet qui va à l'encontre de vos valeurs personnelles ?"
+    }
+  },
+  {
+    "id": "e3411f24-ca58-4473-9ba5-61594092db41",
+    "type": "wwyd",
+    "question": "What would you do if you are asked to lie to a client to close a deal?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du gebeten würdest, einen Kunden anzulügen, um ein Geschäft abzuschließen?",
+      "es": "¿Qué haría si le pidieran que mintiera a un cliente para cerrar un trato?",
+      "fr": "Que feriez-vous si l'on vous demandait de mentir à un client pour conclure une affaire ?"
+    }
+  },
+  {
+    "id": "905c23d8-634d-4d0a-932a-3a97180ef62d",
+    "type": "wwyd",
+    "question": "What would you do if you are asked to do something unethical by your boss?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du von deinem Chef gebeten wirst, etwas Unethisches zu tun?",
+      "es": "¿Qué harías si tu jefe te pidiera que hicieras algo poco ético?",
+      "fr": "Que feriez-vous si votre patron vous demandait de faire quelque chose de contraire à l'éthique ?"
+    }
+  },
+  {
+    "id": "61388399-7a1c-462e-b029-6a6bbdb25186",
+    "type": "wwyd",
+    "question": "What would you do if you are on a tight deadline and a coworker asks you for help on their project?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du unter Zeitdruck stehst und ein Kollege dich um Hilfe bei seinem Projekt bittet?",
+      "es": "¿Qué harías si tienes poco tiempo y un compañero te pide ayuda para un proyecto?",
+      "fr": "Que feriez-vous si vous aviez un délai serré et qu'un collègue vous demandait de l'aide pour son projet ?"
+    }
+  },
+  {
+    "id": "73d9b775-0ed2-42dd-97d8-def45a12cb46",
+    "type": "wwyd",
+    "question": "What would you do if you accidentally send an email to the wrong person that contains confidential information?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du versehentlich eine E-Mail mit vertraulichen Informationen an die falsche Person schickst?",
+      "es": "¿Qué harías si accidentalmente envías un correo electrónico a la persona equivocada que contiene información confidencial?",
+      "fr": "Que feriez-vous si vous envoyiez accidentellement à la mauvaise personne un courriel contenant des informations confidentielles ?"
+    }
+  },
+  {
+    "id": "d90b90f8-9fe9-40e2-85ba-c115225b70db",
+    "type": "wwyd",
+    "question": "What would you do if you are asked to cover up a mistake made by a coworker?",
+    "translations": {
+      "de": "Was würdest du tun, wenn man dich bittet, einen Fehler eines Kollegen zu vertuschen?",
+      "es": "¿Qué harías si te piden que encubras un error cometido por un compañero de trabajo?",
+      "fr": "Que feriez-vous si l'on vous demandait de couvrir une erreur commise par un collègue ?"
+    }
+  },
+  {
+    "id": "ebf2f11a-243f-4ebd-b961-8bddb4f2976d",
+    "type": "wwyd",
+    "question": "What would you do if you are asked to give a presentation to a large group and you are feeling very anxious?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du eine Präsentation vor einer großen Gruppe halten sollst und du dich sehr ängstlich fühlst?",
+      "es": "¿Qué harías si te pidieran que hicieras una presentación ante un grupo grande y te sintieras muy ansioso?",
+      "fr": "Que feriez-vous si l'on vous demandait de faire une présentation devant un grand groupe et que vous vous sentiez très anxieux ?"
+    }
+  },
+  {
+    "id": "d8425778-5a0e-4f29-8ba3-59ec24220ae9",
+    "type": "wwyd",
+    "question": "What would you do if you are at a party and someone starts a fight?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du auf einer Party bist und jemand eine Schlägerei anfängt?",
+      "es": "¿Qué harías si estás en una fiesta y alguien empieza una pelea?",
+      "fr": "Que feriez-vous si vous étiez à une fête et que quelqu'un commençait à se battre ?"
+    }
+  },
+  {
+    "id": "4c8097d5-e052-45b9-af20-2fb57b3d9048",
+    "type": "wwyd",
+    "question": "What would you do if you are at a party and you see someone trying to take advantage of a drunken person?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du auf einer Party bist und siehst, wie jemand versucht, eine betrunkene Person auszunutzen?",
+      "es": "¿Qué harías si estás en una fiesta y ves a alguien intentando aprovecharse de una persona borracha?",
+      "fr": "Que feriez-vous si vous étiez à une fête et que vous voyiez quelqu'un essayer de profiter d'une personne ivre ?"
+    }
+  },
+  {
+    "id": "9c5240b4-4557-421a-8d54-b4de23a043dc",
+    "type": "wwyd",
+    "question": "What would you do if you are driving and you see a pedestrian about to cross the road, but you know you cannot safely stop in time?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du mit dem Auto unterwegs bist und einen Fußgänger siehst, der die Straße überqueren will, aber du weißt, dass du nicht rechtzeitig anhalten kannst?",
+      "es": "¿Qué harías si estás conduciendo y ves a un peatón a punto de cruzar la carretera, pero sabes que no puedes detenerte a tiempo con seguridad?",
+      "fr": "Que feriez-vous si vous étiez au volant et que vous voyiez un piéton sur le point de traverser la route, mais que vous saviez que vous ne pouviez pas vous arrêter à temps en toute sécurité ?"
+    }
+  },
+  {
+    "id": "90ca28e0-5f87-4d10-9256-3aad4f7f0f87",
+    "type": "wwyd",
+    "question": "What would you do if you are in a crowded store and you see someone trying to steal something?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du in einem überfüllten Laden stehst und siehst, wie jemand versucht, etwas zu stehlen?",
+      "es": "¿Qué harías si estuvieras en una tienda llena de gente y vieras a alguien intentando robar algo?",
+      "fr": "Que feriez-vous si vous étiez dans un magasin bondé et que vous voyiez quelqu'un essayer de voler quelque chose ?"
+    }
+  },
+  {
+    "id": "a23420c2-a63a-414e-ba80-098df7d915d8",
+    "type": "wwyd",
+    "question": "What would you do if you are in a crowded store and you see someone being rude to a store employee?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du in einem überfüllten Laden bist und siehst, wie jemand unhöflich zu einem Angestellten ist?",
+      "es": "¿Qué harías si estuvieras en una tienda llena de gente y vieras a alguien siendo grosero con un empleado?",
+      "fr": "Que feriez-vous si vous vous trouviez dans un magasin bondé et que vous voyiez quelqu'un être impoli avec un employé du magasin ?"
+    }
+  },
+  {
+    "id": "fec08d3a-7dca-44b0-b157-bd12902d64c3",
+    "type": "wwyd",
+    "question": "What would you do if you are in a restaurant and you see the waiter treating a customer poorly?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du in einem Restaurant sitzt und siehst, dass der Kellner einen Gast schlecht behandelt?",
+      "es": "¿Qué harías si estás en un restaurante y ves que el camarero trata mal a un cliente?",
+      "fr": "Que feriez-vous si vous étiez dans un restaurant et que vous voyiez le serveur maltraiter un client ?"
+    }
+  },
+  {
+    "id": "197792e6-4c1b-464d-b114-b347d6d68dfe",
+    "type": "wwyd",
+    "question": "What would you do if you are in a movie theater and someone is talking loudly during the film?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du in einem Kino sitzt und jemand während des Films laut spricht?",
+      "es": "¿Qué harías si estás en una sala de cine y alguien está hablando en voz alta durante la película?",
+      "fr": "Que feriez-vous si vous étiez dans une salle de cinéma et que quelqu'un parlait fort pendant le film ?"
+    }
+  },
+  {
+    "id": "1a542ec9-5439-4185-93e0-366f0730e1d1",
+    "type": "wwyd",
+    "question": "What would you do if you are on a crowded bus or train and someone is taking up more than one seat?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du in einem überfüllten Bus oder Zug sitzt und jemand mehr als einen Platz einnimmt?",
+      "es": "¿Qué harías si vas en un autobús o tren abarrotado y alguien ocupa más de un asiento?",
+      "fr": "Que feriez-vous si vous étiez dans un bus ou un train bondé et que quelqu'un occupait plus d'un siège ?"
+    }
+  },
+  {
+    "id": "901302a9-175b-4743-9f16-34002ea435fb",
+    "type": "wwyd",
+    "question": "What would you do if you are at a friend's house and they ask you to help them cheat on a test?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du bei einem Freund bist und er dich bittet, ihm bei einer Prüfung zu helfen?",
+      "es": "¿Qué harías si estás en casa de un amigo y te pide que le ayudes a copiar en un examen?",
+      "fr": "Que feriez-vous si vous étiez chez un ami et qu'il vous demandait de l'aider à tricher à un examen ?"
+    }
+  },
+  {
+    "id": "b7fb77db-8bd1-4c86-a343-9a91ce025298",
+    "type": "wwyd",
+    "question": "What would you do if you are at a friend's house and they ask you to keep a secret from their parents?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du bei einem Freund bist und er dich bittet, ein Geheimnis vor seinen Eltern zu bewahren?",
+      "es": "¿Qué harías si estás en casa de un amigo y te pide que ocultes un secreto a sus padres?",
+      "fr": "Que feriez-vous si vous étiez chez un ami et qu'il vous demandait de garder un secret pour ses parents ?"
+    }
+  },
+  {
+    "id": "2f0d1718-e760-468a-abb8-5075a3fe6dea",
+    "type": "wwyd",
+    "question": "What would you do if you are at a friend's house and they ask you to do something dangerous?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du im Haus eines Freundes bist und er dich bittet, etwas Gefährliches zu tun?",
+      "es": "¿Qué harías si estás en casa de un amigo y te pide que hagas algo peligroso?",
+      "fr": "Que feriez-vous si vous étiez chez un ami et qu'il vous demandait de faire quelque chose de dangereux ?"
+    }
+  },
+  {
+    "id": "0b3815cf-5609-40e5-a33a-3edad4a26d7d",
+    "type": "wwyd",
+    "question": "What would you do if you are at a friend's house and they ask you to do something that goes against your values?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du bei einem Freund bist und er dich bittet, etwas zu tun, was deinen Werten widerspricht?",
+      "es": "¿Qué harías si estás en casa de un amigo y te pide que hagas algo que va en contra de tus valores?",
+      "fr": "Que feriez-vous si vous étiez chez un ami et qu'il vous demandait de faire quelque chose qui va à l'encontre de vos valeurs ?"
+    }
+  },
+  {
+    "id": "87d06684-2bfc-487d-8bac-d900f94ab256",
+    "type": "wwyd",
+    "question": "What would you do if you are at a friend's house and they ask you to try a substance that you are not comfortable with?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du bei einem Freund bist und er dich bittet, eine Substanz zu probieren, die du nicht verträgst?",
+      "es": "¿Qué harías si estás en casa de un amigo y te pide que pruebes una sustancia con la que no te sientes cómodo?",
+      "fr": "Que feriez-vous si vous étiez chez un ami et qu'il vous demandait d'essayer une substance avec laquelle vous n'êtes pas à l'aise ?"
+    }
+  },
+  {
+    "id": "3a630176-13b4-4730-b427-ae42b24cf332",
+    "type": "wwyd",
+    "question": "What would you do if you are at a friend's house and they ask you to break a rule?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du im Haus eines Freundes bist und er dich bittet, eine Regel zu brechen?",
+      "es": "¿Qué harías si estás en casa de un amigo y te pide que rompas una norma?",
+      "fr": "Que feriez-vous si vous étiez chez un ami et qu'il vous demandait d'enfreindre une règle ?"
+    }
+  },
+  {
+    "id": "ff1042f7-430d-45ed-83d4-7344d4556be1",
+    "type": "wwyd",
+    "question": "What would you do if you are at a friend's house and they ask you to lie for them?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du bei einem Freund bist und er dich bittet, für ihn zu lügen?",
+      "es": "¿Qué harías si estás en casa de un amigo y te pide que mientas por él?",
+      "fr": "Que feriez-vous si vous étiez chez un ami et qu'il vous demandait de mentir pour lui ?"
+    }
+  },
+  {
+    "id": "242ff18f-2135-4d8b-a4bc-8afdd7aad441",
+    "type": "wwyd",
+    "question": "What would you do if you are at a friend's house and they ask you to take the blame for something they did?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du im Haus eines Freundes bist und er dich bittet, die Schuld für etwas zu übernehmen, was er getan hat?",
+      "es": "¿Qué harías si estás en casa de un amigo y te pide que asumas la culpa de algo que ha hecho?",
+      "fr": "Que feriez-vous si vous étiez chez un ami et qu'il vous demandait d'assumer la responsabilité d'un acte qu'il a commis ?"
+    }
+  },
+  {
+    "id": "989d9591-4f4c-4f37-99e2-0684588af2a9",
+    "type": "wwyd",
+    "question": "What would you do if you are at a friend's house and they ask you to do something that could hurt someone?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du bei einem Freund bist und er dich bittet, etwas zu tun, das jemanden verletzen könnte?",
+      "es": "¿Qué harías si estás en casa de un amigo y te pide que hagas algo que puede herir a alguien?",
+      "fr": "Que feriez-vous si vous étiez chez un ami et qu'il vous demandait de faire quelque chose qui pourrait blesser quelqu'un ?"
+    }
+  },
+  {
+    "id": "97c6123d-86be-4027-b2de-8690b81d25ea",
+    "type": "wwyd",
+    "question": "What would you do if you are in a public place and you see someone being bullied?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du an einem öffentlichen Ort bist und siehst, dass jemand gemobbt wird?",
+      "es": "¿Qué harías si estás en un lugar público y ves que acosan a alguien?",
+      "fr": "Que feriez-vous si vous vous trouviez dans un lieu public et que vous voyiez une personne victime d'intimidation ?"
+    }
+  },
+  {
+    "id": "70786b78-f06e-4961-a69a-eaf8bfd0cf0d",
+    "type": "wwyd",
+    "question": "What would you do if a celebrity gives you a shoutout on Instagram without you asking for it?",
+    "translations": {
+      "de": "Was würdest du tun, wenn dir ein Prominenter auf Instagram ein \"Shoutout\" gibt, ohne dass du darum gebeten hast?",
+      "es": "¿Qué harías si un famoso te da un \"shoutout\" en Instagram sin que tú se lo pidas?",
+      "fr": "Que feriez-vous si une célébrité vous faisait un clin d'œil sur Instagram sans que vous l'ayez demandé ?"
+    }
+  },
+  {
+    "id": "a93388a7-6d1d-428e-99a6-5421a8885260",
+    "type": "wwyd",
+    "question": "What would you do if a celebrity kissed you without your consent?",
+    "translations": {
+      "de": "Was würdest du tun, wenn dich ein Prominenter ohne dein Einverständnis küsst?",
+      "es": "¿Qué harías si un famoso te besara sin tu consentimiento?",
+      "fr": "Que feriez-vous si une célébrité vous embrassait sans votre consentement ?"
+    }
+  },
+  {
+    "id": "6d55e2d0-2502-49a3-beb1-aedc8fec4671",
+    "type": "wwyd",
+    "question": "What would you do if a stranger kicks your balls and ran away?",
+    "translations": {
+      "de": "Was würdest du tun, wenn ein Fremder dir in die Eier tritt und wegläuft?",
+      "es": "¿Qué harías si un desconocido te patea las pelotas y sale corriendo?",
+      "fr": "Que feriez-vous si un inconnu vous donnait un coup de pied dans les couilles et s'enfuyait ?"
+    }
+  },
+  {
+    "id": "c4e9f9ed-0c8c-4b89-b85b-cdc1a22f252e",
+    "type": "wwyd",
+    "question": "What would you do if a stranger kicks your balls and run away?",
+    "translations": {
+      "de": "Was würdest du tun, wenn dir ein Fremder in die Eier tritt und wegläuft?",
+      "es": "¿Qué harías si un desconocido te patea las pelotas y sale corriendo?",
+      "fr": "Que feriez-vous si un inconnu vous donnait un coup de pied dans les couilles et s'enfuyait ?"
+    }
+  },
+  {
+    "id": "7eb6d5bd-da98-4e9d-a7d5-379a7c5d3107",
+    "type": "wwyd",
+    "question": "What would you do if all the electricity in the world just stopped?",
+    "translations": {
+      "de": "Was würdest du tun, wenn der Strom auf der Welt einfach ausfallen würde?",
+      "es": "¿Qué harías si se acabara la electricidad en todo el mundo?",
+      "fr": "Que feriez-vous si toute l'électricité du monde s'arrêtait ?"
+    }
+  },
+  {
+    "id": "c05a4bdf-09c0-4fdc-be37-bac62b0334d7",
+    "type": "wwyd",
+    "question": "What would you do if everyday emotions were confusing or challenging?",
+    "translations": {
+      "de": "Was würdest du tun, wenn die Gefühle im Alltag verwirrend oder herausfordernd wären?",
+      "es": "¿Qué harías si las emociones cotidianas fueran confusas o desafiantes?",
+      "fr": "Que feriez-vous si les émotions quotidiennes étaient déroutantes ou difficiles à gérer ?"
+    }
+  },
+  {
+    "id": "5adbcffc-d6ac-471c-a8f2-65f3372ab2ef",
+    "type": "wwyd",
+    "question": "What would you do if everyone disappeared into thin air?",
+    "translations": {
+      "de": "Was würdest du tun, wenn sich alle in Luft auflösen würden?",
+      "es": "¿Qué harías si todo el mundo desapareciera en el aire?",
+      "fr": "Que feriez-vous si tout le monde disparaissait dans la nature ?"
+    }
+  },
+  {
+    "id": "931f431f-628e-461f-aea3-f90cd758177b",
+    "type": "wwyd",
+    "question": "What would you do if everyone disappeared to thin air?",
+    "translations": {
+      "de": "Was würdest du tun, wenn sich alle in Luft auflösen würden?",
+      "es": "¿Qué harías si todo el mundo desapareciera en el aire?",
+      "fr": "Que feriez-vous si tout le monde disparaissait dans la nature ?"
+    }
+  },
+  {
+    "id": "cfaa3239-7199-44d0-8fda-a15f208ab435",
+    "type": "wwyd",
+    "question": "What would you do if everyone was happy?",
+    "translations": {
+      "de": "Was würdest du tun, wenn alle glücklich wären?",
+      "es": "¿Qué harías si todo el mundo fuera feliz?",
+      "fr": "Que feriez-vous si tout le monde était heureux ?"
+    }
+  },
+  {
+    "id": "7a3a26a2-9987-4025-b9c3-a3e2fae97939",
+    "type": "wwyd",
+    "question": "What would you do if everything was stolen including all cash, credit cards, and identification on your vacation?",
+    "translations": {
+      "de": "Was würdest du tun, wenn dir in deinem Urlaub alles gestohlen würde, einschließlich Bargeld, Kreditkarten und Ausweispapiere?",
+      "es": "¿Qué haría si le robasen todo, incluido el dinero en efectivo, las tarjetas de crédito y los documentos de identidad, durante sus vacaciones?",
+      "fr": "Que feriez-vous si l'on vous volait tout, y compris l'argent liquide, les cartes de crédit et les papiers d'identité pendant vos vacances ?"
+    }
+  },
+  {
+    "id": "45d35956-a6bb-49a9-919f-8b3b043095a4",
+    "type": "wwyd",
+    "question": "What would you do if it turned out that your entire life was only a dream?",
+    "translations": {
+      "de": "Was würdest du tun, wenn sich herausstellt, dass dein ganzes Leben nur ein Traum war?",
+      "es": "¿Qué harías si resultara que toda tu vida ha sido sólo un sueño?",
+      "fr": "Que feriez-vous s'il s'avérait que votre vie entière n'était qu'un rêve ?"
+    }
+  },
+  {
+    "id": "5cb16ef1-eb8f-45c7-99ee-5ac45669bf35",
+    "type": "wwyd",
+    "question": "What would you do if life is something you pay for?",
+    "translations": {
+      "de": "Was würdest du tun, wenn das Leben etwas ist, wofür du bezahlst?",
+      "es": "¿Qué harías si la vida es algo que se paga?",
+      "fr": "Que feriez-vous si la vie était payante ?"
+    }
+  },
+  {
+    "id": "77b7f477-ae1f-480e-a986-34d8406e600d",
+    "type": "wwyd",
+    "question": "What would you do if love is something you buy from the market?",
+    "translations": {
+      "de": "Was würdest du tun, wenn Liebe etwas ist, das du auf dem Markt kaufst?",
+      "es": "¿Qué harías si el amor fuera algo que se compra en el mercado?",
+      "fr": "Que feriez-vous si l'amour était quelque chose que vous achetiez au marché ?"
+    }
+  },
+  {
+    "id": "192a47d2-bbad-4ccc-a6f5-e4e2d85a3c4b",
+    "type": "wwyd",
+    "question": "What would you do if money didn’t matter?",
+    "translations": {
+      "de": "Was würdest du tun, wenn Geld keine Rolle spielen würde?",
+      "es": "What would you do if money didn’t matter?",
+      "fr": "What would you do if money didn’t matter?"
+    }
+  },
+  {
+    "id": "93ead1de-11c6-4951-bb4d-5442e74336c5",
+    "type": "wwyd",
+    "question": "What would you do if money wasn’t a concern and you could live anywhere you wish?",
+    "translations": {
+      "de": "Was würdest du tun, wenn Geld keine Rolle spielen würde und du überall leben könntest, wo du möchtest?",
+      "es": "¿Qué haría si el dinero no fuera un problema y pudiera vivir donde quisiera?",
+      "fr": "Que feriez-vous si l'argent n'était pas un problème et si vous pouviez vivre où vous le souhaitez ?"
+    }
+  },
+  {
+    "id": "16da00f8-b7d0-4fd0-8b4d-a1c1f3fda0d4",
+    "type": "wwyd",
+    "question": "What would you do if no one was watching you?",
+    "translations": {
+      "de": "Was würdest du tun, wenn dich niemand beobachten würde?",
+      "es": "¿Qué harías si nadie te vigilara?",
+      "fr": "Que feriez-vous si personne ne vous surveillait ?"
+    }
+  },
+  {
+    "id": "ba2e02df-4023-4090-a3eb-8f13fcf70068",
+    "type": "wwyd",
+    "question": "What would you do if police tried to arrest your friend for no reason?",
+    "translations": {
+      "de": "Was würdest du tun, wenn die Polizei deinen Freund oder deine Freundin ohne Grund verhaften wollte?",
+      "es": "¿Qué harías si la policía intentara detener a tu amigo sin motivo?",
+      "fr": "Que feriez-vous si la police essayait d'arrêter votre ami sans raison ?"
+    }
+  },
+  {
+    "id": "b02718ac-5182-4420-8a7c-75db9abd87ab",
+    "type": "wwyd",
+    "question": "What would you do if reincarnation was real, and you could choose what animal you become in your next life?",
+    "translations": {
+      "de": "Was würdest du tun, wenn es die Reinkarnation gäbe und du dir aussuchen könntest, welches Tier du in deinem nächsten Leben wirst?",
+      "es": "¿Qué harías si la reencarnación fuera real y pudieras elegir en qué animal te conviertes en tu próxima vida?",
+      "fr": "Que feriez-vous si la réincarnation était réelle et que vous pouviez choisir l'animal que vous deviendrez dans votre prochaine vie ?"
+    }
+  },
+  {
+    "id": "cfb2d6b6-859c-4383-95b3-c96649abc43d",
+    "type": "wwyd",
+    "question": "What would you do if someone cheats on you?",
+    "translations": {
+      "de": "Was würdest du tun, wenn dich jemand betrügt?",
+      "es": "¿Qué harías si alguien te engaña?",
+      "fr": "Que feriez-vous si quelqu'un vous trompait ?"
+    }
+  },
+  {
+    "id": "6897fe27-0c2c-45f2-ac43-8699d01e8868",
+    "type": "wwyd",
+    "question": "What would you do if someone finds out your biggest secret?",
+    "translations": {
+      "de": "Was würdest du tun, wenn jemand dein größtes Geheimnis herausfindet?",
+      "es": "¿Qué harías si alguien descubriera tu mayor secreto?",
+      "fr": "Que feriez-vous si quelqu'un découvrait votre plus grand secret ?"
+    }
+  },
+  {
+    "id": "89275e2f-945e-4cd4-ba0e-57eadf2b2faf",
+    "type": "wwyd",
+    "question": "What would you do if someone is crushing on you, and you like him or her as well?",
+    "translations": {
+      "de": "Was würdest du tun, wenn jemand in dich verknallt ist und du ihn oder sie auch magst?",
+      "es": "¿Qué harías si alguien está colado por ti y además te gusta?",
+      "fr": "Que feriez-vous si quelqu'un vous draguait et que vous l'aimiez aussi ?"
+    }
+  },
+  {
+    "id": "f752c022-ab4d-4315-bc27-069058297788",
+    "type": "wwyd",
+    "question": "What would you do if someone just gave you $1 million?",
+    "translations": {
+      "de": "Was würdest du tun, wenn dir jemand 1 Million Dollar schenken würde?",
+      "es": "¿Qué harías si alguien te diera un millón de dólares?",
+      "fr": "Que feriez-vous si quelqu'un vous donnait un million de dollars ?"
+    }
+  },
+  {
+    "id": "5cea4c4d-d7f2-41d8-8826-9847014be31f",
+    "type": "wwyd",
+    "question": "What would you do if someone offered you $10,000 every time they punched you in the face?",
+    "translations": {
+      "de": "Was würdest du tun, wenn dir jemand 10.000 Dollar für jeden Schlag ins Gesicht anbieten würde, den er dir verpasst?",
+      "es": "¿Qué harías si alguien te ofreciera 10.000 dólares cada vez que te diera un puñetazo en la cara?",
+      "fr": "Que feriez-vous si quelqu'un vous offrait 10 000 dollars à chaque fois qu'il vous donne un coup de poing au visage ?"
+    }
+  },
+  {
+    "id": "f2c07287-f0d2-4385-bdb9-28e2ef680d9a",
+    "type": "wwyd",
+    "question": "What would you do if someone tries to rob you while you’re at home sleeping?",
+    "translations": {
+      "de": "Was würdest du tun, wenn jemand versucht, dich auszurauben, während du zu Hause schläfst?",
+      "es": "¿Qué harías si alguien intenta robarte mientras estás en casa durmiendo?",
+      "fr": "Que feriez-vous si quelqu'un essayait de vous voler pendant que vous dormez chez vous ?"
+    }
+  },
+  {
+    "id": "b874d595-e6b2-426b-a98f-5e9f7e9d3ec9",
+    "type": "wwyd",
+    "question": "What would you do if the police try to arrest me for no reason?",
+    "translations": {
+      "de": "Was würdest du tun, wenn die Polizei versucht, mich ohne Grund zu verhaften?",
+      "es": "¿Qué harías si la policía intentara detenerme sin motivo?",
+      "fr": "Que feriez-vous si la police essayait de m'arrêter sans raison ?"
+    }
+  },
+  {
+    "id": "3ec2e3e1-c8dc-4a1e-bffe-15f37c248711",
+    "type": "wwyd",
+    "question": "What would you do if the recent technology crashes and we all go back to the early 40s?",
+    "translations": {
+      "de": "Was würdest du tun, wenn die aktuelle Technologie zusammenbricht und wir alle in die frühen 40er Jahre zurückkehren?",
+      "es": "¿Qué haría usted si la tecnología reciente se estrellara y todos volviéramos a principios de los años 40?",
+      "fr": "Que feriez-vous si la technologie récente s'effondrait et que nous revenions tous au début des années 40 ?"
+    }
+  },
+  {
+    "id": "f2617738-f480-4db8-8667-cf4a957152a9",
+    "type": "wwyd",
+    "question": "What would you do if the world was ending?",
+    "translations": {
+      "de": "Was würdest du tun, wenn die Welt untergehen würde?",
+      "es": "¿Qué harías si se acabara el mundo?",
+      "fr": "Que feriez-vous si c'était la fin du monde ?"
+    }
+  },
+  {
+    "id": "224ed494-9985-4389-a6c4-7092ec6c1dd4",
+    "type": "wwyd",
+    "question": "What would you do if there was a dragon stuck under your bed?",
+    "translations": {
+      "de": "Was würdest du tun, wenn ein Drache unter deinem Bett stecken würde?",
+      "es": "¿Qué harías si hubiera un dragón atrapado bajo tu cama?",
+      "fr": "Que feriez-vous si un dragon était coincé sous votre lit ?"
+    }
+  },
+  {
+    "id": "e6f74e53-92d1-44eb-8ffa-b76acadce8e7",
+    "type": "wwyd",
+    "question": "What would you do if there were no weekends?",
+    "translations": {
+      "de": "Was würdest du tun, wenn es keine Wochenenden gäbe?",
+      "es": "¿Qué haría si no hubiera fines de semana?",
+      "fr": "Que feriez-vous s'il n'y avait pas de week-ends ?"
+    }
+  },
+  {
+    "id": "213f28f7-70b6-4629-bcde-38583d92bfeb",
+    "type": "wwyd",
+    "question": "What would you do if there’s no reason to live?",
+    "translations": {
+      "de": "Was würdest du tun, wenn es keinen Grund zum Leben gibt?",
+      "es": "¿Qué harías si no hubiera razón para vivir?",
+      "fr": "Que feriez-vous s'il n'y avait plus de raison de vivre ?"
+    }
+  },
+  {
+    "id": "847ed105-7e60-4b25-bb68-e39fe972098a",
+    "type": "wwyd",
+    "question": "What would you do if there’s something like life after death?",
+    "translations": {
+      "de": "Was würdest du tun, wenn es so etwas wie ein Leben nach dem Tod gibt?",
+      "es": "¿Qué harías si existiera algo así como la vida después de la muerte?",
+      "fr": "Que feriez-vous s'il existait une vie après la mort ?"
+    }
+  },
+  {
+    "id": "00499967-6ece-4b96-b522-be60e335eca8",
+    "type": "wwyd",
+    "question": "What would you do if you and your best friend switched bodies?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du und dein bester Freund den Körper tauschen würden?",
+      "es": "¿Qué harías si tú y tu mejor amigo intercambiarais vuestros cuerpos?",
+      "fr": "Que feriez-vous si vous et votre meilleur ami changiez de corps ?"
+    }
+  },
+  {
+    "id": "46bbd739-8729-4b66-a067-a8f9fe814094",
+    "type": "wwyd",
+    "question": "What would you do if you and your best friend were stuck in a box?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du und dein bester Freund in einer Kiste festsitzen würden?",
+      "es": "¿Qué harías si tú y tu mejor amigo estuvierais atrapados en una caja?",
+      "fr": "Que feriez-vous si vous et votre meilleur ami étiez coincés dans une boîte ?"
+    }
+  },
+  {
+    "id": "f570c69f-2c1a-40ac-b508-9f20b41eb223",
+    "type": "wwyd",
+    "question": "What would you do if you were able to know what exactly you're doing 20 years from now but you could not change your future at all?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du genau wüsstest, was du in 20 Jahren machst, aber du könntest deine Zukunft überhaupt nicht ändern?",
+      "es": "¿Qué harías si pudieras saber qué harás exactamente dentro de 20 años pero no pudieras cambiar tu futuro en absoluto?",
+      "fr": "Que feriez-vous si vous pouviez savoir exactement ce que vous ferez dans 20 ans, mais que vous ne pouviez en aucun cas changer votre avenir ?"
+    }
+  },
+  {
+    "id": "b96e5a5c-c0eb-447d-8732-313585175302",
+    "type": "wwyd",
+    "question": "What would you do if you and your best friend were the only people on Earth?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du und dein bester Freund die einzigen Menschen auf der Erde wären?",
+      "es": "¿Qué harías si tú y tu mejor amigo fuerais las únicas personas de la Tierra?",
+      "fr": "Que feriez-vous si vous et votre meilleur ami étiez les seules personnes sur Terre ?"
+    }
+  },
+  {
+    "id": "30752f33-309b-489e-8f07-5d20341f1ffc",
+    "type": "wwyd",
+    "question": "What would you do if you and your 16-year-old self could have a sleepover?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du mit deinem 16-jährigen Ich eine Übernachtung haben könntest?",
+      "es": "¿Qué harías si pudieras quedarte a dormir con tu yo de 16 años?",
+      "fr": "Que feriez-vous si vous pouviez passer la nuit avec votre ami de 16 ans ?"
+    }
+  },
+  {
+    "id": "683edf35-f7f1-41b0-814a-55296723e52f",
+    "type": "wwyd",
+    "question": "What would you do if you became a girl/boy?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du ein Mädchen/Junge wärst?",
+      "es": "¿Qué harías si te convirtieras en chica/chico?",
+      "fr": "Que feriez-vous si vous deveniez une fille/un garçon ?"
+    }
+  },
+  {
+    "id": "9c3ae7b1-3626-4ae1-bce2-d8f4d936bff6",
+    "type": "wwyd",
+    "question": "What would you do if you became a robot?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du ein Roboter wärst?",
+      "es": "¿Qué harías si te convirtieras en un robot?",
+      "fr": "Que feriez-vous si vous deveniez un robot ?"
+    }
+  },
+  {
+    "id": "01c493d6-398a-4c74-bc31-8540be7d3f93",
+    "type": "wwyd",
+    "question": "What would you do if you become a celebrity?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du ein Prominenter wärst?",
+      "es": "¿Qué harías si te convirtieras en una celebridad?",
+      "fr": "Que feriez-vous si vous deveniez une célébrité ?"
+    }
+  },
+  {
+    "id": "894d5384-cd8f-45be-9f59-45f5be5e8ac6",
+    "type": "wwyd",
+    "question": "What would you do if you began to have uncontrollable bouts of crying or anger?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du unkontrollierbare Anfälle von Weinen oder Wut hättest?",
+      "es": "¿Qué harías si empezaras a tener ataques incontrolables de llanto o ira?",
+      "fr": "Que feriez-vous si vous commenciez à avoir des crises de larmes ou de colère incontrôlables ?"
+    }
+  },
+  {
+    "id": "9256822f-decf-4228-b19e-9a434540502b",
+    "type": "wwyd",
+    "question": "What would you do if you bumped another car in a parking lot and nobody saw you?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du auf einem Parkplatz ein anderes Auto rammst und dich niemand sieht?",
+      "es": "¿Qué harías si chocaras con otro coche en un aparcamiento y nadie te viera?",
+      "fr": "Que feriez-vous si vous heurtiez une autre voiture dans un parking et que personne ne vous voyait ?"
+    }
+  },
+  {
+    "id": "47ab222a-850d-4d6c-873c-a6060b44c7af",
+    "type": "wwyd",
+    "question": "What would you do if you can make dreams a reality?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du deine Träume verwirklichen könntest?",
+      "es": "¿Qué harías si pudieras hacer realidad tus sueños?",
+      "fr": "Que feriez-vous si vous pouviez réaliser vos rêves ?"
+    }
+  },
+  {
+    "id": "a65df168-fac4-44f0-96a5-c02357ec8d07",
+    "type": "wwyd",
+    "question": "What would you do if you can make dreams reality?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du deine Träume verwirklichen könntest?",
+      "es": "¿Qué harías si pudieras hacer realidad tus sueños?",
+      "fr": "Que feriez-vous si vous pouviez réaliser vos rêves ?"
+    }
+  },
+  {
+    "id": "401dcd77-fe57-4d34-a7ea-9b98a53276b5",
+    "type": "wwyd",
+    "question": "What would you do if you caught your partner cheating on you with your best friend?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du deinen Partner dabei erwischst, wie er dich mit deinem besten Freund betrügt?",
+      "es": "¿Qué harías si pillaras a tu pareja engañándote con tu mejor amiga?",
+      "fr": "Que feriez-vous si vous surpreniez votre partenaire en train de vous tromper avec votre meilleure amie ?"
+    }
+  },
+  {
+    "id": "b49bec3b-39c4-4067-bbb2-7a408c98bf6a",
+    "type": "wwyd",
+    "question": "What would you do if you could abolish laws and create laws?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du Gesetze abschaffen und Gesetze schaffen könntest?",
+      "es": "¿Qué harías si pudieras abolir leyes y crear leyes?",
+      "fr": "Que feriez-vous si vous pouviez abolir les lois et en créer de nouvelles ?"
+    }
+  },
+  {
+    "id": "1117121c-816b-4de9-b4f7-6e73bd5ea0e3",
+    "type": "wwyd",
+    "question": "What would you do if you could be a character in any book?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du eine Figur in einem beliebigen Buch sein könntest?",
+      "es": "¿Qué harías si pudieras ser un personaje de cualquier libro?",
+      "fr": "Que feriez-vous si vous pouviez être un personnage de n'importe quel livre ?"
+    }
+  },
+  {
+    "id": "5cb71c50-ec1e-4880-81f7-dc80ed7b7723",
+    "type": "wwyd",
+    "question": "What would you do if you could be another person for a day?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du einen Tag lang eine andere Person sein könntest?",
+      "es": "¿Qué harías si pudieras ser otra persona por un día?",
+      "fr": "Que feriez-vous si vous pouviez être une autre personne pendant une journée ?"
+    }
+  },
+  {
+    "id": "c6c45050-faef-4687-9bb0-463d6bbcb6ea",
+    "type": "wwyd",
+    "question": "What would you do if you could be granted one wish?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du einen Wunsch frei hättest?",
+      "es": "¿Qué haría si se le concediera un deseo?",
+      "fr": "Que feriez-vous si un seul souhait vous était accordé ?"
+    }
+  },
+  {
+    "id": "5bb07840-fef4-460c-bb8d-120ad5a3fea1",
+    "type": "wwyd",
+    "question": "What would you do if you could be invisible to the human eye?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du für das menschliche Auge unsichtbar sein könntest?",
+      "es": "¿Qué harías si pudieras ser invisible al ojo humano?",
+      "fr": "Que feriez-vous si vous pouviez être invisible à l'œil nu ?"
+    }
+  },
+  {
+    "id": "c2b5ff4f-7de5-492c-89f2-91edf3dbfa33",
+    "type": "wwyd",
+    "question": "What would you do if you could change laws?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du Gesetze ändern könntest?",
+      "es": "¿Qué haría si pudiera cambiar las leyes?",
+      "fr": "Que feriez-vous si vous pouviez changer les lois ?"
+    }
+  },
+  {
+    "id": "1604bef6-5409-474d-bb25-22121038bcae",
+    "type": "wwyd",
+    "question": "What would you do if you could change one event in history?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du ein Ereignis in der Geschichte ändern könntest?",
+      "es": "¿Qué haría si pudiera cambiar un acontecimiento de la historia?",
+      "fr": "Que feriez-vous si vous pouviez changer un événement de l'histoire ?"
+    }
+  },
+  {
+    "id": "6ff8c06e-7943-457a-915c-4281c11b1ce5",
+    "type": "wwyd",
+    "question": "What would you do if you could change/introduce one law?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du ein Gesetz ändern/einführen könntest?",
+      "es": "¿Qué haría si pudiera cambiar/introducir una ley?",
+      "fr": "Que feriez-vous si vous pouviez changer/introduire une loi ?"
+    }
+  },
+  {
+    "id": "e63a4c16-7d23-4cae-93df-9424620689c5",
+    "type": "wwyd",
+    "question": "What would you do if you could control your dreams?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du deine Träume kontrollieren könntest?",
+      "es": "¿Qué harías si pudieras controlar tus sueños?",
+      "fr": "Que feriez-vous si vous pouviez contrôler vos rêves ?"
+    }
+  },
+  {
+    "id": "76dc8bf0-be1e-46be-8f7a-0c1f88ce9573",
+    "type": "wwyd",
+    "question": "What would you do if you could design another planet?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du einen anderen Planeten entwerfen könntest?",
+      "es": "¿Qué harías si pudieras diseñar otro planeta?",
+      "fr": "Que feriez-vous si vous pouviez concevoir une autre planète ?"
+    }
+  },
+  {
+    "id": "f12fe6da-5c20-4b74-a58a-04a762c272c5",
+    "type": "wwyd",
+    "question": "What would you do if you could do any job?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du jeden Job machen könntest?",
+      "es": "¿Qué harías si pudieras hacer cualquier trabajo?",
+      "fr": "Que feriez-vous si vous pouviez exercer n'importe quel métier ?"
+    }
+  },
+  {
+    "id": "9d4ab2c6-7c4c-44de-93f2-7a79c18c4405",
+    "type": "wwyd",
+    "question": "What would you do if you could erase one thing from existence?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du eine Sache aus deinem Leben streichen könntest?",
+      "es": "¿Qué haría si pudiera borrar una cosa de la existencia?",
+      "fr": "Que feriez-vous si vous pouviez effacer une chose de l'existence ?"
+    }
+  },
+  {
+    "id": "18063603-44c1-4fc8-9d2a-6e125b32247f",
+    "type": "wwyd",
+    "question": "What would you do if you could have a free chip put in your brain so that you would know all basic knowledge?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du dir kostenlos einen Chip in dein Gehirn einsetzen lassen könntest, damit du alles Grundwissen kennst?",
+      "es": "¿Qué harías si te pudieran poner un chip gratis en el cerebro para que supieras todos los conocimientos básicos?",
+      "fr": "Que feriez-vous si l'on vous insérait gratuitement une puce dans le cerveau pour que vous connaissiez toutes les connaissances de base ?"
+    }
+  },
+  {
+    "id": "b033963c-43d5-4854-8018-af66de88ec0c",
+    "type": "wwyd",
+    "question": "What would you do if you could have any type of pet you want, with no limit on size of expense?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du jede Art von Haustier haben könntest, die du möchtest, ohne dass die Kosten dafür begrenzt wären?",
+      "es": "¿Qué haría si pudiera tener el tipo de mascota que quisiera, sin límite de gasto?",
+      "fr": "Que feriez-vous si vous pouviez avoir n'importe quel animal de compagnie, sans limite de dépenses ?"
+    }
+  },
+  {
+    "id": "2b3fe943-4eb3-4ce1-ba12-6ff525028946",
+    "type": "wwyd",
+    "question": "What would you do if you could hear what someone was thinking for a day?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du einen Tag lang hören könntest, was jemand denkt?",
+      "es": "¿Qué harías si pudieras oír lo que alguien piensa durante un día?",
+      "fr": "Que feriez-vous si vous pouviez entendre ce que pense quelqu'un pendant une journée ?"
+    }
+  },
+  {
+    "id": "d2de2724-fa49-4857-9520-2dcdceeef36a",
+    "type": "wwyd",
+    "question": "What would you do if you could hypnotize anyone just by looking at them?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du jeden hypnotisieren könntest, indem du ihn einfach nur ansiehst?",
+      "es": "¿Qué harías si pudieras hipnotizar a cualquiera con sólo mirarle?",
+      "fr": "Que feriez-vous si vous pouviez hypnotiser n'importe qui simplement en le regardant ?"
+    }
+  },
+  {
+    "id": "8391ad48-b2d5-44ee-896a-098b4d605b08",
+    "type": "wwyd",
+    "question": "What would you do if you could implant one false memory in the minds of everyone in your country?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du allen Menschen in deinem Land eine falsche Erinnerung einpflanzen könntest?",
+      "es": "¿Qué haría si pudiera implantar un recuerdo falso en la mente de todos los habitantes de su país?",
+      "fr": "Que feriez-vous si vous pouviez implanter un faux souvenir dans l'esprit de tous les habitants de votre pays ?"
+    }
+  },
+  {
+    "id": "ac6e3c2d-3679-41df-a533-ba67defe9900",
+    "type": "wwyd",
+    "question": "What would you do if you could live forever on the earth?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du für immer auf der Erde leben könntest?",
+      "es": "¿Qué harías si pudieras vivir eternamente en la Tierra?",
+      "fr": "Que feriez-vous si vous pouviez vivre éternellement sur terre ?"
+    }
+  },
+  {
+    "id": "cb0f63cd-208a-49a1-9ed5-03da099bd249",
+    "type": "wwyd",
+    "question": "What would you do if you could make any one species go extinct?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du eine bestimmte Art aussterben lassen könntest?",
+      "es": "¿Qué haría si pudiera extinguir una especie?",
+      "fr": "Que feriez-vous si vous pouviez faire disparaître n'importe quelle espèce ?"
+    }
+  },
+  {
+    "id": "82c5a989-3807-4ed6-bfa2-63c403f608b3",
+    "type": "wwyd",
+    "question": "What would you do if you could make your dreams a reality?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du deine Träume verwirklichen könntest?",
+      "es": "¿Qué haría si pudiera hacer realidad sus sueños?",
+      "fr": "Que feriez-vous si vous pouviez réaliser vos rêves ?"
+    }
+  },
+  {
+    "id": "6355fdc1-609b-4536-83cd-2c974f89a60f",
+    "type": "wwyd",
+    "question": "What would you do if you could meet any famous person, dead or alive?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du eine berühmte Person treffen könntest, egal ob tot oder lebendig?",
+      "es": "¿Qué haría si pudiera conocer a cualquier persona famosa, viva o muerta?",
+      "fr": "Que feriez-vous si vous pouviez rencontrer n'importe quelle personne célèbre, morte ou vivante ?"
+    }
+  },
+  {
+    "id": "6f8fd7d8-1587-4444-916b-be95365e2b29",
+    "type": "wwyd",
+    "question": "What would you do if you could move anywhere and still have a livable wage?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du überall hinziehen könntest und trotzdem einen existenzsichernden Lohn hättest?",
+      "es": "¿Qué harías si pudieras mudarte a cualquier parte y seguir teniendo un salario digno?",
+      "fr": "Que feriez-vous si vous pouviez déménager n'importe où tout en bénéficiant d'un salaire décent ?"
+    }
+  },
+  {
+    "id": "adb61f15-c565-477d-a122-8cb705cbccda",
+    "type": "wwyd",
+    "question": "What would you do if you could only eat one food for the rest of your life?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du für den Rest deines Lebens nur noch ein Lebensmittel essen könntest?",
+      "es": "¿Qué harías si sólo pudieras comer un alimento el resto de tu vida?",
+      "fr": "Que feriez-vous si vous ne pouviez manger qu'un seul aliment pour le reste de votre vie ?"
+    }
+  },
+  {
+    "id": "e0d538e3-7332-407a-940b-e6134c16168f",
+    "type": "wwyd",
+    "question": "What would you do if you could only view one website for the rest of your life?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du für den Rest deines Lebens nur noch eine Website besuchen könntest?",
+      "es": "¿Qué haría si sólo pudiera ver un sitio web el resto de su vida?",
+      "fr": "Que feriez-vous si vous ne pouviez consulter qu'un seul site web pour le reste de votre vie ?"
+    }
+  },
+  {
+    "id": "e0a09192-9d77-4574-b87a-ba91748b622b",
+    "type": "wwyd",
+    "question": "What would you do if you could put a new word in the dictionary?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du ein neues Wort in das Wörterbuch aufnehmen könntest?",
+      "es": "¿Qué harías si pudieras incluir una palabra nueva en el diccionario?",
+      "fr": "Que feriez-vous si vous pouviez ajouter un nouveau mot au dictionnaire ?"
+    }
+  },
+  {
+    "id": "0207a93d-7ba1-4e0a-9b07-046882e0aa40",
+    "type": "wwyd",
+    "question": "What would you do if you could read minds?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du Gedanken lesen könntest?",
+      "es": "¿Qué harías si pudieras leer la mente?",
+      "fr": "Que feriez-vous si vous pouviez lire dans les pensées ?"
+    }
+  },
+  {
+    "id": "7bdf0630-4779-44bb-a216-00181b77d3c1",
+    "type": "wwyd",
+    "question": "What would you do if you could see into the future?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du in die Zukunft sehen könntest?",
+      "es": "¿Qué harías si pudieras ver el futuro?",
+      "fr": "Que feriez-vous si vous pouviez voir l'avenir ?"
+    }
+  },
+  {
+    "id": "316c6c63-bb4b-4a81-8909-c09b130edb64",
+    "type": "wwyd",
+    "question": "What would you do if you could start a secret society?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du einen Geheimbund gründen könntest?",
+      "es": "¿Qué harías si pudieras fundar una sociedad secreta?",
+      "fr": "Que feriez-vous si vous pouviez fonder une société secrète ?"
+    }
+  },
+  {
+    "id": "e87da854-a19f-4b54-b3ec-0cd7462f7579",
+    "type": "wwyd",
+    "question": "What would you do if you could start any business?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du ein beliebiges Unternehmen gründen könntest?",
+      "es": "¿Qué harías si pudieras crear cualquier empresa?",
+      "fr": "Que feriez-vous si vous pouviez créer n'importe quelle entreprise ?"
+    }
+  },
+  {
+    "id": "7a3ee258-66bc-405d-9869-f419cc984034",
+    "type": "wwyd",
+    "question": "What would you do if you could swap body with any person for 24 hours?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du mit einer beliebigen Person für 24 Stunden den Körper tauschen könntest?",
+      "es": "¿Qué harías si pudieras cambiar de cuerpo con cualquier persona durante 24 horas?",
+      "fr": "Que feriez-vous si vous pouviez échanger votre corps avec n'importe quelle personne pendant 24 heures ?"
+    }
+  },
+  {
+    "id": "b4824ef8-d9dd-4711-8290-e887d142991a",
+    "type": "wwyd",
+    "question": "What would you do if you could switch gender for a day?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du für einen Tag das Geschlecht wechseln könntest?",
+      "es": "¿Qué harías si pudieras cambiar de sexo por un día?",
+      "fr": "Que feriez-vous si vous pouviez changer de sexe pour une journée ?"
+    }
+  },
+  {
+    "id": "2ca1cdf0-c137-4162-9260-a1fc630ea71e",
+    "type": "wwyd",
+    "question": "What would you do if you could transform yourself into any animal?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du dich in ein beliebiges Tier verwandeln könntest?",
+      "es": "¿Qué harías si pudieras transformarte en cualquier animal?",
+      "fr": "Que feriez-vous si vous pouviez vous transformer en n'importe quel animal ?"
+    }
+  },
+  {
+    "id": "357ba9ad-16bb-4e13-b20a-9f5f04ff4506",
+    "type": "wwyd",
+    "question": "What would you do if you didn’t have any anxiety?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du keine Ängste hättest?",
+      "es": "¿Qué harías si no tuvieras ansiedad?",
+      "fr": "Que feriez-vous si vous n'aviez pas d'anxiété ?"
+    }
+  },
+  {
+    "id": "c06a58a8-9376-4939-8b4d-1a0b10bd240d",
+    "type": "wwyd",
+    "question": "What would you do if you didn’t have to work for a living?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du nicht für deinen Lebensunterhalt arbeiten müsstest?",
+      "es": "¿Qué harías si no tuvieras que trabajar para ganarte la vida?",
+      "fr": "Que feriez-vous si vous n'aviez pas à travailler pour gagner votre vie ?"
+    }
+  },
+  {
+    "id": "70f2d6f0-981c-4e5a-b65b-72e4461924e1",
+    "type": "wwyd",
+    "question": "What would you do if you fall for someone?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du dich in jemanden verliebst?",
+      "es": "¿Qué harías si te enamoras de alguien?",
+      "fr": "Que feriez-vous si vous tombiez amoureux de quelqu'un ?"
+    }
+  },
+  {
+    "id": "9c6cb449-5626-4a32-99cd-c95fdb9ec800",
+    "type": "wwyd",
+    "question": "What would you do if you fell into a gorilla’s enclosure?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du in das Gehege eines Gorillas fällst?",
+      "es": "¿Qué harías si te cayeras en el recinto de un gorila?",
+      "fr": "Que feriez-vous si vous tombiez dans l'enclos d'un gorille ?"
+    }
+  },
+  {
+    "id": "1680e8ad-1a06-4ef4-b086-5193d3449386",
+    "type": "wwyd",
+    "question": "What would you do if you find out that you are not the father/mother of your kids?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du herausfindest, dass du nicht der Vater/die Mutter deiner Kinder bist?",
+      "es": "¿Qué harías si descubres que no eres el padre/madre de tus hijos?",
+      "fr": "Que feriez-vous si vous découvriez que vous n'êtes pas le père ou la mère de vos enfants ?"
+    }
+  },
+  {
+    "id": "eb8124df-18cb-4499-9a9d-22b5b032bf4a",
+    "type": "wwyd",
+    "question": "What would you do if you found 1000 dollars on the street?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du 1000 Dollar auf der Straße findest?",
+      "es": "¿Qué harías si te encontraras 1.000 dólares en la calle?",
+      "fr": "Que feriez-vous si vous trouviez 1000 dollars dans la rue ?"
+    }
+  },
+  {
+    "id": "1ec8efd4-cede-4ee2-b8cf-da5b1fafb106",
+    "type": "wwyd",
+    "question": "What would you do if you found a bag containing a large amount of cash?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du eine Tasche mit einer großen Menge Bargeld findest?",
+      "es": "¿Qué haría si encontrara una bolsa con una gran cantidad de dinero en efectivo?",
+      "fr": "Que feriez-vous si vous trouviez un sac contenant une grande quantité d'argent liquide ?"
+    }
+  },
+  {
+    "id": "90de2c49-50c9-4ed8-aa99-c28a0e81ded3",
+    "type": "wwyd",
+    "question": "What would you do if you found out that you are not the father/mother of your kids?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du herausfindest, dass du nicht der Vater/die Mutter deiner Kinder bist?",
+      "es": "¿Qué harías si descubrieras que no eres el padre/madre de tus hijos?",
+      "fr": "Que feriez-vous si vous découvriez que vous n'êtes pas le père ou la mère de vos enfants ?"
+    }
+  },
+  {
+    "id": "872b86ae-6b6e-4f0b-abfa-60c364df238f",
+    "type": "wwyd",
+    "question": "What would you do if you found out the world was ending?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du herausfinden würdest, dass die Welt untergeht?",
+      "es": "¿Qué harías si te enterases de que el mundo se acaba?",
+      "fr": "Que feriez-vous si vous appreniez la fin du monde ?"
+    }
+  },
+  {
+    "id": "f10b11c2-2072-4c59-87fc-d98870f53094",
+    "type": "wwyd",
+    "question": "What would you do if you found out you could stop time?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du herausfinden würdest, dass du die Zeit anhalten kannst?",
+      "es": "¿Qué harías si descubrieras que puedes detener el tiempo?",
+      "fr": "Que feriez-vous si vous découvriez que vous pouvez arrêter le temps ?"
+    }
+  },
+  {
+    "id": "5a0b7abf-6b8a-4534-af38-8a407290fda3",
+    "type": "wwyd",
+    "question": "What would you do if you found out you could talk to animals?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du herausfinden würdest, dass du mit Tieren sprechen kannst?",
+      "es": "¿Qué harías si descubrieras que puedes hablar con los animales?",
+      "fr": "Que feriez-vous si vous découvriez que vous pouvez parler aux animaux ?"
+    }
+  },
+  {
+    "id": "c17c7c50-18d5-4f03-a4c4-58b0d9f830cd",
+    "type": "wwyd",
+    "question": "What would you do if you found out you had a brother or sister you had never met?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du herausfinden würdest, dass du einen Bruder oder eine Schwester hast, die du noch nie getroffen hast?",
+      "es": "¿Qué harías si descubrieras que tienes un hermano o una hermana a los que no conoces?",
+      "fr": "Que feriez-vous si vous découvriez que vous avez un frère ou une sœur que vous n'avez jamais rencontré ?"
+    }
+  },
+  {
+    "id": "432a4651-098b-4aaf-b920-c2a119b6f29b",
+    "type": "wwyd",
+    "question": "What would you do if you found out you were pregnant at this moment?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du in diesem Moment erfahren würdest, dass du schwanger bist?",
+      "es": "¿Qué harías si descubrieras que estás embarazada en este momento?",
+      "fr": "Que feriez-vous si vous appreniez que vous êtes enceinte à ce moment précis ?"
+    }
+  },
+  {
+    "id": "4aafde6f-0c6f-48a1-ac53-973414c5ee0e",
+    "type": "wwyd",
+    "question": "What would you do if you found out your boss was embezzling company funds?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du herausfindest, dass dein Chef Firmengelder veruntreut?",
+      "es": "¿Qué harías si descubrieras que tu jefe está malversando fondos de la empresa?",
+      "fr": "Que feriez-vous si vous découvriez que votre patron détourne des fonds de l'entreprise ?"
+    }
+  },
+  {
+    "id": "0a327de2-8dfa-40b8-b75a-c9fde4a5664b",
+    "type": "wwyd",
+    "question": "What would you do if you had a time machine?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du eine Zeitmaschine hättest?",
+      "es": "¿Qué harías si tuvieras una máquina del tiempo?",
+      "fr": "Que feriez-vous si vous aviez une machine à remonter le temps ?"
+    }
+  },
+  {
+    "id": "1ca7d7fb-8566-4d80-ac45-db77dccea2f6",
+    "type": "wwyd",
+    "question": "What would you do if you had all the time and money in the world?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du alle Zeit und alles Geld der Welt hättest?",
+      "es": "¿Qué harías si tuvieras todo el tiempo y el dinero del mundo?",
+      "fr": "Que feriez-vous si vous disposiez de tout le temps et de tout l'argent du monde ?"
+    }
+  },
+  {
+    "id": "309ab2d1-cdf7-48c2-a111-ebce6a5d903f",
+    "type": "wwyd",
+    "question": "What would you do if you had five years to live?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du noch fünf Jahre zu leben hättest?",
+      "es": "¿Qué haría si le quedaran cinco años de vida?",
+      "fr": "Que feriez-vous s'il vous restait cinq ans à vivre ?"
+    }
+  },
+  {
+    "id": "4f1b641f-d534-4170-9601-0f8b50ea4eff",
+    "type": "wwyd",
+    "question": "What would you do if you had only 24 hours to live?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du nur noch 24 Stunden zu leben hättest?",
+      "es": "¿Qué haría si sólo le quedaran 24 horas de vida?",
+      "fr": "Que feriez-vous s'il ne vous restait que 24 heures à vivre ?"
+    }
+  },
+  {
+    "id": "834c95fc-c1b6-4ac3-8f93-47260c2f8c8c",
+    "type": "wwyd",
+    "question": "What would you do if you had the chance to fly to space?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du die Chance hättest, ins All zu fliegen?",
+      "es": "¿Qué haría si tuviera la oportunidad de volar al espacio?",
+      "fr": "Que feriez-vous si vous aviez la possibilité de voler dans l'espace ?"
+    }
+  },
+  {
+    "id": "3b2f432d-43d5-4d9a-b51c-5382d9c3c12d",
+    "type": "wwyd",
+    "question": "What would you do if you had the opportunity to have any wish granted?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du die Möglichkeit hättest, dir einen Wunsch zu erfüllen?",
+      "es": "¿Qué harías si tuvieras la oportunidad de que te concedieran cualquier deseo?",
+      "fr": "Que feriez-vous si vous aviez la possibilité d'exaucer n'importe quel souhait ?"
+    }
+  },
+  {
+    "id": "eec83bd8-1530-4900-b330-8bd8fc667dfb",
+    "type": "wwyd",
+    "question": "What would you do if you had the opportunity to time travel once?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du die Möglichkeit hättest, einmal durch die Zeit zu reisen?",
+      "es": "¿Qué haría si tuviera la oportunidad de viajar en el tiempo una vez?",
+      "fr": "Que feriez-vous si vous aviez la possibilité de voyager dans le temps une fois ?"
+    }
+  },
+  {
+    "id": "91d6c33a-dc37-4ce8-9a3a-5aee7c9359b7",
+    "type": "wwyd",
+    "question": "What would you do if you had the power to go to the future and the past?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du die Macht hättest, in die Zukunft und in die Vergangenheit zu reisen?",
+      "es": "¿Qué harías si tuvieras el poder de ir al futuro y al pasado?",
+      "fr": "Que feriez-vous si vous aviez le pouvoir d'aller dans le futur et dans le passé ?"
+    }
+  },
+  {
+    "id": "45a353ee-dab2-4cf1-8d13-e1e23bc237cb",
+    "type": "wwyd",
+    "question": "What would you do if you had to be stuck in your room for a month?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du einen Monat lang in deinem Zimmer festsitzen müsstest?",
+      "es": "¿Qué harías si tuvieras que quedarte encerrado en tu habitación durante un mes?",
+      "fr": "Que feriez-vous si vous deviez rester coincé dans votre chambre pendant un mois ?"
+    }
+  },
+  {
+    "id": "8284ad9d-e54a-45b8-b33a-52c6b23491b8",
+    "type": "wwyd",
+    "question": "What would you do if you had to choose between wealth and fame?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du zwischen Reichtum und Ruhm wählen müsstest?",
+      "es": "¿Qué haría si tuviera que elegir entre la riqueza y la fama?",
+      "fr": "Que feriez-vous si vous deviez choisir entre la richesse et la célébrité ?"
+    }
+  },
+  {
+    "id": "943d8ee1-e173-4f5f-b426-83234f999be8",
+    "type": "wwyd",
+    "question": "What would you do if you had to choose between winning the lottery or live twice as long?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du die Wahl hättest, im Lotto zu gewinnen oder doppelt so lange zu leben?",
+      "es": "¿Qué haría si tuviera que elegir entre ganar la lotería o vivir el doble?",
+      "fr": "Que feriez-vous si vous deviez choisir entre gagner à la loterie ou vivre deux fois plus longtemps ?"
+    }
+  },
+  {
+    "id": "0022704c-1ee5-47a1-9fbc-3f411a993d35",
+    "type": "wwyd",
+    "question": "What would you do if you had to choose to be dumb or ugly?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du wählen müsstest, ob du dumm oder hässlich bist?",
+      "es": "¿Qué harías si tuvieras que elegir entre ser tonto o feo?",
+      "fr": "Que feriez-vous si vous deviez choisir d'être bête ou laid ?"
+    }
+  },
+  {
+    "id": "b575be84-4415-4c30-8532-dd6ae95224a4",
+    "type": "wwyd",
+    "question": "What would you do if you had to give up your sight or your hearing?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du auf dein Augenlicht oder dein Gehör verzichten müsstest?",
+      "es": "¿Qué harías si tuvieras que renunciar a la vista o al oído?",
+      "fr": "Que feriez-vous si vous deviez renoncer à la vue ou à l'ouïe ?"
+    }
+  },
+  {
+    "id": "d0c2c2d3-e940-456a-ba05-0268cbd78768",
+    "type": "wwyd",
+    "question": "What would you do if you had to live with it always being nighttime or daytime?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du damit leben müsstest, dass es immer nachts oder tagsüber ist?",
+      "es": "¿Qué harías si tuvieras que vivir siempre de noche o de día?",
+      "fr": "Que feriez-vous si vous deviez vivre avec le fait qu'il fasse toujours nuit ou jour ?"
+    }
+  },
+  {
+    "id": "56652b3b-58a0-40c6-817b-6848e93dce5a",
+    "type": "wwyd",
+    "question": "What would you do if you had two weeks free to do anything you wanted?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du zwei Wochen Zeit hättest, alles zu tun, was du willst?",
+      "es": "¿Qué harías si tuvieras dos semanas libres para hacer lo que quisieras?",
+      "fr": "Que feriez-vous si vous aviez deux semaines de libre pour faire ce que vous voulez ?"
+    }
+  },
+  {
+    "id": "d1bf5b5d-03b2-4564-b87a-2f9da3a8a0f4",
+    "type": "wwyd",
+    "question": "What would you do if you had wings?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du Flügel hättest?",
+      "es": "¿Qué harías si tuvieras alas?",
+      "fr": "Que feriez-vous si vous aviez des ailes ?"
+    }
+  },
+  {
+    "id": "e328d811-da19-445f-a28c-2e26224ecec6",
+    "type": "wwyd",
+    "question": "What would you do if you had your own intergalactic space ship roughly the size of a house?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du dein eigenes intergalaktisches Raumschiff hättest, das so groß wie ein Haus ist?",
+      "es": "¿Qué haría si tuviera su propia nave espacial intergaláctica del tamaño aproximado de una casa?",
+      "fr": "Que feriez-vous si vous aviez votre propre vaisseau spatial intergalactique de la taille d'une maison ?"
+    }
+  },
+  {
+    "id": "af4a45fc-7b9c-444f-aeec-a5bcb36b557a",
+    "type": "wwyd",
+    "question": "What would you do if you have an adult’s abilities?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du die Fähigkeiten eines Erwachsenen hättest?",
+      "es": "¿Qué harías si tuvieras las capacidades de un adulto?",
+      "fr": "Que feriez-vous si vous aviez les capacités d'un adulte ?"
+    }
+  },
+  {
+    "id": "e569f4bc-5ab1-4bd1-9f70-b6e434f0b677",
+    "type": "wwyd",
+    "question": "What would you do if you have superpowers?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du Superkräfte hättest?",
+      "es": "¿Qué harías si tuvieras superpoderes?",
+      "fr": "Que feriez-vous si vous aviez des super-pouvoirs ?"
+    }
+  },
+  {
+    "id": "1e783c10-2c24-446a-bf1e-85b2a1e478e5",
+    "type": "wwyd",
+    "question": "What would you do if you have the gadgets to control the whole world?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du die Gadgets hättest, um die ganze Welt zu kontrollieren?",
+      "es": "¿Qué harías si tuvieras los artilugios para controlar el mundo entero?",
+      "fr": "Que feriez-vous si vous aviez les gadgets nécessaires pour contrôler le monde entier ?"
+    }
+  },
+  {
+    "id": "c2a0605c-44e6-46a9-8bd3-6c7e0815969f",
+    "type": "wwyd",
+    "question": "What would you do if you have the power to go to the future and the past?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du die Macht hättest, in die Zukunft und in die Vergangenheit zu reisen?",
+      "es": "¿Qué harías si tuvieras el poder de ir al futuro y al pasado?",
+      "fr": "Que feriez-vous si vous aviez le pouvoir d'aller dans le futur et dans le passé ?"
+    }
+  },
+  {
+    "id": "5fe66d8a-aabc-4b4a-95bc-c530e281f23b",
+    "type": "wwyd",
+    "question": "What would you do if you have to sacrifice someone you love to live or you die?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du jemanden opfern müsstest, den du liebst, um zu leben oder zu sterben?",
+      "es": "¿Qué harías si tuvieras que sacrificar a alguien a quien quieres para vivir o morir?",
+      "fr": "Que feriez-vous si vous deviez sacrifier quelqu'un que vous aimez pour vivre ou mourir ?"
+    }
+  },
+  {
+    "id": "ab7d055c-85ae-4bf7-a350-7d9b3827e96f",
+    "type": "wwyd",
+    "question": "What would you do if you knew that you would go blind in two months?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du wüsstest, dass du in zwei Monaten blind werden würdest?",
+      "es": "¿Qué harías si supieras que te vas a quedar ciego en dos meses?",
+      "fr": "Que feriez-vous si vous saviez que vous deviendrez aveugle dans deux mois ?"
+    }
+  },
+  {
+    "id": "3d35e39a-af22-4965-b545-e77b62ac96c4",
+    "type": "wwyd",
+    "question": "What would you do if you knew you were going to die tomorrow?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du wüsstest, dass du morgen sterben würdest?",
+      "es": "¿Qué harías si supieras que vas a morir mañana?",
+      "fr": "Que feriez-vous si vous saviez que vous allez mourir demain ?"
+    }
+  },
+  {
+    "id": "6ab93d1f-9f5f-4e0b-8e6d-af6140916d3a",
+    "type": "wwyd",
+    "question": "What would you do if you lose all you have worked for in life overnight?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du über Nacht alles verlierst, wofür du im Leben gearbeitet hast?",
+      "es": "¿Qué harías si de la noche a la mañana perdieras todo por lo que has trabajado en la vida?",
+      "fr": "Que feriez-vous si vous perdiez du jour au lendemain tout ce que vous avez gagné dans la vie ?"
+    }
+  },
+  {
+    "id": "db324edc-ba37-4121-9f56-550daccdddc3",
+    "type": "wwyd",
+    "question": "What would you do if you meet an alien?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du einen Außerirdischen triffst?",
+      "es": "¿Qué harías si te encontraras con un extraterrestre?",
+      "fr": "Que feriez-vous si vous rencontriez un extraterrestre ?"
+    }
+  },
+  {
+    "id": "1062cf12-7a08-47c2-bbaa-4e88df66f69e",
+    "type": "wwyd",
+    "question": "What would you do if you permanently felt zero pain?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du dauerhaft keine Schmerzen hättest?",
+      "es": "¿Qué harías si sintieras permanentemente cero dolor?",
+      "fr": "Que feriez-vous si vous ne ressentiez aucune douleur en permanence ?"
+    }
+  },
+  {
+    "id": "bc8baff7-b646-4c74-b108-ebc189f7869d",
+    "type": "wwyd",
+    "question": "What would you do if you saw a person crying on a park bench?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du eine weinende Person auf einer Parkbank siehst?",
+      "es": "¿Qué harías si vieras a una persona llorando en un banco del parque?",
+      "fr": "Que feriez-vous si vous voyiez une personne pleurer sur un banc public ?"
+    }
+  },
+  {
+    "id": "441e184c-8d5e-4264-849e-5ab49027b143",
+    "type": "wwyd",
+    "question": "What would you do if you saw someone in public with toilet paper stuck to their shoe?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du jemanden in der Öffentlichkeit mit Klopapier an seinem Schuh siehst?",
+      "es": "¿Qué harías si vieras a alguien en público con papel higiénico pegado al zapato?",
+      "fr": "Que feriez-vous si vous voyiez quelqu'un en public avec du papier toilette collé à sa chaussure ?"
+    }
+  },
+  {
+    "id": "bacad5b7-2b3d-4e6c-9224-449bd5d87224",
+    "type": "wwyd",
+    "question": "What would you do if you saw someone steal something from the grocery store?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du siehst, dass jemand etwas aus dem Supermarkt stiehlt?",
+      "es": "¿Qué harías si vieras a alguien robar algo en el supermercado?",
+      "fr": "Que feriez-vous si vous voyiez quelqu'un voler quelque chose à l'épicerie ?"
+    }
+  },
+  {
+    "id": "4c03dcd4-6bf4-40a7-b20f-1613fe3dee18",
+    "type": "wwyd",
+    "question": "What would you do if you wake up and realize that you cannot move your body anymore?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du aufwachst und merkst, dass du deinen Körper nicht mehr bewegen kannst?",
+      "es": "¿Qué harías si te despiertas y te das cuenta de que ya no puedes mover el cuerpo?",
+      "fr": "Que feriez-vous si vous vous réveilliez et réalisiez que vous ne pouvez plus bouger votre corps ?"
+    }
+  },
+  {
+    "id": "c95bf995-147b-427e-b982-b34878dce4b8",
+    "type": "wwyd",
+    "question": "What would you do if you wake up and see yourself in wonderland?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du aufwachst und dich im Wunderland siehst?",
+      "es": "¿Qué harías si te despertaras y te vieras en el país de las maravillas?",
+      "fr": "Que feriez-vous si vous vous réveilliez au pays des merveilles ?"
+    }
+  },
+  {
+    "id": "54ba211a-3757-4334-b174-8f39157ffb3c",
+    "type": "wwyd",
+    "question": "What would you do if you went to a public restroom and discovered that there was no paper?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du auf eine öffentliche Toilette gehst und feststellst, dass es dort kein Papier gibt?",
+      "es": "¿Qué harías si fueras a un baño público y descubrieras que no hay papel?",
+      "fr": "Que feriez-vous si vous vous rendiez dans des toilettes publiques et découvriez qu'il n'y a pas de papier ?"
+    }
+  },
+  {
+    "id": "cefce4e2-dad5-4471-8b56-62561bbb7d7a",
+    "type": "wwyd",
+    "question": "What would you do if you were abducted by aliens?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du von Aliens entführt würdest?",
+      "es": "¿Qué harías si fueras abducido por extraterrestres?",
+      "fr": "Que feriez-vous si vous étiez enlevé par des extraterrestres ?"
+    }
+  },
+  {
+    "id": "3ce901f9-ca7a-4fc7-9f07-7e08d736ad12",
+    "type": "wwyd",
+    "question": "What would you do if you were all of a sudden invisible?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du auf einmal unsichtbar wärst?",
+      "es": "¿Qué harías si de repente fueras invisible?",
+      "fr": "Que feriez-vous si vous étiez soudainement invisible ?"
+    }
+  },
+  {
+    "id": "0b9ec8e1-ff7c-4470-bb81-e85abbfb3d9e",
+    "type": "wwyd",
+    "question": "What would you do if you were arrested?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du verhaftet würdest?",
+      "es": "¿Qué harías si te detuvieran?",
+      "fr": "Que feriez-vous si vous étiez arrêté ?"
+    }
+  },
+  {
+    "id": "fbafd93e-f004-46fb-89b2-e32a702744c6",
+    "type": "wwyd",
+    "question": "What would you do if you were at home alone at night and heard someone in your house?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du nachts allein zu Hause bist und jemanden in deinem Haus hörst?",
+      "es": "¿Qué harías si estuvieras solo en casa por la noche y oyeras a alguien en tu casa?",
+      "fr": "Que feriez-vous si vous étiez seul chez vous la nuit et que vous entendiez quelqu'un dans votre maison ?"
+    }
+  },
+  {
+    "id": "d0238d29-9de9-4d99-af9d-5a5cf4c2af82",
+    "type": "wwyd",
+    "question": "What would you do if you were banished to a desert island?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du auf eine einsame Insel verbannt würdest?",
+      "es": "¿Qué haría si le desterraran a una isla desierta?",
+      "fr": "Que feriez-vous si vous étiez banni sur une île déserte ?"
+    }
+  },
+  {
+    "id": "19916446-999e-47f3-bd71-78a539b06c24",
+    "type": "wwyd",
+    "question": "What would you do if you were given a change to go into space?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du die Möglichkeit hättest, ins All zu fliegen?",
+      "es": "¿Qué harías si te dieran la oportunidad de ir al espacio?",
+      "fr": "Que feriez-vous si vous aviez la possibilité d'aller dans l'espace ?"
+    }
+  },
+  {
+    "id": "aba6a771-ae3f-4e2b-afff-6382547a7809",
+    "type": "wwyd",
+    "question": "What would you do if you were given superpowers?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du Superkräfte hättest?",
+      "es": "¿Qué harías si te dieran superpoderes?",
+      "fr": "Que feriez-vous si vous aviez des super-pouvoirs ?"
+    }
+  },
+  {
+    "id": "3a6c6de2-80f6-4a91-aa32-bb0e406f5aec",
+    "type": "wwyd",
+    "question": "What would you do if you were given the chance to go into outer space?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du die Chance hättest, ins Weltall zu fliegen?",
+      "es": "¿Qué haría si le dieran la oportunidad de ir al espacio exterior?",
+      "fr": "Que feriez-vous si vous aviez la possibilité d'aller dans l'espace ?"
+    }
+  },
+  {
+    "id": "59b77b55-5d4c-48f4-8cc3-71be2f2bc691",
+    "type": "wwyd",
+    "question": "What would you do if you were given the rather lame superpower of being able to make any food you touch go bad?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du die ziemlich lahme Superkraft hättest, jedes Essen, das du anfasst, schlecht werden zu lassen?",
+      "es": "¿Qué harías si te dieran el superpoder bastante patético de poder hacer que cualquier alimento que toques se estropee?",
+      "fr": "Que feriez-vous si l'on vous donnait le superpouvoir, plutôt boiteux, de pouvoir faire pourrir n'importe quel aliment que vous touchez ?"
+    }
+  },
+  {
+    "id": "5398baa9-3e8a-43d8-83d0-3c1701c7fe23",
+    "type": "wwyd",
+    "question": "What would you do if you were given three wishes? What would you wish for?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du drei Wünsche frei hättest? Was würdest du dir wünschen?",
+      "es": "¿Qué harías si te concedieran tres deseos? ¿Qué desearías?",
+      "fr": "Que feriez-vous si l'on vous donnait trois souhaits ? Que souhaiteriez-vous ?"
+    }
+  },
+  {
+    "id": "436b40c1-bed2-4d9d-9237-239b6f52931a",
+    "type": "wwyd",
+    "question": "What would you do if you were a god?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du ein Gott wärst?",
+      "es": "¿Qué harías si fueras un dios?",
+      "fr": "Que feriez-vous si vous étiez un dieu ?"
+    }
+  },
+  {
+    "id": "09d2026e-dd4d-4e9e-98cb-cf3746044608",
+    "type": "wwyd",
+    "question": "What would you do if you were immortal?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du unsterblich wärst?",
+      "es": "¿Qué harías si fueras inmortal?",
+      "fr": "Que feriez-vous si vous étiez immortel ?"
+    }
+  },
+  {
+    "id": "7453bf79-bbad-4b87-8d9d-4c14974bd325",
+    "type": "wwyd",
+    "question": "What would you do if you were in a bank and two people entered and started a hold up?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du in einer Bank wärst und zwei Leute reinkämen und einen Überfall begännen?",
+      "es": "¿Qué harías si estuvieras en un banco y entraran dos personas e iniciaran un atraco?",
+      "fr": "Que feriez-vous si vous étiez dans une banque et que deux personnes entraient et commençaient un hold-up ?"
+    }
+  },
+  {
+    "id": "d8acc32c-62f6-43b3-9878-a7119d113388",
+    "type": "wwyd",
+    "question": "What would you do if you were invisible?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du unsichtbar wärst?",
+      "es": "¿Qué harías si fueras invisible?",
+      "fr": "Que feriez-vous si vous étiez invisible ?"
+    }
+  },
+  {
+    "id": "7d30d03f-2961-4aa4-a613-fa2af7214385",
+    "type": "wwyd",
+    "question": "What would you do if you were kidnapped?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du gekidnappt würdest?",
+      "es": "¿Qué harías si te secuestraran?",
+      "fr": "Que feriez-vous si vous étiez kidnappé ?"
+    }
+  },
+  {
+    "id": "c7c87367-25b5-45f8-8647-95a1bb3774ba",
+    "type": "wwyd",
+    "question": "What would you do if you were left on an isolated island?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du auf einer einsamen Insel zurückgelassen würdest?",
+      "es": "¿Qué harías si te dejaran en una isla aislada?",
+      "fr": "Que feriez-vous si vous étiez abandonné sur une île isolée ?"
+    }
+  },
+  {
+    "id": "34d83090-71c6-4dfc-af87-ffc5cb9fc739",
+    "type": "wwyd",
+    "question": "What would you do if you were offered everything in life for free, but you have to live alone without the internet?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du alles im Leben umsonst bekommst, aber alleine ohne Internet leben musst?",
+      "es": "¿Qué harías si te ofrecieran todo gratis en la vida, pero tuvieras que vivir solo y sin Internet?",
+      "fr": "Que feriez-vous si l'on vous offrait tout gratuitement dans la vie, mais que vous deviez vivre seul sans internet ?"
+    }
+  },
+  {
+    "id": "d69f0427-2077-49f8-9bbc-92751f252b20",
+    "type": "wwyd",
+    "question": "What would you do if you were offered the choice of taking a vacation anywhere in the world for any length of time you wish?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du die Wahl hättest, überall auf der Welt für eine beliebige Zeit Urlaub zu machen?",
+      "es": "¿Qué haría si le ofrecieran la posibilidad de irse de vacaciones a cualquier parte del mundo durante el tiempo que quisiera?",
+      "fr": "Que feriez-vous si l'on vous offrait la possibilité de partir en vacances n'importe où dans le monde pour la durée de votre choix ?"
+    }
+  },
+  {
+    "id": "f432f49c-0218-45a4-b2c1-a9195571104a",
+    "type": "wwyd",
+    "question": "What would you do if you were rich?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du reich wärst?",
+      "es": "¿Qué harías si fueras rico?",
+      "fr": "Que feriez-vous si vous étiez riche ?"
+    }
+  },
+  {
+    "id": "729b1000-a111-43fb-90e3-68d364e18a2c",
+    "type": "wwyd",
+    "question": "What would you do if you were stuck with a pregnant woman in an elevator, and she went into labor?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du mit einer schwangeren Frau in einem Aufzug festsitzt und sie die Wehen bekommt?",
+      "es": "¿Qué harías si estuvieras atrapado con una mujer embarazada en un ascensor y se pusiera de parto?",
+      "fr": "Que feriez-vous si vous étiez coincé avec une femme enceinte dans un ascenseur et qu'elle commençait à accoucher ?"
+    }
+  },
+  {
+    "id": "139e8ec7-297c-476d-a263-95a01c76bfc7",
+    "type": "wwyd",
+    "question": "What would you do if you were suddenly poor and homeless?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du plötzlich arm und obdachlos wärst?",
+      "es": "¿Qué harías si de repente fueras pobre y te quedaras sin casa?",
+      "fr": "Que feriez-vous si vous étiez soudainement pauvre et sans abri ?"
+    }
+  },
+  {
+    "id": "f9f9f9c3-c386-40d8-9af7-3d1e88670857",
+    "type": "wwyd",
+    "question": "What would you do if you were swimming and lost your bathing suit?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du schwimmen gehst und deinen Badeanzug verlierst?",
+      "es": "¿Qué harías si estuvieras nadando y perdieras el bañador?",
+      "fr": "Que feriez-vous si vous étiez en train de nager et que vous perdiez votre maillot de bain ?"
+    }
+  },
+  {
+    "id": "a857820e-74bd-4771-ba08-dd85895725ed",
+    "type": "wwyd",
+    "question": "What would you do if you were the first human to make contact with aliens?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du der erste Mensch wärst, der mit Außerirdischen in Kontakt kommt?",
+      "es": "¿Qué harías si fueras el primer humano en contactar con extraterrestres?",
+      "fr": "Que feriez-vous si vous étiez le premier humain à entrer en contact avec des extraterrestres ?"
+    }
+  },
+  {
+    "id": "bbf623db-0248-4625-9f4c-5d179a3ea9f5",
+    "type": "wwyd",
+    "question": "What would you do if you were the king of an ancient civilization?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du der König einer alten Zivilisation wärst?",
+      "es": "¿Qué harías si fueras el rey de una civilización antigua?",
+      "fr": "Que feriez-vous si vous étiez le roi d'une ancienne civilisation ?"
+    }
+  },
+  {
+    "id": "774f12b7-8d5a-4536-81e1-7a6056757a4b",
+    "type": "wwyd",
+    "question": "What would you do if you were the president?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du der Präsident wärst?",
+      "es": "¿Qué haría usted si fuera el presidente?",
+      "fr": "Que feriez-vous si vous étiez président ?"
+    }
+  },
+  {
+    "id": "30cfbb30-3a52-416b-b8ed-525764ba3469",
+    "type": "wwyd",
+    "question": "What would you do if you were the ruler of a country for a day?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du für einen Tag der Herrscher eines Landes wärst?",
+      "es": "¿Qué harías si fueras el gobernante de un país por un día?",
+      "fr": "Que feriez-vous si vous étiez le dirigeant d'un pays pour une journée ?"
+    }
+  },
+  {
+    "id": "cbeca29f-ba20-4867-8ef0-1c2420662a40",
+    "type": "wwyd",
+    "question": "What would you do if you were the ugliest thing on Earth?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du das hässlichste Ding der Welt wärst?",
+      "es": "¿Qué harías si fueras la cosa más fea de la Tierra?",
+      "fr": "Que feriez-vous si vous étiez la chose la plus laide sur Terre ?"
+    }
+  },
+  {
+    "id": "8efa96ac-04a0-4459-ba85-929b9400de88",
+    "type": "wwyd",
+    "question": "What would you do if you were thrown out of school?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du von der Schule geschmissen würdest?",
+      "es": "¿Qué harías si te expulsaran de la escuela?",
+      "fr": "Que feriez-vous si vous étiez renvoyé de l'école ?"
+    }
+  },
+  {
+    "id": "6616344e-c3de-43e7-af47-7cd65b229389",
+    "type": "wwyd",
+    "question": "What would you do if you were told you could never leave your house?",
+    "translations": {
+      "de": "Was würdest du tun, wenn man dir sagen würde, dass du dein Haus nicht verlassen darfst?",
+      "es": "¿Qué harías si te dijeran que nunca podrás salir de casa?",
+      "fr": "Que feriez-vous si l'on vous disait que vous ne pouvez plus quitter votre maison ?"
+    }
+  },
+  {
+    "id": "11634b66-5b3b-4df8-8bc6-4e9655da89c1",
+    "type": "wwyd",
+    "question": "What would you do if you were walking in the forest and saw a wolf?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du im Wald spazieren gehst und einen Wolf siehst?",
+      "es": "¿Qué harías si estuvieras paseando por el bosque y vieras un lobo?",
+      "fr": "Que ferais-tu si tu te promenais dans la forêt et que tu voyais un loup ?"
+    }
+  },
+  {
+    "id": "df2bd692-d474-4a42-8b85-31e2d7319822",
+    "type": "wwyd",
+    "question": "What would you do if you weren’t afraid?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du keine Angst hättest?",
+      "es": "¿Qué harías si no tuvieras miedo?",
+      "fr": "Que feriez-vous si vous n'aviez pas peur ?"
+    }
+  },
+  {
+    "id": "19ffd37c-b536-4658-8e17-a613bb5bcb20",
+    "type": "wwyd",
+    "question": "What would you do if you woke up and realized that you cannot move your body anymore?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du aufwachst und merkst, dass du deinen Körper nicht mehr bewegen kannst?",
+      "es": "¿Qué harías si te despertaras y te dieras cuenta de que ya no puedes mover tu cuerpo?",
+      "fr": "Que feriez-vous si vous vous réveilliez et réalisiez que vous ne pouvez plus bouger votre corps ?"
+    }
+  },
+  {
+    "id": "16182ba1-9b5a-40aa-b842-3f5f7391316d",
+    "type": "wwyd",
+    "question": "What would you do if you woke up and saw yourself in wonderland?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du aufwachst und dich im Wunderland wiederfindest?",
+      "es": "¿Qué harías si te despertaras y te vieras en el país de las maravillas?",
+      "fr": "Que feriez-vous si vous vous réveilliez au pays des merveilles ?"
+    }
+  },
+  {
+    "id": "e861f57e-635e-4704-b850-13d4ee159dea",
+    "type": "wwyd",
+    "question": "What would you do if you woke up and the house is on fire?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du aufwachst und das Haus in Flammen steht?",
+      "es": "¿Qué harías si te despertaras y la casa estuviera ardiendo?",
+      "fr": "Que feriez-vous si vous vous réveilliez et que la maison était en feu ?"
+    }
+  },
+  {
+    "id": "9c09ba81-9722-4566-8cb5-80dd3ec3deee",
+    "type": "wwyd",
+    "question": "What would you do if you woke up and the house was on fire?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du aufwachen würdest und das Haus in Flammen stünde?",
+      "es": "¿Qué harías si te despertaras y la casa estuviera ardiendo?",
+      "fr": "Que feriez-vous si vous vous réveilliez et que la maison était en feu ?"
+    }
+  },
+  {
+    "id": "65649a14-1d33-4e73-bac0-f8941f3a5302",
+    "type": "wwyd",
+    "question": "What would you do if you woke up in the morning and found out you were six years old again?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du morgens aufwachst und feststellst, dass du wieder sechs Jahre alt bist?",
+      "es": "¿Qué harías si te despertaras por la mañana y descubrieras que vuelves a tener seis años?",
+      "fr": "Que feriez-vous si vous vous réveilliez le matin et découvriez que vous aviez à nouveau six ans ?"
+    }
+  },
+  {
+    "id": "96706a16-1441-45bc-baf0-550e3f08b53e",
+    "type": "wwyd",
+    "question": "What would you do if you won a lottery?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du im Lotto gewinnen würdest?",
+      "es": "¿Qué harías si te tocara la lotería?",
+      "fr": "Que feriez-vous si vous gagniez à la loterie ?"
+    }
+  },
+  {
+    "id": "b2e987c1-86f1-4865-b419-2aff4616403d",
+    "type": "wwyd",
+    "question": "What would you do if you would never have to sleep again?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du nie wieder schlafen müsstest?",
+      "es": "¿Qué harías si no tuvieras que dormir nunca más?",
+      "fr": "Que feriez-vous si vous ne deviez plus jamais dormir ?"
+    }
+  },
+  {
+    "id": "9f4c88a9-f9b3-4706-8d99-5f6aac3e07d7",
+    "type": "wwyd",
+    "question": "What would you do if your best friend told you he/she killed someone?",
+    "translations": {
+      "de": "Was würdest du tun, wenn dein bester Freund/deine beste Freundin dir sagt, dass er/sie jemanden umgebracht hat?",
+      "es": "¿Qué harías si tu mejor amigo te dijera que ha matado a alguien?",
+      "fr": "Que feriez-vous si votre meilleur ami vous disait qu'il a tué quelqu'un ?"
+    }
+  },
+  {
+    "id": "aa6778be-6df9-4ea1-86c2-1a2ecb3cf81a",
+    "type": "wwyd",
+    "question": "What would you do if your cell phone fell in the toilet?",
+    "translations": {
+      "de": "Was würdest du tun, wenn dein Handy in die Toilette fällt?",
+      "es": "¿Qué harías si se te cayera el móvil al váter?",
+      "fr": "Que feriez-vous si votre téléphone portable tombait dans les toilettes ?"
+    }
+  },
+  {
+    "id": "9b55ddb2-f1c6-471d-9ff6-dace29602af1",
+    "type": "wwyd",
+    "question": "What would you do if your friend has a terrible breath? Would you tell them?",
+    "translations": {
+      "de": "Was würdest du tun, wenn dein Freund oder deine Freundin einen schrecklichen Atem hat? Würdest du es ihnen sagen?",
+      "es": "¿Qué harías si tu amigo tuviera un aliento terrible? ¿Se lo dirías?",
+      "fr": "Que feriez-vous si votre ami avait une mauvaise haleine ? Le lui diriez-vous ?"
+    }
+  },
+  {
+    "id": "8e2aa1ad-9fe4-4189-a2bd-8c500be64fdc",
+    "type": "wwyd",
+    "question": "What would you do if your friend steals from you?",
+    "translations": {
+      "de": "Was würdest du tun, wenn dein Freund dich bestiehlt?",
+      "es": "¿Qué harías si tu amigo te roba?",
+      "fr": "Que feriez-vous si votre ami vous volait ?"
+    }
+  },
+  {
+    "id": "8ad82f0d-e93e-4533-a5a7-e09bfe35b273",
+    "type": "wwyd",
+    "question": "What would you do if your friends and families no longer trust you?",
+    "translations": {
+      "de": "Was würdest du tun, wenn deine Freunde und Familien dir nicht mehr vertrauen?",
+      "es": "¿Qué harías si tus amigos y familiares dejaran de confiar en ti?",
+      "fr": "Que feriez-vous si vos amis et votre famille ne vous faisaient plus confiance ?"
+    }
+  },
+  {
+    "id": "265f135c-3898-4b8c-af15-56334ff653fa",
+    "type": "wwyd",
+    "question": "What would you do if your mother turned into a zombie right in front of your eyes?",
+    "translations": {
+      "de": "Was würdest du tun, wenn sich deine Mutter vor deinen Augen in einen Zombie verwandelt?",
+      "es": "¿Qué harías si tu madre se convirtiera en un zombi delante de tus ojos?",
+      "fr": "Que feriez-vous si votre mère se transformait en zombie sous vos yeux ?"
+    }
+  },
+  {
+    "id": "21569b48-5344-49e8-8868-942c149fd1b1",
+    "type": "wwyd",
+    "question": "What would you do if your son was all alone crying at home?",
+    "translations": {
+      "de": "Was würdest du tun, wenn dein Sohn ganz allein zu Hause wäre und weinen würde?",
+      "es": "¿Qué harías si tu hijo estuviera solo llorando en casa?",
+      "fr": "Que feriez-vous si votre fils était seul à pleurer à la maison ?"
+    }
+  },
+  {
+    "id": "744c9de4-d1d7-4d3a-a75d-347e988ada17",
+    "type": "wwyd",
+    "question": "What would you do if your worst enemy became the boss in your place of work?",
+    "translations": {
+      "de": "Was würdest du tun, wenn dein schlimmster Feind der Chef an deinem Arbeitsplatz wäre?",
+      "es": "¿Qué harías si tu peor enemigo se convirtiera en el jefe de tu lugar de trabajo?",
+      "fr": "Que feriez-vous si votre pire ennemi devenait le patron de votre lieu de travail ?"
+    }
+  },
+  {
+    "id": "bba45cc1-1b90-4dc5-b196-6fb137139195",
+    "type": "wwyd",
+    "question": "What would you do if your worst enemy becomes the boss in your place of work?",
+    "translations": {
+      "de": "Was würdest du tun, wenn dein schlimmster Feind der Chef an deinem Arbeitsplatz wird?",
+      "es": "¿Qué harías si tu peor enemigo se convirtiera en el jefe de tu lugar de trabajo?",
+      "fr": "Que feriez-vous si votre pire ennemi devenait le patron de votre lieu de travail ?"
+    }
+  },
+  {
+    "id": "7996a92b-f08b-4f08-bd80-144dadca438b",
+    "type": "wwyd",
+    "question": "What would you do if you’re at a hair salon and got a really bad hair cut? What would you tell the hairdresser?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du in einem Friseursalon bist und einen wirklich schlechten Haarschnitt bekommst? Was würdest du dem Friseur sagen?",
+      "es": "¿Qué harías si estuvieras en una peluquería y te cortaran el pelo muy mal? ¿Qué le dirías al peluquero?",
+      "fr": "Que feriez-vous si vous étiez dans un salon de coiffure et que votre coupe de cheveux était vraiment mauvaise ? Que diriez-vous au coiffeur ?"
+    }
+  },
+  {
+    "id": "f255a348-b065-477b-9716-bc8e9a226695",
+    "type": "wwyd",
+    "question": "What would you do if you’re at a hair salon and got a really bad haircut?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du in einem Friseursalon bist und einen wirklich schlechten Haarschnitt bekommst?",
+      "es": "¿Qué harías si estuvieras en una peluquería y te cortaran muy mal el pelo?",
+      "fr": "Que feriez-vous si vous étiez dans un salon de coiffure et que votre coupe de cheveux était vraiment mauvaise ?"
+    }
+  },
+  {
+    "id": "5f8a3e01-664e-4a37-8dc9-69a8f3311d5e",
+    "type": "wwyd",
+    "question": "What would you do if you’re on a train and a person who smells horrible sits next to you?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du im Zug sitzt und neben dir eine Person sitzt, die furchtbar stinkt?",
+      "es": "¿Qué harías si estás en un tren y se sienta a tu lado una persona que huele fatal?",
+      "fr": "Que feriez-vous si vous étiez dans un train et qu'une personne qui sent mauvais s'asseyait à côté de vous ?"
+    }
+  },
+  {
+    "id": "6e5f5789-05ae-4e58-8013-238ca25fb3d8",
+    "type": "wwyd",
+    "question": "What would you do someone finds out your biggest secret?",
+    "translations": {
+      "de": "Was würdest du tun, wenn jemand dein größtes Geheimnis herausfindet?",
+      "es": "¿Qué harías si alguien descubriera tu mayor secreto?",
+      "fr": "Que feriez-vous si quelqu'un découvrait votre plus grand secret ?"
+    }
+  },
+  {
+    "id": "c952cb43-da65-4028-8976-2a3f0dde558d",
+    "type": "wwyd",
+    "question": "What would you do with a real bag of holding?",
+    "translations": {
+      "de": "Was würdest du mit einem echten Sack voll Geld machen?",
+      "es": "¿Qué harías con una bolsa de retención de verdad?",
+      "fr": "Que feriez-vous avec un vrai sac de rétention ?"
+    }
+  },
+  {
+    "id": "a3ec1533-dd66-4964-8821-1c85e8e636d1",
+    "type": "wwyd",
+    "question": "What would you do with the extra time if you had 25-hour days (while everyone else continued to have 24-hour days)?",
+    "translations": {
+      "de": "Was würdest du mit der zusätzlichen Zeit anfangen, wenn du einen 25-Stunden-Tag hättest (während alle anderen weiterhin einen 24-Stunden-Tag hätten)?",
+      "es": "¿Qué harías con el tiempo extra si tuvieras jornadas de 25 horas (mientras todos los demás siguieran teniendo jornadas de 24 horas)?",
+      "fr": "Que feriez-vous de ce temps supplémentaire si vous aviez des journées de 25 heures (alors que tous les autres continuent à avoir des journées de 24 heures) ?"
+    }
+  },
+  {
+    "id": "225a1574-656f-425b-9252-f938ddc3d1f9",
+    "type": "wwyd",
+    "question": "What would you if you were a god?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du ein Gott wärst?",
+      "es": "¿Qué harías si fueras un dios?",
+      "fr": "Que feriez-vous si vous étiez un dieu ?"
+    }
+  },
+  {
+    "id": "5e7fc8b6-8d10-498a-b9d1-1d83070af21c",
+    "type": "wwyd",
+    "question": "What would you say if the whole world were listening?",
+    "translations": {
+      "de": "Was würdest du sagen, wenn die ganze Welt zuhören würde?",
+      "es": "¿Qué dirías si el mundo entero estuviera escuchando?",
+      "fr": "Que diriez-vous si le monde entier vous écoutait ?"
+    }
+  },
+  {
+    "id": "aa955a26-93d2-4e78-8b70-8932ee5aa07d",
+    "type": "wwyd",
+    "question": "What would you say to scare someone who did not know you?",
+    "translations": {
+      "de": "Was würdest du sagen, um jemanden zu erschrecken, der dich nicht kennt?",
+      "es": "¿Qué dirías para asustar a alguien que no te conociera?",
+      "fr": "Que diriez-vous pour effrayer quelqu'un qui ne vous connaît pas ?"
+    }
+  },
+  {
+    "id": "fd8114ba-d338-4ad6-83f4-78d85ed1c6e2",
+    "type": "wwyd",
+    "question": "What would your henchmen / henchwomen wear as uniforms?",
+    "translations": {
+      "de": "Was würden deine Schergen / Schergenfrauen als Uniformen tragen?",
+      "es": "¿Qué uniforme llevarían sus secuaces?",
+      "fr": "Quel uniforme porteraient vos hommes et femmes de main ?"
+    }
+  },
+  {
+    "id": "9bd123e6-b01e-473b-bb23-5fdaf8f22768",
+    "type": "wwyd",
+    "question": "What would you do if a child was afraid of a character?",
+    "translations": {
+      "de": "Was würdest du tun, wenn ein Kind Angst vor einer Figur hätte?",
+      "es": "¿Qué harías si un niño tuviera miedo de un personaje?",
+      "fr": "Que feriez-vous si un enfant avait peur d'un personnage ?"
+    }
+  },
+  {
+    "id": "851d50bd-90b4-4fc9-8496-6af5900189e2",
+    "type": "wwyd",
+    "question": "What would you do if you were invisible?",
+    "translations": {
+      "de": "Was würdest du tun, wenn du unsichtbar wärst?",
+      "es": "¿Qué harías si fueras invisible?",
+      "fr": "Que feriez-vous si vous étiez invisible ?"
+    }
+  }
+]

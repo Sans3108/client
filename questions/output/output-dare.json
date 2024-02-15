@@ -1,0 +1,2252 @@
+[
+  {
+    "id": "09761366-ca4d-429d-a7f6-78dfe285c27c",
+    "type": "dare",
+    "question": "Take a shot of mustard or ketchup.",
+    "translations": {
+      "de": "Nimm einen Schuss Senf oder Ketchup.",
+      "es": "Toma un trago de mostaza o ketchup.",
+      "fr": "Prends une dose de moutarde ou de ketchup."
+    }
+  },
+  {
+    "id": "b63273d8-c5a9-46ec-9fd8-22f9e70ed289",
+    "type": "dare",
+    "question": "Howl like a wolf",
+    "translations": {
+      "de": "Heule wie ein Wolf",
+      "es": "Aúlla como un lobo",
+      "fr": "Hurle comme un loup"
+    }
+  },
+  {
+    "id": "f3112dad-c6dc-440b-b148-092ced7d3830",
+    "type": "dare",
+    "question": "Go to the first person you know on your instagram feed and like every photo on their profile.",
+    "translations": {
+      "de": "Geh zu der ersten Person, die du auf deinem Instagram-Feed kennst, und mag jedes Foto auf ihrem Profil.",
+      "es": "Ve a la primera persona que conozcas en tu feed de instagram y dale a me gusta a todas las fotos de su perfil.",
+      "fr": "Va voir la première personne que tu connais sur ton fil instagram et aime chaque photo de son profil."
+    }
+  },
+  {
+    "id": "af2d85f2-789e-493d-b804-4b8621300104",
+    "type": "dare",
+    "question": "Try to tickle yourself",
+    "translations": {
+      "de": "Versuche, dich selbst zu kitzeln",
+      "es": "Intenta hacerte cosquillas",
+      "fr": "Essaie de te chatouiller"
+    }
+  },
+  {
+    "id": "807d49fd-e2a3-4662-ad13-f22d25be8c74",
+    "type": "dare",
+    "question": "Have a matching pfp with who you like for 3 days.",
+    "translations": {
+      "de": "Triff dich 3 Tage lang mit der Person, die du magst.",
+      "es": "Ten un pfp emparejado con quien te guste durante 3 días.",
+      "fr": "Aie un pfp correspondant avec la personne que tu aimes pendant 3 jours."
+    }
+  },
+  {
+    "id": "802e1e3e-250c-4fbb-9902-ff9020e0c85d",
+    "type": "dare",
+    "question": "Send/say the alphabet backwards",
+    "translations": {
+      "de": "Das Alphabet rückwärts senden/sagen",
+      "es": "Enviar/decir el alfabeto al revés",
+      "fr": "Envoie/dit l'alphabet à l'envers"
+    }
+  },
+  {
+    "id": "8123620c-50d3-495c-979a-41d61b1cd7e1",
+    "type": "dare",
+    "question": "Prank call McDonalds",
+    "translations": {
+      "de": "Scherzanruf bei McDonalds",
+      "es": "Broma telefónica McDonalds",
+      "fr": "Appelle McDonald's pour faire un canular"
+    }
+  },
+  {
+    "id": "b4453fc9-ba43-480d-bf61-7d8c0bbdaa02",
+    "type": "dare",
+    "question": "Send your worst playlist",
+    "translations": {
+      "de": "Sende deine schlimmste Playlist",
+      "es": "Envía tu peor lista de reproducción",
+      "fr": "Envoie ta pire liste de lecture"
+    }
+  },
+  {
+    "id": "42af3562-76f0-479c-bbdc-49d29b8562d8",
+    "type": "dare",
+    "question": "Send your best friend \"I hate you\" and don't respond to any of their messages.",
+    "translations": {
+      "de": "Schicke deiner besten Freundin \"Ich hasse dich\" und antworte auf keine ihrer Nachrichten.",
+      "es": "Envía a tu mejor amigo \"Te odio\" y no respondas a ninguno de sus mensajes.",
+      "fr": "Envoie à ton meilleur ami \"je te déteste\" et ne réponds à aucun de ses messages."
+    }
+  },
+  {
+    "id": "0967b258-9c53-4ce3-b660-f5e4590f83bb",
+    "type": "dare",
+    "question": "Show everyone the funniest meme in your camera roll.",
+    "translations": {
+      "de": "Zeige allen das lustigste Meme in deiner Kamera-Rolle.",
+      "es": "Enséñale a todo el mundo el meme más divertido de tu rollo de cámara.",
+      "fr": "Montre à tout le monde le mème le plus drôle de ton rouleau d'appareil photo."
+    }
+  },
+  {
+    "id": "f0ae5cca-7c2a-4a7c-ab47-21e59f5015e1",
+    "type": "dare",
+    "question": "Call your parents and talk about the weather in a british accent",
+    "translations": {
+      "de": "Ruf deine Eltern an und rede mit britischem Akzent über das Wetter",
+      "es": "Llama a tus padres y habla del tiempo con acento británico",
+      "fr": "Appelle tes parents et parle de la météo avec un accent britannique."
+    }
+  },
+  {
+    "id": "9292a4f7-e53b-455f-a462-f4cc614ddf9e",
+    "type": "dare",
+    "question": "Type with only one hand for the next minute",
+    "translations": {
+      "de": "Tippe die nächste Minute lang mit nur einer Hand",
+      "es": "Escribe con una sola mano durante el siguiente minuto",
+      "fr": "Tape d'une seule main pendant la minute suivante"
+    }
+  },
+  {
+    "id": "160a8c2e-2a35-48c6-8b26-ec3a734ff9c1",
+    "type": "dare",
+    "question": "Text your number neighbor (phone number one less or one more than you)",
+    "translations": {
+      "de": "Schicke eine SMS an deinen Nachbarn (eine Telefonnummer weniger oder eine mehr als du)",
+      "es": "Envía un SMS a tu vecino de número (número de teléfono uno menos o uno más que tú)",
+      "fr": "Texte ton numéro de voisin (numéro de téléphone un de moins ou un de plus que toi)."
+    }
+  },
+  {
+    "id": "675da21a-d1dd-4b42-bca9-a4a04d7c4ca6",
+    "type": "dare",
+    "question": "Eat an ice cube",
+    "translations": {
+      "de": "Iss einen Eiswürfel",
+      "es": "Cómete un cubito de hielo",
+      "fr": "Mange un glaçon"
+    }
+  },
+  {
+    "id": "9d2b1276-524c-4c16-a2f6-1d5ac400e21e",
+    "type": "dare",
+    "question": "Send a message to the person at the top of your DMs list",
+    "translations": {
+      "de": "Sende eine Nachricht an die Person, die ganz oben in deiner DMs-Liste steht",
+      "es": "Envía un mensaje a la persona que encabeza tu lista de DMs",
+      "fr": "Envoie un message à la personne qui se trouve en haut de ta liste de DMs."
+    }
+  },
+  {
+    "id": "84589bca-fbb0-4b20-a9eb-bca4ad547b6f",
+    "type": "dare",
+    "question": "Show us your screen time report",
+    "translations": {
+      "de": "Zeige uns deinen Bildschirmzeitbericht",
+      "es": "Muéstranos tu informe de tiempo de pantalla",
+      "fr": "Montre-nous ton rapport de temps d'écran"
+    }
+  },
+  {
+    "id": "889a4ab0-259a-4741-b654-5531d9ab6123",
+    "type": "dare",
+    "question": "Send a message to the person at the bottom of your DMs list",
+    "translations": {
+      "de": "Sende eine Nachricht an die Person, die am Ende deiner DMs-Liste steht",
+      "es": "Envía un mensaje a la persona que aparece al final de tu lista de DMs",
+      "fr": "Envoie un message à la personne qui se trouve en bas de ta liste de DMs."
+    }
+  },
+  {
+    "id": "a32762be-890b-42d5-9192-bc5117168c27",
+    "type": "dare",
+    "question": "Show everyone your frequently used emoji list.",
+    "translations": {
+      "de": "Zeige allen deine häufig verwendete Emoji-Liste.",
+      "es": "Enséñale a todo el mundo tu lista de emojis de uso frecuente.",
+      "fr": "Montre à tout le monde ta liste d'emoji fréquemment utilisés."
+    }
+  },
+  {
+    "id": "ae8f0009-05a9-4bbe-bc4f-48d2650eb018",
+    "type": "dare",
+    "question": "Let the group choose your profile picture for the next day",
+    "translations": {
+      "de": "Lass die Gruppe dein Profilbild für den nächsten Tag auswählen",
+      "es": "Deja que el grupo elija tu foto de perfil para el día siguiente",
+      "fr": "Laisse le groupe choisir ta photo de profil pour le lendemain."
+    }
+  },
+  {
+    "id": "c8c4b5ef-dbed-4926-86e8-bb4f6ad1159b",
+    "type": "dare",
+    "question": "Name as many types of car as you can",
+    "translations": {
+      "de": "Nenne so viele Autotypen, wie du kannst",
+      "es": "Nombra tantos tipos de coche como puedas",
+      "fr": "Cite autant de types de voitures que tu peux"
+    }
+  },
+  {
+    "id": "07311689-cc48-425e-bba4-0d9a3a86d366",
+    "type": "dare",
+    "question": "Make up a country song off the top of your head",
+    "translations": {
+      "de": "Erfinde aus dem Stegreif einen Country-Song",
+      "es": "Invéntate una canción country de memoria",
+      "fr": "Invente une chanson country de ton crâne."
+    }
+  },
+  {
+    "id": "1ea6da5d-983f-4e23-9325-ad3e08814a4e",
+    "type": "dare",
+    "question": "Make a poem using the words orange and moose",
+    "translations": {
+      "de": "Schreibe ein Gedicht mit den Wörtern Orange und Elch",
+      "es": "Haz un poema con las palabras naranja y alce",
+      "fr": "Fais un poème en utilisant les mots orange et orignal."
+    }
+  },
+  {
+    "id": "1c3eee7e-dd41-40bd-a513-8c1191e58e68",
+    "type": "dare",
+    "question": "Show the group an embarrassing photo from your childhood.",
+    "translations": {
+      "de": "Zeige der Gruppe ein peinliches Foto aus deiner Kindheit.",
+      "es": "Muestra al grupo una foto embarazosa de tu infancia.",
+      "fr": "Montre au groupe une photo embarrassante de ton enfance."
+    }
+  },
+  {
+    "id": "73143975-5555-486b-b47d-4ea7d92ed1a7",
+    "type": "dare",
+    "question": "Send a screenshot of the bottom of your DMs list",
+    "translations": {
+      "de": "Sende einen Screenshot vom unteren Ende deiner DMs-Liste",
+      "es": "Envía una captura de pantalla de la parte inferior de tu lista de DMs",
+      "fr": "Envoie une capture d'écran du bas de ta liste de DMs."
+    }
+  },
+  {
+    "id": "01f91575-adf8-40c8-b258-1ac47dae2438",
+    "type": "dare",
+    "question": "Spin around 10 times and try to walk straight.",
+    "translations": {
+      "de": "Drehe dich 10 Mal und versuche, gerade zu gehen.",
+      "es": "Da 10 vueltas e intenta caminar recto.",
+      "fr": "Tourne 10 fois sur toi-même et essaie de marcher droit."
+    }
+  },
+  {
+    "id": "f60019e4-a0ad-4f0c-82ab-67faf9ade31e",
+    "type": "dare",
+    "question": "Post the fanciest photo you've ever taken",
+    "translations": {
+      "de": "Poste das schönste Foto, das du je gemacht hast",
+      "es": "Publica la foto más elegante que hayas hecho nunca",
+      "fr": "Publie la photo la plus fantaisiste que tu aies jamais prise."
+    }
+  },
+  {
+    "id": "bc432735-d35f-47bf-b15c-4face3afa621",
+    "type": "dare",
+    "question": "Post your favorite pet photo",
+    "translations": {
+      "de": "Poste dein Lieblingstierfoto",
+      "es": "Publica la foto de tu mascota favorita",
+      "fr": "Publie ta photo préférée de ton animal de compagnie"
+    }
+  },
+  {
+    "id": "8cfeb18a-5c34-44ca-a1fc-67914648efc2",
+    "type": "dare",
+    "question": "Give yourself a haircut.",
+    "translations": {
+      "de": "Lass dir die Haare schneiden.",
+      "es": "Córtate el pelo.",
+      "fr": "Fais-toi couper les cheveux."
+    }
+  },
+  {
+    "id": "e2fee150-562f-4e24-a80c-61cbc7aef355",
+    "type": "dare",
+    "question": "Everyone here take a snack break - ToD Bot team.",
+    "translations": {
+      "de": "Alle hier machen eine Snackpause - ToD Bot Team.",
+      "es": "Que todo el mundo se tome un descanso - Equipo ToD Bot.",
+      "fr": "Tout le monde ici fait une pause casse-croûte - ToD Bot team."
+    }
+  },
+  {
+    "id": "91187866-32fa-44f5-a25c-238cc9a86ee8",
+    "type": "dare",
+    "question": "List the things on your desk",
+    "translations": {
+      "de": "Liste die Dinge auf deinem Schreibtisch auf",
+      "es": "Enumera las cosas de tu escritorio",
+      "fr": "Fais la liste des choses qui se trouvent sur ton bureau"
+    }
+  },
+  {
+    "id": "dc5b8bcd-abed-47d5-8ea3-988d36e37794",
+    "type": "dare",
+    "question": "Show everyone here the last 5 messages with the last person you messaged/messaged you.",
+    "translations": {
+      "de": "Zeig allen hier die letzten 5 Nachrichten mit der letzten Person, die du angeschrieben/angemailt hast.",
+      "es": "Muestra aquí a todo el mundo los últimos 5 mensajes con la última persona a la que enviaste/te envió un mensaje.",
+      "fr": "Montre à tout le monde ici les 5 derniers messages avec la dernière personne à qui tu as envoyé un message / qui t'a envoyé un message."
+    }
+  },
+  {
+    "id": "24152243-bb70-473e-b0da-a48d368023e0",
+    "type": "dare",
+    "question": "Point out the worst dressed person in the room.",
+    "translations": {
+      "de": "Zeige auf die am schlechtesten gekleidete Person im Raum.",
+      "es": "Señala a la persona peor vestida de la sala.",
+      "fr": "Désigne la personne la plus mal habillée de la pièce."
+    }
+  },
+  {
+    "id": "36c0c961-1987-4f22-a90e-4fe53ab4ebcf",
+    "type": "dare",
+    "question": "Give your friends your unlocked phone for 30 seconds",
+    "translations": {
+      "de": "Gib deinen Freunden dein entsperrtes Telefon für 30 Sekunden",
+      "es": "Dale a tus amigos tu teléfono desbloqueado durante 30 segundos",
+      "fr": "Donne à tes amis ton téléphone déverrouillé pendant 30 secondes."
+    }
+  },
+  {
+    "id": "ce2c63cf-bb83-434e-84bd-d972e953687a",
+    "type": "dare",
+    "question": "Post the oldest photo on your phone",
+    "translations": {
+      "de": "Poste das älteste Foto auf deinem Telefon",
+      "es": "Publica la foto más antigua de tu teléfono",
+      "fr": "Publie la photo la plus ancienne de ton téléphone"
+    }
+  },
+  {
+    "id": "09fb8214-9daf-4775-a1cc-788224905e4c",
+    "type": "dare",
+    "question": "Switch to Discord light mode for the rest of the day",
+    "translations": {
+      "de": "Wechsle für den Rest des Tages in den Discord-Lichtmodus",
+      "es": "Cambia al modo Discord light para el resto del día",
+      "fr": "Passe en mode léger Discord pour le reste de la journée."
+    }
+  },
+  {
+    "id": "15ea1be4-0c7c-4b60-9827-934050fdb81f",
+    "type": "dare",
+    "question": "Show everyone the last YouTube video you watched.",
+    "translations": {
+      "de": "Zeige allen das letzte YouTube-Video, das du dir angesehen hast.",
+      "es": "Enséñale a todo el mundo el último vídeo de YouTube que has visto.",
+      "fr": "Montre à tout le monde la dernière vidéo YouTube que tu as regardée."
+    }
+  },
+  {
+    "id": "ec62e997-f0bc-4b47-bbeb-c027b4d4eca1",
+    "type": "dare",
+    "question": "Be really annoying for the next minute",
+    "translations": {
+      "de": "Für die nächste Minute wirklich nervig sein",
+      "es": "Ser realmente molesto durante el siguiente minuto",
+      "fr": "Sois vraiment ennuyeux pendant la minute qui suit."
+    }
+  },
+  {
+    "id": "53ddcbaa-6560-4a02-be86-aad900b19cf4",
+    "type": "dare",
+    "question": "Send a sentence without the words: but, a, the, or",
+    "translations": {
+      "de": "Sende einen Satz ohne die Wörter: aber, ein, die, oder",
+      "es": "Envía una frase sin las palabras: pero, a, el, o",
+      "fr": "Envoie une phrase sans les mots : mais, a, le, ou"
+    }
+  },
+  {
+    "id": "38163acf-356d-4788-9217-ab95ce7974dc",
+    "type": "dare",
+    "question": "Block the fifth person in your DMs.",
+    "translations": {
+      "de": "Blockiere die fünfte Person in deinen DMs.",
+      "es": "Bloquea a la quinta persona de tus DMs.",
+      "fr": "Bloque la cinquième personne dans tes messages instantanés."
+    }
+  },
+  {
+    "id": "a9a9bd52-cd13-4373-8f01-65ddf6f6977f",
+    "type": "dare",
+    "question": "Name as many types of food as you can",
+    "translations": {
+      "de": "Nenne so viele Arten von Lebensmitteln, wie du kannst",
+      "es": "Nombra tantos tipos de alimentos como puedas",
+      "fr": "Nomme autant de types d'aliments que tu peux"
+    }
+  },
+  {
+    "id": "f9858b88-87d9-43de-b53a-622c5e3e2408",
+    "type": "dare",
+    "question": "Delete the last 10 pictures in your camera roll permanently (remove them from recently deleted too).",
+    "translations": {
+      "de": "Lösche die letzten 10 Bilder in deiner Kamerarolle dauerhaft (entferne sie auch aus \"Zuletzt gelöscht\").",
+      "es": "Elimina permanentemente las 10 últimas fotos de tu carrete (elimínalas también de las eliminadas recientemente).",
+      "fr": "Supprime définitivement les 10 dernières photos de ton rouleau d'appareil photo (supprime-les aussi de la liste des photos récemment supprimées)."
+    }
+  },
+  {
+    "id": "49905bbd-39f4-4803-9f2c-91912a47732e",
+    "type": "dare",
+    "question": "Post your favorite photo on your phone",
+    "translations": {
+      "de": "Poste dein Lieblingsfoto auf deinem Telefon",
+      "es": "Publica tu foto favorita en tu teléfono",
+      "fr": "Publie ta photo préférée sur ton téléphone"
+    }
+  },
+  {
+    "id": "46e5bb2c-2929-435e-9d1b-ca7357b0bccf",
+    "type": "dare",
+    "question": "Answer the next truth question with complete honesty",
+    "translations": {
+      "de": "Beantworte die nächste Wahrheitsfrage mit voller Ehrlichkeit",
+      "es": "Responde a la siguiente pregunta de la verdad con total honestidad",
+      "fr": "Réponds à la prochaine question sur la vérité en toute honnêteté"
+    }
+  },
+  {
+    "id": "725b49e3-e1f1-4e2f-aaed-e338165f2ea5",
+    "type": "dare",
+    "question": "Share your phone's wallpaper",
+    "translations": {
+      "de": "Teile das Hintergrundbild deines Telefons",
+      "es": "Comparte el fondo de pantalla de tu teléfono",
+      "fr": "Partage le fond d'écran de ton téléphone"
+    }
+  },
+  {
+    "id": "cc7f0aa6-bbdf-483f-8cb7-6f61011a2049",
+    "type": "dare",
+    "question": "Act like a dog for 1 minute.",
+    "translations": {
+      "de": "Benimm dich 1 Minute lang wie ein Hund.",
+      "es": "Actúa como un perro durante 1 minuto.",
+      "fr": "Agis comme un chien pendant une minute."
+    }
+  },
+  {
+    "id": "178658de-e39a-45de-a524-e688bcc84b9c",
+    "type": "dare",
+    "question": "Show everyone a picture of you when you were young.",
+    "translations": {
+      "de": "Zeig allen ein Bild von dir, als du jung warst.",
+      "es": "Muestra a todos una foto tuya de cuando eras joven.",
+      "fr": "Montre à tout le monde une photo de toi quand tu étais jeune."
+    }
+  },
+  {
+    "id": "851f4452-a621-4fb0-adb4-b853996bc2b5",
+    "type": "dare",
+    "question": "Hug the object/person nearest you.",
+    "translations": {
+      "de": "Umarme den Gegenstand/die Person, die dir am nächsten ist.",
+      "es": "Abraza al objeto/persona que tengas más cerca.",
+      "fr": "Fais un câlin à l'objet ou à la personne le plus proche de toi."
+    }
+  },
+  {
+    "id": "0795ab2d-20e7-4343-a580-f6b0042c02d0",
+    "type": "dare",
+    "question": "Do a yoga pose for 3 minutes.",
+    "translations": {
+      "de": "Nimm 3 Minuten lang eine Yogastellung ein.",
+      "es": "Haz una postura de yoga durante 3 minutos.",
+      "fr": "Fais une pose de yoga pendant 3 minutes."
+    }
+  },
+  {
+    "id": "f4f684af-ee73-48d6-b9da-270a0b44e4a5",
+    "type": "dare",
+    "question": "Let someone go through your YouTube history and read it out to the group.",
+    "translations": {
+      "de": "Lass jemanden deinen YouTube-Verlauf durchgehen und ihn der Gruppe vorlesen.",
+      "es": "Deja que alguien revise tu historial de YouTube y lo lea al grupo.",
+      "fr": "Laisse quelqu'un parcourir ton historique YouTube et le lire au groupe."
+    }
+  },
+  {
+    "id": "e5770049-79d4-414c-8858-cf0c02484556",
+    "type": "dare",
+    "question": "Prank call your best friend",
+    "translations": {
+      "de": "Rufe deinen besten Freund an",
+      "es": "Broma telefónica a tu mejor amigo",
+      "fr": "Fais un canular téléphonique à ton meilleur ami"
+    }
+  },
+  {
+    "id": "57d49fd2-e020-48ab-ac12-c907409e521b",
+    "type": "dare",
+    "question": "Talk with a Russian accent for the next 3 rounds",
+    "translations": {
+      "de": "Sprich in den nächsten 3 Runden mit einem russischen Akzent",
+      "es": "Habla con acento ruso durante las 3 rondas siguientes",
+      "fr": "Parle avec un accent russe pendant les 3 prochains tours."
+    }
+  },
+  {
+    "id": "f2f38780-2147-4775-beba-1c98c61729ad",
+    "type": "dare",
+    "question": "Call a relative. The group can ask one question.",
+    "translations": {
+      "de": "Ruf einen Verwandten an. Die Gruppe kann eine Frage stellen.",
+      "es": "Llama a un familiar. El grupo puede hacer una pregunta.",
+      "fr": "Appelle un parent. Le groupe peut poser une question."
+    }
+  },
+  {
+    "id": "a083a807-a0a2-4394-844c-9f462d6aaafd",
+    "type": "dare",
+    "question": "Tweet '*insert popular band name here* fans are the worst' and don't reply to any of the angry comments.",
+    "translations": {
+      "de": "Tweete \"*Bandname hier einfügen* Fans sind die schlimmsten\" und antworte nicht auf die wütenden Kommentare.",
+      "es": "Tuitea \"Los fans de *inserta aquí el nombre de un grupo popular* son lo peor\" y no respondas a ninguno de los comentarios airados.",
+      "fr": "Tweetez \"*insérez le nom du groupe populaire ici* les fans sont les pires\" et ne répondez à aucun des commentaires énervés."
+    }
+  },
+  {
+    "id": "a7b690ed-3dce-4730-892e-ee9d6ed275c3",
+    "type": "dare",
+    "question": "Send a Snapchat to your ex.",
+    "translations": {
+      "de": "Schicke einen Snapchat an deinen Ex.",
+      "es": "Envía un Snapchat a tu ex.",
+      "fr": "Envoie un Snapchat à ton ex."
+    }
+  },
+  {
+    "id": "d7ca8285-a25a-4e71-abf0-a699a2734036",
+    "type": "dare",
+    "question": "Send a photo of your desk",
+    "translations": {
+      "de": "Sende ein Foto von deinem Schreibtisch",
+      "es": "Envía una foto de tu escritorio",
+      "fr": "Envoie une photo de ton bureau"
+    }
+  },
+  {
+    "id": "e0331f5c-e72f-4ce7-9495-2cd8c6af088b",
+    "type": "dare",
+    "question": "Send a weird picture of yourself.",
+    "translations": {
+      "de": "Schicke ein seltsames Bild von dir.",
+      "es": "Envía una foto rara de ti mismo.",
+      "fr": "Envoie une photo bizarre de toi."
+    }
+  },
+  {
+    "id": "6946f252-81b1-45d6-b86a-3ee3d5a1b0a8",
+    "type": "dare",
+    "question": "Send your favorite meme",
+    "translations": {
+      "de": "Sende dein Lieblingsmemo",
+      "es": "Envía tu meme favorito",
+      "fr": "Envoie ton mème préféré"
+    }
+  },
+  {
+    "id": "12d0082e-3e41-45b7-9587-58b91c45e07a",
+    "type": "dare",
+    "question": "Eat a packet of hot sauce.",
+    "translations": {
+      "de": "Iss eine Packung scharfe Soße.",
+      "es": "Cómete un paquete de salsa picante.",
+      "fr": "Mange un paquet de sauce piquante."
+    }
+  },
+  {
+    "id": "edd84bcc-512f-48f7-b39b-cb48d6282944",
+    "type": "dare",
+    "question": "Ask a random person in this server if you've met them before",
+    "translations": {
+      "de": "Frage eine zufällige Person auf diesem Server, ob du sie schon einmal getroffen hast",
+      "es": "Pregunta a una persona al azar de este servidor si ya la conoces",
+      "fr": "Demande à une personne au hasard dans ce serveur si tu l'as déjà rencontrée."
+    }
+  },
+  {
+    "id": "60566249-3486-4a62-b0d4-1218eeca8aba",
+    "type": "dare",
+    "question": "Show everyone an embarrassing childhood picture of you.",
+    "translations": {
+      "de": "Zeige allen ein peinliches Kindheitsfoto von dir.",
+      "es": "Enseña a todo el mundo una foto tuya vergonzosa de la infancia.",
+      "fr": "Montre à tout le monde une photo embarrassante de toi dans ton enfance."
+    }
+  },
+  {
+    "id": "ea625cb6-9e7d-44ea-9995-5e770cd20f97",
+    "type": "dare",
+    "question": "Draw a face around your belly button.",
+    "translations": {
+      "de": "Zeichne ein Gesicht um deinen Bauchnabel.",
+      "es": "Dibuja una cara alrededor de tu ombligo.",
+      "fr": "Dessine un visage autour de ton nombril."
+    }
+  },
+  {
+    "id": "4f304b52-439c-496e-bad1-bf9ccf132b60",
+    "type": "dare",
+    "question": "Use a furry pfp for 24 hours",
+    "translations": {
+      "de": "Verwende für 24 Stunden einen Pelzpflaster",
+      "es": "Utiliza un pfp peludo durante 24 horas",
+      "fr": "Utilise un pfp à fourrure pendant 24 heures."
+    }
+  },
+  {
+    "id": "e38ed530-3a05-4488-b0fb-31cb2bf0688a",
+    "type": "dare",
+    "question": "Show the group the insides of your closet.",
+    "translations": {
+      "de": "Zeige der Gruppe das Innere deines Kleiderschranks.",
+      "es": "Muestra al grupo el interior de tu armario.",
+      "fr": "Montre au groupe l'intérieur de ton placard."
+    }
+  },
+  {
+    "id": "1236b175-87c7-4be3-821b-595ddb5c4d04",
+    "type": "dare",
+    "question": "Let someone here do your makeup.",
+    "translations": {
+      "de": "Lass dir von jemandem hier dein Make-up machen.",
+      "es": "Deja que alguien te maquille.",
+      "fr": "Laisse quelqu'un d'ici faire ton maquillage."
+    }
+  },
+  {
+    "id": "4a4bfb18-ca0b-45e9-9ec2-bf862af36eda",
+    "type": "dare",
+    "question": "Have everyone here list something they like about you",
+    "translations": {
+      "de": "Lass jeden hier etwas aufzählen, was er an dir mag",
+      "es": "Haz que todos enumeren algo que les guste de ti",
+      "fr": "Demande à chacun d'énumérer ce qu'il aime chez toi."
+    }
+  },
+  {
+    "id": "05511b9a-2647-43e0-8b9a-2c8b5b82ec6d",
+    "type": "dare",
+    "question": "Name one thing you would change about each person here.",
+    "translations": {
+      "de": "Nenne eine Sache, die du an jeder Person hier ändern würdest.",
+      "es": "Nombra una cosa que cambiarías de cada una de las personas aquí presentes.",
+      "fr": "Cite une chose que tu changerais à propos de chaque personne ici présente."
+    }
+  },
+  {
+    "id": "287375ea-4cc8-4678-a49d-cf9c4eef03bf",
+    "type": "dare",
+    "question": "Do your best impersonation of the question asker or someone in the group.",
+    "translations": {
+      "de": "Gib dein Bestes, um den Fragesteller oder jemanden aus der Gruppe zu imitieren.",
+      "es": "Haz tu mejor imitación del autor de la pregunta o de alguien del grupo.",
+      "fr": "Fais ta meilleure imitation de la personne qui pose la question ou de quelqu'un du groupe."
+    }
+  },
+  {
+    "id": "7844184b-29a7-43dd-94c3-cd7cdd89e940",
+    "type": "dare",
+    "question": "Take a shot of lemon juice, and take one more every time someone picks dare.",
+    "translations": {
+      "de": "Nimm einen Schluck Zitronensaft und nimm jedes Mal einen weiteren, wenn jemand eine Mutprobe macht.",
+      "es": "Tómate un chupito de zumo de limón, y tómate otro cada vez que alguien se atreva.",
+      "fr": "Prends une dose de jus de citron, et reprends-en une à chaque fois que quelqu'un se pique d'oser."
+    }
+  },
+  {
+    "id": "6569ab0e-a775-4e8a-b369-db087ca01413",
+    "type": "dare",
+    "question": "List everything in your wallet",
+    "translations": {
+      "de": "Liste alles in deinem Portemonnaie auf",
+      "es": "Enumera todo lo que llevas en la cartera",
+      "fr": "Fais la liste de tout ce qui se trouve dans ton portefeuille"
+    }
+  },
+  {
+    "id": "41888dfc-4566-4ccb-9c5a-fc3fae9a7e07",
+    "type": "dare",
+    "question": "Prank call McDonalds",
+    "translations": {
+      "de": "Scherzanruf bei McDonalds",
+      "es": "Broma telefónica McDonalds",
+      "fr": "Appelle McDonald's pour faire un canular"
+    }
+  },
+  {
+    "id": "ba98b4f0-db43-4a98-a5b2-cf18a47c6f64",
+    "type": "dare",
+    "question": "Call someone random, and say everything in a british accent",
+    "translations": {
+      "de": "Ruf jemanden an, den du nicht kennst, und sag alles mit britischem Akzent",
+      "es": "Llama a alguien al azar, y di todo con acento británico",
+      "fr": "Appelle quelqu'un au hasard et dis tout avec l'accent britannique."
+    }
+  },
+  {
+    "id": "c42fb96c-84c1-4b17-ae2a-64253716e0f0",
+    "type": "dare",
+    "question": "Change your nickname/username to whatever the group wants.",
+    "translations": {
+      "de": "Ändere deinen Nickname/Benutzernamen in das, was die Gruppe möchte.",
+      "es": "Cambia tu apodo/nombre de usuario por el que quiera el grupo.",
+      "fr": "Change ton pseudo/nom d'utilisateur pour ce que le groupe veut."
+    }
+  },
+  {
+    "id": "81d4dc59-3d43-48a2-9d5b-e18b62294463",
+    "type": "dare",
+    "question": "Spin an imaginary hula hoop around your waist for 1 minute.",
+    "translations": {
+      "de": "Drehe einen imaginären Hula-Hoop-Reifen 1 Minute lang um deine Taille.",
+      "es": "Haz girar un hula-hula imaginario alrededor de tu cintura durante 1 minuto.",
+      "fr": "Fais tourner un hula hoop imaginaire autour de ta taille pendant 1 minute."
+    }
+  },
+  {
+    "id": "c5b59462-6fb0-4625-a7e8-37003c132a45",
+    "type": "dare",
+    "question": "Screen share your search history from today.",
+    "translations": {
+      "de": "Zeige deinen Suchverlauf von heute an.",
+      "es": "Comparte en pantalla tu historial de búsqueda de hoy.",
+      "fr": "Partage sur écran ton historique de recherche à partir d'aujourd'hui."
+    }
+  },
+  {
+    "id": "9cf1b075-f9fe-465a-8f92-7d82892c2e9c",
+    "type": "dare",
+    "question": "Send your crush something wholesome",
+    "translations": {
+      "de": "Schick deinem Schwarm etwas Gesundes",
+      "es": "Envía a tu enamorado algo sano",
+      "fr": "Envoie à ton béguin quelque chose de sain"
+    }
+  },
+  {
+    "id": "97db53b9-f4b1-4795-a527-e0df5dd1fbb7",
+    "type": "dare",
+    "question": "Send the most cringe message ever",
+    "translations": {
+      "de": "Sende die schrecklichste Nachricht aller Zeiten",
+      "es": "Envía el mensaje más incómodo de la historia",
+      "fr": "Envoie le message le plus croustillant qui soit."
+    }
+  },
+  {
+    "id": "0381ba76-c524-461f-881f-430be3119c2c",
+    "type": "dare",
+    "question": "Send picture of your pet.",
+    "translations": {
+      "de": "Schicke ein Bild von deinem Haustier.",
+      "es": "Envía una foto de tu mascota.",
+      "fr": "Envoie une photo de ton animal de compagnie."
+    }
+  },
+  {
+    "id": "0650f4ea-df6d-4331-9a01-c73dfa239ac1",
+    "type": "dare",
+    "question": "Spin around for 30 seconds",
+    "translations": {
+      "de": "Drehe dich 30 Sekunden lang",
+      "es": "Gira durante 30 segundos",
+      "fr": "Tourne sur toi-même pendant 30 secondes"
+    }
+  },
+  {
+    "id": "9da16139-89bd-4fa9-a65d-092ed5f15f7e",
+    "type": "dare",
+    "question": "Show your lock screen and wallpaper.",
+    "translations": {
+      "de": "Zeige deinen Sperrbildschirm und dein Hintergrundbild an.",
+      "es": "Muestra tu pantalla de bloqueo y tu fondo de pantalla.",
+      "fr": "Affiche ton écran de verrouillage et ton fond d'écran."
+    }
+  },
+  {
+    "id": "a95f44db-86e6-4bed-bbfd-5390de979e71",
+    "type": "dare",
+    "question": "Show everyone the last picture in your camera roll.",
+    "translations": {
+      "de": "Zeige allen das letzte Bild in deiner Kamerarolle.",
+      "es": "Muestra a todos la última foto de tu carrete.",
+      "fr": "Montre à tout le monde la dernière photo de ton rouleau d'appareil photo."
+    }
+  },
+  {
+    "id": "719b2d12-a839-4992-aad5-03ed0f7596e5",
+    "type": "dare",
+    "question": "Type as fast as you can for the next minute",
+    "translations": {
+      "de": "Tippe in der nächsten Minute so schnell du kannst",
+      "es": "Escribe tan rápido como puedas durante el siguiente minuto",
+      "fr": "Tape aussi vite que tu le peux pendant la minute qui suit."
+    }
+  },
+  {
+    "id": "4b075cb4-7dd2-4759-bae2-feb912dede29",
+    "type": "dare",
+    "question": "Say UWU for as long as possible",
+    "translations": {
+      "de": "Sag UWU so lange wie möglich",
+      "es": "Di UWU el mayor tiempo posible",
+      "fr": "Dis UWU le plus longtemps possible"
+    }
+  },
+  {
+    "id": "a6688d22-892a-4522-8d76-03cbafeb257d",
+    "type": "dare",
+    "question": "Name as many countries as you can",
+    "translations": {
+      "de": "Nenne so viele Länder, wie du kannst",
+      "es": "Nombra tantos países como puedas",
+      "fr": "Nomme autant de pays que tu peux"
+    }
+  },
+  {
+    "id": "c2be6c90-b423-43c7-aef8-af051121acf1",
+    "type": "dare",
+    "question": "Eat a raw piece of garlic",
+    "translations": {
+      "de": "Iss ein rohes Stück Knoblauch",
+      "es": "Come un trozo de ajo crudo",
+      "fr": "Mange un morceau d'ail cru"
+    }
+  },
+  {
+    "id": "75615c67-35db-4ec3-a781-47c955aca0d6",
+    "type": "dare",
+    "question": "Do 100 squats",
+    "translations": {
+      "de": "Mache 100 Kniebeugen",
+      "es": "Haz 100 sentadillas",
+      "fr": "Fais 100 squats"
+    }
+  },
+  {
+    "id": "df09a69a-dc9a-465e-9f17-dfc0cf4410a1",
+    "type": "dare",
+    "question": "Read the last text message you sent out loud.",
+    "translations": {
+      "de": "Lies die letzte Textnachricht, die du verschickt hast, laut vor.",
+      "es": "Lee en voz alta el último SMS que has enviado.",
+      "fr": "Lis à haute voix le dernier message texte que tu as envoyé."
+    }
+  },
+  {
+    "id": "f6f07366-6d2d-40bf-9007-42c75f528b30",
+    "type": "dare",
+    "question": "Post an embarrassing photo on your Instagram story.",
+    "translations": {
+      "de": "Poste ein peinliches Foto in deiner Instagram-Story.",
+      "es": "Publica una foto embarazosa en tu historia de Instagram.",
+      "fr": "Publie une photo embarrassante sur ta story Instagram."
+    }
+  },
+  {
+    "id": "96e1c585-70e6-490e-a399-9647e8813511",
+    "type": "dare",
+    "question": "Put as many snacks into your mouth at once as you can",
+    "translations": {
+      "de": "Nimm so viele Snacks auf einmal in den Mund, wie du kannst",
+      "es": "Métete en la boca tantos bocadillos a la vez como puedas",
+      "fr": "Mets autant d'en-cas que possible dans ta bouche en même temps."
+    }
+  },
+  {
+    "id": "f23062bd-473c-45d3-b767-f780e1f2b609",
+    "type": "dare",
+    "question": "Show everyone here your screen time.",
+    "translations": {
+      "de": "Zeige allen hier deine Bildschirmzeit.",
+      "es": "Enseña a todos los presentes tu tiempo frente a la pantalla.",
+      "fr": "Montre à tout le monde ici ton temps d'écran."
+    }
+  },
+  {
+    "id": "4360099a-a310-4d36-a4fc-a15c0699db82",
+    "type": "dare",
+    "question": "Imitate a behaviour of who you like.",
+    "translations": {
+      "de": "Imitiere ein Verhalten von jemandem, den du magst.",
+      "es": "Imita un comportamiento de quien te gusta.",
+      "fr": "Imite le comportement d'une personne que tu aimes."
+    }
+  },
+  {
+    "id": "2278a503-e044-4e7b-9bed-b6d00362a2d3",
+    "type": "dare",
+    "question": "Talk in a very deep voice for the next round",
+    "translations": {
+      "de": "Sprich in der nächsten Runde mit einer sehr tiefen Stimme",
+      "es": "Habla con voz muy grave para la siguiente ronda",
+      "fr": "Parle d'une voix très grave pour le prochain tour."
+    }
+  },
+  {
+    "id": "e6390bac-de77-499f-9d88-ff4dde8da883",
+    "type": "dare",
+    "question": "Prank call your crush",
+    "translations": {
+      "de": "Ruf deinen Schwarm mit einem Streich an",
+      "es": "Broma telefónica a tu pareja",
+      "fr": "Fais un canular téléphonique à ton béguin"
+    }
+  },
+  {
+    "id": "b000750d-f2d0-4b62-866a-7734c9ab32ed",
+    "type": "dare",
+    "question": "Show everyone the last photo you took.",
+    "translations": {
+      "de": "Zeige allen das letzte Foto, das du gemacht hast.",
+      "es": "Enseña a todo el mundo la última foto que has hecho.",
+      "fr": "Montre à tout le monde la dernière photo que tu as prise."
+    }
+  },
+  {
+    "id": "73cb5b9a-f6d0-4da1-9f30-a83f778b4998",
+    "type": "dare",
+    "question": "Sing a lullaby in VC.",
+    "translations": {
+      "de": "Sing ein Schlaflied in VC.",
+      "es": "Canta una nana en VC.",
+      "fr": "Chante une berceuse en VC."
+    }
+  },
+  {
+    "id": "1dd2b33a-2b38-4bd4-a09b-2267ff91ad46",
+    "type": "dare",
+    "question": "Text your parents \"something crazy just happened\" and share what they say",
+    "translations": {
+      "de": "Schicke deinen Eltern eine SMS \"Es ist gerade etwas Verrücktes passiert\" und teile mit, was sie sagen",
+      "es": "Envía un mensaje de texto a tus padres diciendo \"acaba de ocurrir una locura\" y comparte lo que te digan",
+      "fr": "Envoie un texto à tes parents \"il vient de se passer quelque chose de fou\" et partage ce qu'ils disent."
+    }
+  },
+  {
+    "id": "e1765756-3a12-489e-bbe9-cae040756b2e",
+    "type": "dare",
+    "question": "Call a random person and sing happy birthday to them",
+    "translations": {
+      "de": "Eine beliebige Person anrufen und ihr ein Geburtstagsständchen singen",
+      "es": "Llama a una persona al azar y cántale cumpleaños feliz",
+      "fr": "Appelle une personne au hasard et chante-lui un joyeux anniversaire."
+    }
+  },
+  {
+    "id": "61a30d1e-0ad1-42d3-824a-57ad27253c03",
+    "type": "dare",
+    "question": "Show everyone here the worst picture of you that you can find.",
+    "translations": {
+      "de": "Zeige allen hier das schlimmste Bild von dir, das du finden kannst.",
+      "es": "Enseña a todos los presentes la peor foto tuya que puedas encontrar.",
+      "fr": "Montre à tout le monde ici la pire photo de toi que tu puisses trouver."
+    }
+  },
+  {
+    "id": "3477f413-2a92-4f7d-a5d4-d79d9e6fcc63",
+    "type": "dare",
+    "question": "Do an impression of your favorite celebrity",
+    "translations": {
+      "de": "Mache eine Nachahmung deines Lieblingspromis",
+      "es": "Haz una imitación de tu famoso favorito",
+      "fr": "Fais une imitation de ta célébrité préférée"
+    }
+  },
+  {
+    "id": "96b7cbbf-774d-495b-b35a-71fac8579984",
+    "type": "dare",
+    "question": "Name every ocean",
+    "translations": {
+      "de": "Nenne jeden Ozean",
+      "es": "Nombra cada océano",
+      "fr": "Nomme chaque océan"
+    }
+  },
+  {
+    "id": "e7a745b9-49ee-4305-9933-6cf8cc4685c4",
+    "type": "dare",
+    "question": "Send a passive-aggressive message to a friend",
+    "translations": {
+      "de": "Eine passiv-aggressive Nachricht an einen Freund senden",
+      "es": "Enviar un mensaje pasivo-agresivo a un amigo",
+      "fr": "Envoie un message passif-agressif à un ami."
+    }
+  },
+  {
+    "id": "b3d75e80-8be0-489d-a3d9-7960eecca72e",
+    "type": "dare",
+    "question": "Type with only one finger for the next minute",
+    "translations": {
+      "de": "Tippe die nächste Minute lang nur mit einem Finger",
+      "es": "Escribe con un solo dedo durante el siguiente minuto",
+      "fr": "Tape avec un seul doigt pendant la prochaine minute"
+    }
+  },
+  {
+    "id": "1f6c179d-6cf2-4818-a12f-a10db4ee0362",
+    "type": "dare",
+    "question": "Ghost ping the person you like.",
+    "translations": {
+      "de": "Geisterpinkle die Person, die du magst.",
+      "es": "Haz ping fantasma a la persona que te gusta.",
+      "fr": "Fais un ping fantôme à la personne que tu aimes."
+    }
+  },
+  {
+    "id": "23bc71d5-1f6f-4e86-8b68-655c9e655284",
+    "type": "dare",
+    "question": "Sing a song for the group.",
+    "translations": {
+      "de": "Sing ein Lied für die Gruppe.",
+      "es": "Canta una canción para el grupo.",
+      "fr": "Chante une chanson pour le groupe."
+    }
+  },
+  {
+    "id": "104e58b2-3950-4904-b6c5-afe4e8dfb7d6",
+    "type": "dare",
+    "question": "Send the fifth person in your message history 20 seconds of keyboard spam.",
+    "translations": {
+      "de": "Sende der fünften Person in deinem Nachrichtenverlauf 20 Sekunden Tastaturspam.",
+      "es": "Envía a la quinta persona de tu historial de mensajes 20 segundos de spam de teclado.",
+      "fr": "Envoie à la cinquième personne de ton histoire de message 20 secondes de spam de clavier."
+    }
+  },
+  {
+    "id": "bdaf8ec4-8967-489a-97e3-5273741bb7cd",
+    "type": "dare",
+    "question": "Spill the last secret someone told you.",
+    "translations": {
+      "de": "Verrate das letzte Geheimnis, das dir jemand erzählt hat.",
+      "es": "Suelta el último secreto que alguien te haya contado.",
+      "fr": "Dévoile le dernier secret que quelqu'un t'a confié."
+    }
+  },
+  {
+    "id": "59f57eab-8a2e-4fa8-a927-a6038883f607",
+    "type": "dare",
+    "question": "Tell your best friend that you're a furry",
+    "translations": {
+      "de": "Sag deinem besten Freund, dass du ein Pelztier bist",
+      "es": "Dile a tu mejor amigo que eres un peludo",
+      "fr": "Dis à ton meilleur ami que tu es une personne à fourrure."
+    }
+  },
+  {
+    "id": "215f8e16-5bc9-4c90-b570-a6d0a65bae97",
+    "type": "dare",
+    "question": "Tell your funniest joke to the group.",
+    "translations": {
+      "de": "Erzähle der Gruppe deinen lustigsten Witz.",
+      "es": "Cuenta tu chiste más gracioso al grupo.",
+      "fr": "Raconte ta blague la plus drôle au groupe."
+    }
+  },
+  {
+    "id": "ced8346f-4052-4ba5-999c-5a9b74ffa9f1",
+    "type": "dare",
+    "question": "Sing a song of the groups choice, in a VC.",
+    "translations": {
+      "de": "Singt ein Lied eurer Wahl in einem VC.",
+      "es": "Canta una canción elegida por el grupo, en VC.",
+      "fr": "Chantez une chanson au choix du groupe, dans un VC."
+    }
+  },
+  {
+    "id": "5035e028-8702-4b2e-a1a3-dbc57aa4c4a0",
+    "type": "dare",
+    "question": "Don't charge your phone until it dies.",
+    "translations": {
+      "de": "Lade dein Telefon nicht auf, bis es leer ist.",
+      "es": "No cargues tu teléfono hasta que se muera.",
+      "fr": "Ne charge pas ton téléphone jusqu'à ce qu'il soit mort."
+    }
+  },
+  {
+    "id": "1c8650f6-98ec-4a61-9f99-dcc8771566d9",
+    "type": "dare",
+    "question": "Post a selfie.",
+    "translations": {
+      "de": "Poste ein Selfie.",
+      "es": "Publica un selfie.",
+      "fr": "Publie un selfie."
+    }
+  },
+  {
+    "id": "270d415a-7e8e-437a-8d8f-457551af42eb",
+    "type": "dare",
+    "question": "Eat a piece of paper.",
+    "translations": {
+      "de": "Iss ein Stück Papier.",
+      "es": "Cómete un trozo de papel.",
+      "fr": "Mange un morceau de papier."
+    }
+  },
+  {
+    "id": "15d93837-610e-4118-bf12-84179ef7a521",
+    "type": "dare",
+    "question": "Send a message to the person at the bottom of your DMs list",
+    "translations": {
+      "de": "Sende eine Nachricht an die Person, die am Ende deiner DMs-Liste steht",
+      "es": "Envía un mensaje a la persona que aparece al final de tu lista de DMs",
+      "fr": "Envoie un message à la personne qui se trouve en bas de ta liste de DMs."
+    }
+  },
+  {
+    "id": "450c5c70-c252-4e47-a97d-f71bf906c952",
+    "type": "dare",
+    "question": "DM someone \"hi\" and respond with \"banana\" to everything they say",
+    "translations": {
+      "de": "Jemandem per DM \"Hallo\" sagen und auf alles, was er sagt, mit \"Banane\" antworten",
+      "es": "DM a alguien \"hola\" y responder con \"banana\" a todo lo que diga",
+      "fr": "Fais un DM à quelqu'un en lui disant \"salut\" et réponds par \"banane\" à tout ce qu'il dit."
+    }
+  },
+  {
+    "id": "f1bf58d0-36c1-4794-9bc4-382a8b318076",
+    "type": "dare",
+    "question": "Speak only in emojis for the next 5 minutes",
+    "translations": {
+      "de": "Sprich in den nächsten 5 Minuten nur mit Emojis",
+      "es": "Habla sólo con emojis durante los próximos 5 minutos",
+      "fr": "Parle uniquement en emojis pendant les 5 prochaines minutes."
+    }
+  },
+  {
+    "id": "352feb77-55ad-4dc8-b841-93d5ca9b5ff2",
+    "type": "dare",
+    "question": "Stand up and spin in a circle three times.",
+    "translations": {
+      "de": "Steh auf und drehe dich dreimal im Kreis.",
+      "es": "Ponte de pie y gira en círculo tres veces.",
+      "fr": "Lève-toi et tourne en rond trois fois."
+    }
+  },
+  {
+    "id": "739fca23-78bd-4542-8619-91f973fff9b0",
+    "type": "dare",
+    "question": "Lick the floor.",
+    "translations": {
+      "de": "Leck den Boden.",
+      "es": "Lame el suelo.",
+      "fr": "Lèche le sol."
+    }
+  },
+  {
+    "id": "974c6d44-a75f-42e1-ab1c-f6e51c91583c",
+    "type": "dare",
+    "question": "Name one thing you would change about each person here.",
+    "translations": {
+      "de": "Nenne eine Sache, die du an jeder Person hier ändern würdest.",
+      "es": "Nombra una cosa que cambiarías de cada una de las personas aquí presentes.",
+      "fr": "Cite une chose que tu changerais à propos de chaque personne ici présente."
+    }
+  },
+  {
+    "id": "da2a1710-164a-4f0a-b2e2-718ca2ea35b9",
+    "type": "dare",
+    "question": "Close your eyes and send a blind message to a random person",
+    "translations": {
+      "de": "Schließe deine Augen und schicke einer zufälligen Person eine Blindnachricht",
+      "es": "Cierra los ojos y envía un mensaje a ciegas a una persona al azar",
+      "fr": "Ferme les yeux et envoie un message aveugle à une personne au hasard."
+    }
+  },
+  {
+    "id": "b753214d-e97a-40b9-a8e1-4468a317e374",
+    "type": "dare",
+    "question": "Take a picture of yourself and show it to the group.",
+    "translations": {
+      "de": "Mach ein Foto von dir und zeige es der Gruppe.",
+      "es": "Hazte una foto y enséñasela al grupo.",
+      "fr": "Prends une photo de toi et montre-la au groupe."
+    }
+  },
+  {
+    "id": "212870f1-36c7-410b-b50e-1b29cc401ac8",
+    "type": "dare",
+    "question": "Ask the first person in your DMs to marry you.",
+    "translations": {
+      "de": "Bitte die erste Person in deinen DMs, dich zu heiraten.",
+      "es": "Pídele a la primera persona de tus DMs que se case contigo.",
+      "fr": "Demande à la première personne dans tes DM de t'épouser."
+    }
+  },
+  {
+    "id": "45f67c1b-3353-4933-a0c1-36b60abfac66",
+    "type": "dare",
+    "question": "Text the last 6 people in your DMs 'I love you'.",
+    "translations": {
+      "de": "Schreibe den letzten 6 Personen in deinen DMs \"Ich liebe dich\".",
+      "es": "Envía un mensaje de \"Te quiero\" a las 6 últimas personas de tus DMs.",
+      "fr": "Envoie un texto aux 6 dernières personnes présentes dans tes DM : \" Je t'aime \"."
+    }
+  },
+  {
+    "id": "02587bf0-15ac-42d7-a1c6-1d50b91c873f",
+    "type": "dare",
+    "question": "Scream at the top of your lungs whatever the chat wants.",
+    "translations": {
+      "de": "Schrei aus voller Kehle, was immer der Chat will.",
+      "es": "Grita a pleno pulmón lo que quiera el chat.",
+      "fr": "Crie à tue-tête tout ce que le chat veut."
+    }
+  },
+  {
+    "id": "8727bc72-6f9e-4ce9-a970-74c9af80ed03",
+    "type": "dare",
+    "question": "Invite anyone in the group's choosing to join the call.",
+    "translations": {
+      "de": "Lade alle Mitglieder der Gruppe ein, an dem Gespräch teilzunehmen.",
+      "es": "Invita a cualquier persona que elija el grupo a unirse a la llamada.",
+      "fr": "Invite toute personne choisie par le groupe à se joindre à l'appel."
+    }
+  },
+  {
+    "id": "c65bbca5-a71e-4f4c-abd8-0ab571483fbc",
+    "type": "dare",
+    "question": "Send one of your favorite playlists!",
+    "translations": {
+      "de": "Sende eine deiner Lieblings-Playlists!",
+      "es": "¡Envía una de tus listas de reproducción favoritas!",
+      "fr": "Envoie une de tes listes de lecture préférées !"
+    }
+  },
+  {
+    "id": "11515fbd-08a1-4379-a22d-ca36daa37141",
+    "type": "dare",
+    "question": "Rickroll someone",
+    "translations": {
+      "de": "Jemanden verarschen",
+      "es": "Rickroll a alguien",
+      "fr": "Fais tourner la tête à quelqu'un."
+    }
+  },
+  {
+    "id": "2bc6c3d9-4747-47dc-97db-2ac0528096d8",
+    "type": "dare",
+    "question": "Screenshot your most played songs and show it to the group.",
+    "translations": {
+      "de": "Mache einen Screenshot deiner meistgespielten Lieder und zeige ihn der Gruppe.",
+      "es": "Haz una captura de pantalla de tus canciones más reproducidas y enséñasela al grupo.",
+      "fr": "Fais une capture d'écran de tes chansons les plus jouées et montre-la au groupe."
+    }
+  },
+  {
+    "id": "9db56ccf-a574-4c25-8714-c46a8533435d",
+    "type": "dare",
+    "question": "Voice act a cartoon character of the group's choice.",
+    "translations": {
+      "de": "Sprich eine Zeichentrickfigur nach Wahl der Gruppe.",
+      "es": "Pon voz a un personaje de dibujos animados elegido por el grupo.",
+      "fr": "Joue la voix d'un personnage de dessin animé au choix du groupe."
+    }
+  },
+  {
+    "id": "c91e74d7-bc7c-4a9c-8f72-49385a36c92b",
+    "type": "dare",
+    "question": "Describe the last dream you had.",
+    "translations": {
+      "de": "Beschreibe den letzten Traum, den du hattest.",
+      "es": "Describe el último sueño que has tenido.",
+      "fr": "Décris le dernier rêve que tu as fait."
+    }
+  },
+  {
+    "id": "f8c98c70-9245-43fe-94e5-058cc1389ac3",
+    "type": "dare",
+    "question": "Do an impression of someone until another player can guess who you are",
+    "translations": {
+      "de": "Mache jemanden nach, bis ein anderer Spieler erraten kann, wer du bist",
+      "es": "Haz una imitación de alguien hasta que otro jugador adivine quién eres",
+      "fr": "Fais une imitation de quelqu'un jusqu'à ce qu'un autre joueur puisse deviner qui tu es."
+    }
+  },
+  {
+    "id": "b7dc35a3-1a59-4366-86a1-f42b30b85b5a",
+    "type": "dare",
+    "question": "Fake cry for the group.",
+    "translations": {
+      "de": "Falscher Schrei für die Gruppe.",
+      "es": "Grito falso para el grupo.",
+      "fr": "Faux cri pour le groupe."
+    }
+  },
+  {
+    "id": "02bf5898-1205-4d47-8216-9e0b6cb95ac0",
+    "type": "dare",
+    "question": "Name as many cities as you can",
+    "translations": {
+      "de": "Nenne so viele Städte, wie du kannst",
+      "es": "Nombra tantas ciudades como puedas",
+      "fr": "Nomme autant de villes que tu peux"
+    }
+  },
+  {
+    "id": "4084f640-f38c-4019-b935-6593e0b8429e",
+    "type": "dare",
+    "question": "Do a cartwheel.",
+    "translations": {
+      "de": "Mach ein Rad.",
+      "es": "Haz una voltereta.",
+      "fr": "Fais la roue."
+    }
+  },
+  {
+    "id": "768ac3f3-07b5-40b7-9552-207e48c74c32",
+    "type": "dare",
+    "question": "Put on makeup if you don't wear makeup and it's available, take off all your makeup if you're wearing it.",
+    "translations": {
+      "de": "Schminke dich, wenn du kein Make-up trägst und es verfügbar ist, und nimm dein ganzes Make-up ab, wenn du es trägst.",
+      "es": "Maquíllate si no llevas maquillaje y está disponible, quítate todo el maquillaje si lo llevas.",
+      "fr": "Mets du maquillage si tu n'en portes pas et qu'il est disponible, enlève tout ton maquillage si tu en portes."
+    }
+  },
+  {
+    "id": "70e5133c-5470-4ddd-a5b1-15f2cc00df68",
+    "type": "dare",
+    "question": "Type with your fists for the next minute",
+    "translations": {
+      "de": "Tippe die nächste Minute mit deinen Fäusten",
+      "es": "Teclea con los puños durante el siguiente minuto",
+      "fr": "Tape avec tes poings pendant la minute qui suit"
+    }
+  },
+  {
+    "id": "dc7f78e5-ff5d-42f1-8fb2-1b18e83d0965",
+    "type": "dare",
+    "question": "List everyone as the emoji(s) you think best fits them.",
+    "translations": {
+      "de": "Gib jedem das Emoji, das deiner Meinung nach am besten zu ihm/ihr passt.",
+      "es": "Enumera a cada uno con el/los emoji(s) que creas que mejor se ajustan a él.",
+      "fr": "Indique à chacun l'emoji qui, selon toi, lui correspond le mieux."
+    }
+  },
+  {
+    "id": "c4d86ea3-e4d1-44ef-ba41-a6240959d9f9",
+    "type": "dare",
+    "question": "Prank call the last person that called you",
+    "translations": {
+      "de": "Rufe die Person an, die dich zuletzt angerufen hat",
+      "es": "Broma telefónica a la última persona que te llamó",
+      "fr": "Fais un canular téléphonique à la dernière personne qui t'a appelé."
+    }
+  },
+  {
+    "id": "e0d3cd91-aa3a-455e-bb05-854521a0249d",
+    "type": "dare",
+    "question": "List everyone as the kind of animal you see them as.",
+    "translations": {
+      "de": "Ordne jedem die Tierart zu, die du in ihm siehst.",
+      "es": "Enumera a cada uno según el tipo de animal que veas que es.",
+      "fr": "Indique à chacun le type d'animal que tu vois en lui."
+    }
+  },
+  {
+    "id": "c1e6bf0e-4c60-4e85-81af-76a9e8ce34eb",
+    "type": "dare",
+    "question": "Show everyone your DMs list",
+    "translations": {
+      "de": "Zeige allen deine DMs-Liste",
+      "es": "Muestra a todo el mundo tu lista de DMs",
+      "fr": "Montre à tout le monde ta liste de DMs"
+    }
+  },
+  {
+    "id": "06b13cff-2f4a-4488-9c20-9d12d1bc5b73",
+    "type": "dare",
+    "question": "Ping a friend to join!",
+    "translations": {
+      "de": "Ping einen Freund an, um mitzumachen!",
+      "es": "¡Haz ping a un amigo para que se una!",
+      "fr": "Envoie un message à un ami pour qu'il te rejoigne !"
+    }
+  },
+  {
+    "id": "c45f829e-61c4-41f6-945c-2d409e9c478f",
+    "type": "dare",
+    "question": "Talk in an accent for the next 10 minutes.",
+    "translations": {
+      "de": "Sprich die nächsten 10 Minuten mit einem Akzent.",
+      "es": "Habla con acento durante los próximos 10 minutos.",
+      "fr": "Parle avec un accent pendant les 10 prochaines minutes."
+    }
+  },
+  {
+    "id": "5c4a84ec-067e-4135-9e98-6e25224261cd",
+    "type": "dare",
+    "question": "Ghost ping someone",
+    "translations": {
+      "de": "Jemanden als Geist anpingen",
+      "es": "Hacer ping fantasma a alguien",
+      "fr": "Fais un ping fantôme à quelqu'un"
+    }
+  },
+  {
+    "id": "b6c21e7d-f83f-44e8-9926-a0274381331e",
+    "type": "dare",
+    "question": "Message someone you argued with and tell them that you're sorry.",
+    "translations": {
+      "de": "Schreib jemandem, mit dem du gestritten hast, eine Nachricht und sag ihm, dass es dir leid tut.",
+      "es": "Envía un mensaje a alguien con quien hayas discutido y dile que lo sientes.",
+      "fr": "Envoie un message à une personne avec qui tu t'es disputé et dis-lui que tu es désolé."
+    }
+  },
+  {
+    "id": "0984a01b-7091-4866-a73f-6487de0822fc",
+    "type": "dare",
+    "question": "Hold your breath for 10 seconds",
+    "translations": {
+      "de": "Halte deinen Atem für 10 Sekunden an",
+      "es": "Aguanta la respiración durante 10 segundos",
+      "fr": "Retiens ta respiration pendant 10 secondes"
+    }
+  },
+  {
+    "id": "2f77330b-8350-4243-848d-8c0e225e485e",
+    "type": "dare",
+    "question": "Listen to a country song",
+    "translations": {
+      "de": "Hör dir ein Country-Lied an",
+      "es": "Escucha una canción country",
+      "fr": "Écoute une chanson country"
+    }
+  },
+  {
+    "id": "5dcd5bc7-b7be-4344-87b9-bacd9d83a099",
+    "type": "dare",
+    "question": "Type without vowels for the next minute",
+    "translations": {
+      "de": "Tippe die nächste Minute lang ohne Vokale",
+      "es": "Escribe sin vocales durante el siguiente minuto",
+      "fr": "Tape sans voyelles pendant la prochaine minute"
+    }
+  },
+  {
+    "id": "4b7dbf2c-028a-4144-87d8-2477646f9743",
+    "type": "dare",
+    "question": "Share the most recent photo on your phone with the group.",
+    "translations": {
+      "de": "Teile das aktuellste Foto auf deinem Handy mit der Gruppe.",
+      "es": "Comparte la foto más reciente de tu teléfono con el grupo.",
+      "fr": "Partage avec le groupe la photo la plus récente de ton téléphone."
+    }
+  },
+  {
+    "id": "aff8bbcc-7c53-46e3-80dd-570e32fc2d94",
+    "type": "dare",
+    "question": "Do an impression of your most annoying teacher",
+    "translations": {
+      "de": "Mache eine Nachahmung deines nervigsten Lehrers",
+      "es": "Haz una imitación de tu profesor más molesto",
+      "fr": "Fais une imitation de ton professeur le plus ennuyeux"
+    }
+  },
+  {
+    "id": "aa14cb0c-996d-4670-846a-4b561a2012c9",
+    "type": "dare",
+    "question": "Show everyone your screen time",
+    "translations": {
+      "de": "Zeige allen deine Bildschirmzeit",
+      "es": "Muestra a todo el mundo el tiempo que pasas frente a la pantalla",
+      "fr": "Montre à tout le monde ton temps d'écran"
+    }
+  },
+  {
+    "id": "6825196a-eb78-425d-bbab-934cb13dc544",
+    "type": "dare",
+    "question": "Send a photo of where you are",
+    "translations": {
+      "de": "Schicke ein Foto von dem Ort, an dem du bist",
+      "es": "Envía una foto de dónde estás",
+      "fr": "Envoie une photo de l'endroit où tu te trouves"
+    }
+  },
+  {
+    "id": "e6405bf2-b43f-4b34-bcd7-bc5980fd730d",
+    "type": "dare",
+    "question": "Send your youtube watch history",
+    "translations": {
+      "de": "Sende deinen Youtube-Verlauf",
+      "es": "Envía tu historial de visitas de youtube",
+      "fr": "Envoie l'historique de tes visionnages sur Youtube"
+    }
+  },
+  {
+    "id": "269b9711-ec55-4b03-b484-830427523d7e",
+    "type": "dare",
+    "question": "Show everyone your recent calls",
+    "translations": {
+      "de": "Zeige allen deine letzten Anrufe",
+      "es": "Muestra a todos tus llamadas recientes",
+      "fr": "Montre à tout le monde tes appels récents"
+    }
+  },
+  {
+    "id": "760e1fd2-42c9-4929-9ad0-a0e1596c29d6",
+    "type": "dare",
+    "question": "Let the group pose you in an embarrassing position and take a picture.",
+    "translations": {
+      "de": "Lass dich von der Gruppe in eine peinliche Position bringen und ein Foto machen.",
+      "es": "Deja que el grupo te ponga en una posición embarazosa y te haga una foto.",
+      "fr": "Laisse le groupe te poser dans une position embarrassante et prendre une photo."
+    }
+  },
+  {
+    "id": "e546986c-b5eb-43fb-9d96-0242c74f307a",
+    "type": "dare",
+    "question": "Send a message only using your toes",
+    "translations": {
+      "de": "Sende eine Nachricht nur mit deinen Zehen",
+      "es": "Envía un mensaje utilizando sólo tus dedos",
+      "fr": "Envoie un message uniquement avec tes orteils"
+    }
+  },
+  {
+    "id": "948f4903-f772-434d-be83-8f995e4ffc83",
+    "type": "dare",
+    "question": "Send a picture of your favourite stuffed animal.",
+    "translations": {
+      "de": "Schicke ein Bild von deinem Lieblingsstofftier.",
+      "es": "Envía una foto de tu peluche favorito.",
+      "fr": "Envoie une photo de ton animal en peluche préféré."
+    }
+  },
+  {
+    "id": "168ea45e-1903-401a-8602-513124ebcec0",
+    "type": "dare",
+    "question": "Wear a clothing item often associated with a different gender tomorrow",
+    "translations": {
+      "de": "Morgen ein Kleidungsstück tragen, das oft mit einem anderen Geschlecht assoziiert wird",
+      "es": "Llevar mañana una prenda de vestir asociada a menudo con un sexo diferente",
+      "fr": "Porte un vêtement souvent associé à un sexe différent demain."
+    }
+  },
+  {
+    "id": "c7756c02-fa46-4978-92cb-1e41496e9d73",
+    "type": "dare",
+    "question": "Link everyone to the last song you listened to.",
+    "translations": {
+      "de": "Verbinde alle mit dem letzten Lied, das du gehört hast.",
+      "es": "Enlaza a todo el mundo con la última canción que has escuchado.",
+      "fr": "Relie tout le monde à la dernière chanson que tu as écoutée."
+    }
+  },
+  {
+    "id": "39c062ef-4332-4c39-9020-cb20d84b373c",
+    "type": "dare",
+    "question": "Type with only the left side of your keyboard for the next minute",
+    "translations": {
+      "de": "Tippe die nächste Minute lang nur mit der linken Seite deiner Tastatur",
+      "es": "Escribe sólo con el lado izquierdo del teclado durante el siguiente minuto",
+      "fr": "Tape uniquement avec le côté gauche de ton clavier pendant la prochaine minute."
+    }
+  },
+  {
+    "id": "c02233f7-9ca8-499d-a7d5-a675865432e9",
+    "type": "dare",
+    "question": "Tell everyone your honest opinion of the person who sent this command.",
+    "translations": {
+      "de": "Sag allen deine ehrliche Meinung über die Person, die diesen Befehl gesendet hat.",
+      "es": "Di a todo el mundo tu sincera opinión sobre la persona que envió esta orden.",
+      "fr": "Dis à tout le monde ce que tu penses honnêtement de la personne qui a envoyé cette commande."
+    }
+  },
+  {
+    "id": "69a630a1-e7a5-4a4d-8950-97f1b994f008",
+    "type": "dare",
+    "question": "Choose 3 people here and tell them the latest lie you told to them here (not in DMs).",
+    "translations": {
+      "de": "Wähle 3 Leute hier aus und erzähle ihnen die letzte Lüge, die du ihnen hier erzählt hast (nicht in DMs).",
+      "es": "Elige aquí a 3 personas y cuéntales la última mentira que les dijiste aquí (no en DMs).",
+      "fr": "Choisis 3 personnes ici et raconte-leur le dernier mensonge que tu leur as dit ici (pas dans les DM)."
+    }
+  },
+  {
+    "id": "09533029-c6fe-45f5-a8ed-bb291673a6d0",
+    "type": "dare",
+    "question": "Send a meme you've made",
+    "translations": {
+      "de": "Sende ein Meme, das du gemacht hast",
+      "es": "Envía un meme que hayas hecho",
+      "fr": "Envoie un mème que tu as créé"
+    }
+  },
+  {
+    "id": "ab067235-cf71-4697-a6c4-bbe4ddd4f960",
+    "type": "dare",
+    "question": "Try not to blink for as long as possible",
+    "translations": {
+      "de": "Versuche, so lange wie möglich nicht zu blinzeln",
+      "es": "Intenta no parpadear durante el mayor tiempo posible",
+      "fr": "Essaie de ne pas cligner des yeux aussi longtemps que possible."
+    }
+  },
+  {
+    "id": "42a5550e-1de9-4ab3-87c5-d59c28f1b6cb",
+    "type": "dare",
+    "question": "Tell your best friend that you'll always be with them no matter what :)",
+    "translations": {
+      "de": "Sag deiner besten Freundin oder deinem besten Freund, dass du immer bei ihr oder ihm sein wirst, egal was passiert :)",
+      "es": "Dile a tu mejor amigo que siempre estarás con él pase lo que pase :)",
+      "fr": "Dis à ton meilleur ami que tu seras toujours avec lui, quoi qu'il arrive :)"
+    }
+  },
+  {
+    "id": "814d917e-189d-4951-95fd-65b364ef47f5",
+    "type": "dare",
+    "question": "Text the third person in your message history 'last night was great' with a heart.",
+    "translations": {
+      "de": "Schreibe der dritten Person in deinem Nachrichtenverlauf \"Letzte Nacht war toll\" mit einem Herz.",
+      "es": "Escribe a la tercera persona de tu historial de mensajes \"anoche fue genial\" con un corazón.",
+      "fr": "Envoie un texto à la troisième personne dans l'historique de ton message \"la nuit dernière était géniale\" avec un cœur."
+    }
+  },
+  {
+    "id": "606547de-53c5-41b7-9510-8250c391720a",
+    "type": "dare",
+    "question": "Prank call your enemy",
+    "translations": {
+      "de": "Ruf deinen Feind mit einem Streich an",
+      "es": "Broma telefónica a tu enemigo",
+      "fr": "Fais un canular téléphonique à ton ennemi"
+    }
+  },
+  {
+    "id": "7c70a5dd-7c63-429f-910e-0d1e1e7dd4cf",
+    "type": "dare",
+    "question": "Tie your shoe strings together and try to walk to the door and back",
+    "translations": {
+      "de": "Binde deine Schnürsenkel zusammen und versuche, zur Tür und zurück zu gehen",
+      "es": "Átate los cordones de los zapatos e intenta caminar hasta la puerta y volver",
+      "fr": "Attache les fils de tes chaussures ensemble et essaie de marcher jusqu'à la porte et de revenir."
+    }
+  },
+  {
+    "id": "4b494112-884b-4f67-951d-ba1a94687920",
+    "type": "dare",
+    "question": "Show everyone here your last 10 google searches.",
+    "translations": {
+      "de": "Zeige allen hier deine letzten 10 Google-Suchen.",
+      "es": "Muestra a todos los presentes tus 10 últimas búsquedas en Google.",
+      "fr": "Montre à tout le monde ici tes 10 dernières recherches sur Google."
+    }
+  },
+  {
+    "id": "e494bebb-7131-4843-af02-9abcea32ad2f",
+    "type": "dare",
+    "question": "Show the list of people in your DMs.",
+    "translations": {
+      "de": "Zeige die Liste der Personen in deinen DMs.",
+      "es": "Mostrar la lista de personas en tus DMs.",
+      "fr": "Affiche la liste des personnes présentes dans tes DM."
+    }
+  },
+  {
+    "id": "c634465c-4f52-46b6-ad55-431131b247ae",
+    "type": "dare",
+    "question": "Everyone go get a drink of water - ToD Bot Team",
+    "translations": {
+      "de": "Holt euch alle einen Schluck Wasser - ToD Bot Team",
+      "es": "Que todo el mundo vaya a beber agua - Equipo ToD Bot",
+      "fr": "Tout le monde va boire un verre d'eau - ToD Bot Team"
+    }
+  },
+  {
+    "id": "d9bf23da-9f98-495c-be95-e2f775837b1a",
+    "type": "dare",
+    "question": "Let the group decide your status for 7 days.",
+    "translations": {
+      "de": "Lass die Gruppe 7 Tage lang über deinen Status entscheiden.",
+      "es": "Deja que el grupo decida tu estatus durante 7 días.",
+      "fr": "Laisse le groupe décider de ton statut pendant 7 jours."
+    }
+  },
+  {
+    "id": "67d059d8-7d8c-4425-afaf-41b0d9eba7aa",
+    "type": "dare",
+    "question": "Let the group look through your phone for 30 seconds.",
+    "translations": {
+      "de": "Lass die Gruppe 30 Sekunden lang in dein Handy schauen.",
+      "es": "Deja que el grupo mire tu teléfono durante 30 segundos.",
+      "fr": "Laisse le groupe regarder ton téléphone pendant 30 secondes."
+    }
+  },
+  {
+    "id": "eb08906b-f541-482e-9cbf-103d6cf84af0",
+    "type": "dare",
+    "question": "Make up a rap and sing it for 30 seconds",
+    "translations": {
+      "de": "Erfinde einen Rap und singe ihn 30 Sekunden lang",
+      "es": "Inventa un rap y cántalo durante 30 segundos",
+      "fr": "Invente un rap et chante-le pendant 30 secondes."
+    }
+  },
+  {
+    "id": "cd80e21b-8321-4d1e-968e-cf0e32748b3e",
+    "type": "dare",
+    "question": "Show everyone something you wrote/drew when you were younger.",
+    "translations": {
+      "de": "Zeig allen etwas, das du geschrieben/gezeichnet hast, als du jünger warst.",
+      "es": "Muestra a todos algo que hayas escrito/dibujado cuando eras más joven.",
+      "fr": "Montre à tout le monde quelque chose que tu as écrit ou dessiné quand tu étais plus jeune."
+    }
+  },
+  {
+    "id": "656a123f-f885-4e71-b86f-0f59601ca936",
+    "type": "dare",
+    "question": "Lick your nose",
+    "translations": {
+      "de": "Leck deine Nase",
+      "es": "Lámete la nariz",
+      "fr": "Lèche ton nez"
+    }
+  },
+  {
+    "id": "6ef176be-5c65-43c7-b976-6740f461f53f",
+    "type": "dare",
+    "question": "Describe the object closest to you until the group guesses the object.",
+    "translations": {
+      "de": "Beschreibe das Objekt, das dir am nächsten ist, bis die Gruppe das Objekt erraten hat.",
+      "es": "Describe el objeto más cercano a ti hasta que el grupo lo adivine.",
+      "fr": "Décris l'objet le plus proche de toi jusqu'à ce que le groupe devine l'objet."
+    }
+  },
+  {
+    "id": "9712d2f9-1845-4e2f-adc6-9156b35eb2e0",
+    "type": "dare",
+    "question": "Have someone in the group ask a question that you must answer",
+    "translations": {
+      "de": "Jemand in der Gruppe soll eine Frage stellen, die du beantworten musst",
+      "es": "Haz que alguien del grupo formule una pregunta que debas responder",
+      "fr": "Demande à quelqu'un du groupe de poser une question à laquelle tu dois répondre"
+    }
+  },
+  {
+    "id": "14d02d5c-0081-4834-ab7f-9926f1f523aa",
+    "type": "dare",
+    "question": "Imitate your least favorite celebrity",
+    "translations": {
+      "de": "Imitiere deinen unbeliebtesten Prominenten",
+      "es": "Imita a tu famoso menos favorito",
+      "fr": "Imite la célébrité que tu aimes le moins"
+    }
+  },
+  {
+    "id": "8d6e7324-82eb-4ef2-b355-243a070002d0",
+    "type": "dare",
+    "question": "Let the group decide your outfit for tomorrow.",
+    "translations": {
+      "de": "Lass die Gruppe über dein Outfit für morgen entscheiden.",
+      "es": "Deja que el grupo decida tu atuendo para mañana.",
+      "fr": "Laisse le groupe décider de ta tenue pour demain."
+    }
+  },
+  {
+    "id": "28149275-1038-46a8-8e29-7850d11a270b",
+    "type": "dare",
+    "question": "Send a message to someone you haven't talked to in a year",
+    "translations": {
+      "de": "Sende eine Nachricht an jemanden, mit dem du seit einem Jahr nicht mehr gesprochen hast",
+      "es": "Envía un mensaje a alguien con quien no has hablado en un año",
+      "fr": "Envoie un message à quelqu'un à qui tu n'as pas parlé depuis un an."
+    }
+  },
+  {
+    "id": "920e983f-ff4f-4ac7-b2be-afbced33d8e1",
+    "type": "dare",
+    "question": "Call one of your parents and then tell them they are grounded for a week",
+    "translations": {
+      "de": "Ruf einen deiner Elternteile an und sag ihnen, dass sie eine Woche Hausarrest haben.",
+      "es": "Llama a uno de tus padres y luego dile que está castigado una semana",
+      "fr": "Appelle l'un de tes parents et dis-lui ensuite qu'il est puni pendant une semaine."
+    }
+  },
+  {
+    "id": "e9957349-cd35-4450-8a27-b817455fcc8e",
+    "type": "dare",
+    "question": "Make/bake a cake.",
+    "translations": {
+      "de": "Mache/backe einen Kuchen.",
+      "es": "Haz/hornea un pastel.",
+      "fr": "Fais/cuisine un gâteau."
+    }
+  },
+  {
+    "id": "35dd198c-4b37-4b3a-88d5-d9b7402e251c",
+    "type": "dare",
+    "question": "Send a picture of your eyes.",
+    "translations": {
+      "de": "Schicke ein Bild deiner Augen.",
+      "es": "Envía una foto de tus ojos.",
+      "fr": "Envoie une photo de tes yeux."
+    }
+  },
+  {
+    "id": "da2f8dd8-0ed1-4e8d-ae46-e01e6699fab5",
+    "type": "dare",
+    "question": "Use Discord light theme for an hour",
+    "translations": {
+      "de": "Verwende das Discord Light Theme für eine Stunde",
+      "es": "Utiliza el tema luminoso de Discord durante una hora",
+      "fr": "Utilise le thème lumineux de Discord pendant une heure"
+    }
+  },
+  {
+    "id": "b88e0e95-5bf9-453f-9e12-a06195d9a3f2",
+    "type": "dare",
+    "question": "Ask your dad for a dad joke and send it",
+    "translations": {
+      "de": "Frag deinen Vater nach einem Vater-Witz und schick ihn",
+      "es": "Pídele a tu padre un chiste de padres y envíaselo",
+      "fr": "Demande à ton père une blague de papa et envoie-la."
+    }
+  },
+  {
+    "id": "5ccfbefb-e655-43b2-985f-8d91f96b0b17",
+    "type": "dare",
+    "question": "Text the first six people in your message history 'a' and don't reply if they bring it up.",
+    "translations": {
+      "de": "Schreibe den ersten sechs Personen in deinem Nachrichtenverlauf ein \"a\" und antworte nicht, wenn sie es erwähnen.",
+      "es": "Escribe a las seis primeras personas de tu historial de mensajes \"a\" y no respondas si sacan el tema.",
+      "fr": "Envoie un texto aux six premières personnes de ton historique de messages \"a\" et ne réponds pas si elles abordent le sujet."
+    }
+  },
+  {
+    "id": "244c3857-e750-4cd7-9bc8-c8d19666d80c",
+    "type": "dare",
+    "question": "Do as many pushups or situps as you can in a minute.",
+    "translations": {
+      "de": "Mach so viele Liegestütze oder Situps, wie du in einer Minute schaffst.",
+      "es": "Haz tantas flexiones o abdominales como puedas en un minuto.",
+      "fr": "Fais autant de pompes ou de redressements assis que tu peux en une minute."
+    }
+  },
+  {
+    "id": "39fee4c2-cfdd-43b7-a9bb-797b6a1b6868",
+    "type": "dare",
+    "question": "Try to lick your elbow",
+    "translations": {
+      "de": "Versuch, deinen Ellbogen zu lecken",
+      "es": "Intenta lamerte el codo",
+      "fr": "Essaie de te lécher le coude"
+    }
+  },
+  {
+    "id": "412870ad-34ce-4d03-94d9-a85402c6291d",
+    "type": "dare",
+    "question": "Play the last song you listened to. No lying!",
+    "translations": {
+      "de": "Spiele den letzten Song, den du gehört hast. Keine Lügen!",
+      "es": "Pon la última canción que has escuchado. ¡No mientas!",
+      "fr": "Joue la dernière chanson que tu as écoutée. Ne mens pas !"
+    }
+  },
+  {
+    "id": "cffb0daa-50e9-4eaa-8a9b-32cfa945de53",
+    "type": "dare",
+    "question": "Send the last meme you saved to your phone",
+    "translations": {
+      "de": "Sende das letzte Meme, das du gespeichert hast, an dein Telefon",
+      "es": "Envía el último meme que has guardado a tu teléfono",
+      "fr": "Envoie le dernier mème que tu as sauvegardé sur ton téléphone."
+    }
+  },
+  {
+    "id": "6274c0d1-efb8-4019-945f-67a9ad1d5aa5",
+    "type": "dare",
+    "question": "Set your cell phone language to Spanish for the next 10 minutes",
+    "translations": {
+      "de": "Stelle die Sprache deines Handys für die nächsten 10 Minuten auf Spanisch ein",
+      "es": "Pon el idioma de tu móvil en español durante los próximos 10 minutos",
+      "fr": "Règle la langue de ton téléphone portable sur l'espagnol pour les 10 prochaines minutes."
+    }
+  },
+  {
+    "id": "e9457cce-82a6-4f7f-8350-cb60f01b4720",
+    "type": "dare",
+    "question": "Sharpie an embarrassing message on any part of the body covered by clothing.",
+    "translations": {
+      "de": "Kreide eine peinliche Nachricht auf ein Körperteil, das von der Kleidung bedeckt ist.",
+      "es": "Escribe con rotulador un mensaje embarazoso en cualquier parte del cuerpo cubierta por la ropa.",
+      "fr": "Sharpie un message embarrassant sur n'importe quelle partie du corps couverte par un vêtement."
+    }
+  },
+  {
+    "id": "162a7aac-23f4-4ef4-a8ba-b510dfafb762",
+    "type": "dare",
+    "question": "Hum a song of your choice, donate stop until someone correctly guesses the song",
+    "translations": {
+      "de": "Summt ein Lied eurer Wahl und schenkt eine Pause, bis jemand das Lied richtig errät",
+      "es": "Tararea una canción de tu elección, dona la parada hasta que alguien adivine correctamente la canción",
+      "fr": "Fredonne une chanson de ton choix, fais un don et arrête-toi jusqu'à ce que quelqu'un devine correctement la chanson."
+    }
+  },
+  {
+    "id": "90a5d549-93c8-4633-b031-1a2d4cda5ed5",
+    "type": "dare",
+    "question": "Talk in an accent for the next 3 rounds",
+    "translations": {
+      "de": "Sprich in den nächsten 3 Runden mit einem Akzent",
+      "es": "Habla con acento durante las 3 rondas siguientes",
+      "fr": "Parle avec un accent pendant les 3 prochains tours."
+    }
+  },
+  {
+    "id": "cb5ff32d-75c0-4ced-9d8f-ca7ed1a49d60",
+    "type": "dare",
+    "question": "Change your phone wallpaper to the choice of the group for 7 days.",
+    "translations": {
+      "de": "Ändere den Hintergrund deines Handys für 7 Tage nach Wahl der Gruppe.",
+      "es": "Cambia el fondo de pantalla de tu teléfono por el que elija el grupo durante 7 días.",
+      "fr": "Change le fond d'écran de ton téléphone au choix du groupe pendant 7 jours."
+    }
+  },
+  {
+    "id": "3ae88a6e-0de2-4a22-91a1-b547824a9a42",
+    "type": "dare",
+    "question": "Text your crush and tell them how cool they are",
+    "translations": {
+      "de": "Schreib deinem Schwarm eine SMS und sag ihm, wie cool er ist",
+      "es": "Envía un mensaje de texto a la persona que te gusta y dile lo guay que es",
+      "fr": "Envoie un texto à ton béguin pour lui dire à quel point il est cool."
+    }
+  },
+  {
+    "id": "fd3918a3-9316-488e-b93b-15323046c96c",
+    "type": "dare",
+    "question": "Don't touch your phone for an hour after the game is over.",
+    "translations": {
+      "de": "Berühre dein Handy eine Stunde lang nicht, nachdem das Spiel vorbei ist.",
+      "es": "No toques el teléfono durante una hora después de que acabe el partido.",
+      "fr": "Ne touche pas à ton téléphone pendant une heure après la fin du match."
+    }
+  },
+  {
+    "id": "9f69cc22-cd08-432f-bac5-4436d7592dad",
+    "type": "dare",
+    "question": "Show everyone the earliest picture in your camera roll.",
+    "translations": {
+      "de": "Zeige allen das früheste Bild in deiner Kamerarolle.",
+      "es": "Enseña a todo el mundo la foto más antigua de tu rollo de cámara.",
+      "fr": "Montre à tout le monde la première photo de ton rouleau d'appareil photo."
+    }
+  },
+  {
+    "id": "8e7fd3d2-e615-4613-bb16-f81942137c5c",
+    "type": "dare",
+    "question": "Play a song of the next person's choosing.",
+    "translations": {
+      "de": "Spiele ein Lied, das die nächste Person wählen kann.",
+      "es": "Toca una canción que elija la siguiente persona.",
+      "fr": "Joue une chanson au choix de la personne suivante."
+    }
+  },
+  {
+    "id": "b47f4eb3-d5c3-4f3a-aa8f-084d86dc5a8f",
+    "type": "dare",
+    "question": "Share one of your playlists",
+    "translations": {
+      "de": "Teile eine deiner Wiedergabelisten",
+      "es": "Comparte una de tus listas de reproducción",
+      "fr": "Partage une de tes listes de lecture"
+    }
+  },
+  {
+    "id": "24d7abbd-4411-4541-a65c-d1ac9e247265",
+    "type": "dare",
+    "question": "Breakdance for the group.",
+    "translations": {
+      "de": "Breakdance für die Gruppe.",
+      "es": "Breakdance para el grupo.",
+      "fr": "Breakdance pour le groupe."
+    }
+  },
+  {
+    "id": "100bf4a1-dcf1-4b58-a169-b402846cf8c4",
+    "type": "dare",
+    "question": "Pretend to be another player for the next round",
+    "translations": {
+      "de": "Gib in der nächsten Runde vor, ein anderer Spieler zu sein",
+      "es": "Hazte pasar por otro jugador para la siguiente ronda",
+      "fr": "Fais semblant d'être un autre joueur pour le prochain tour."
+    }
+  },
+  {
+    "id": "ed355ba5-588b-480c-a57a-62a8bd335a6c",
+    "type": "dare",
+    "question": "Paint your fingernails with a crayon",
+    "translations": {
+      "de": "Male deine Fingernägel mit einem Buntstift an",
+      "es": "Píntate las uñas con un lápiz de color",
+      "fr": "Peins tes ongles avec un crayon de couleur."
+    }
+  },
+  {
+    "id": "11d3d3ee-2d96-47c3-9770-b969f36fbf1a",
+    "type": "dare",
+    "question": "Tell the other players something they don't know about you",
+    "translations": {
+      "de": "Erzähle den anderen Spielern etwas, das sie nicht über dich wissen",
+      "es": "Cuenta a los otros jugadores algo que no sepan sobre ti",
+      "fr": "Dis aux autres joueurs quelque chose qu'ils ne savent pas sur toi."
+    }
+  },
+  {
+    "id": "241e1b93-fc99-4347-a960-9306972b5203",
+    "type": "dare",
+    "question": "Send the worst meme you've made",
+    "translations": {
+      "de": "Sende das schlimmste Meme, das du gemacht hast",
+      "es": "Envía el peor meme que hayas hecho",
+      "fr": "Envoie le pire mème que tu aies fait"
+    }
+  },
+  {
+    "id": "575e553f-d63e-496d-9359-de063979e81d",
+    "type": "dare",
+    "question": "Lick the bottom of your shoe/foot.",
+    "translations": {
+      "de": "Lecke die Unterseite deines Schuhs/Fußes.",
+      "es": "Lame la suela de tu zapato/pie.",
+      "fr": "Lèche le dessous de ta chaussure/de ton pied."
+    }
+  },
+  {
+    "id": "41f4166c-37eb-447c-a8fb-f6aa1a1e0ae2",
+    "type": "dare",
+    "question": "Post the latest photo you took to instagram",
+    "translations": {
+      "de": "Poste das letzte Foto, das du gemacht hast, auf Instagram",
+      "es": "Publica en instagram la última foto que has hecho",
+      "fr": "Publie la dernière photo que tu as prise sur instagram."
+    }
+  },
+  {
+    "id": "b13ffa1d-09b9-43bf-8277-6c6f61781c1c",
+    "type": "dare",
+    "question": "Text your best friend \"something crazy just happened\" and don't respond",
+    "translations": {
+      "de": "Schicke deinem besten Freund eine SMS \"Es ist gerade etwas Verrücktes passiert\" und antworte nicht.",
+      "es": "Envía un mensaje de texto a tu mejor amigo \"acaba de ocurrir una locura\" y no respondas",
+      "fr": "Envoie un texto à ton meilleur ami \"quelque chose de fou vient d'arriver\" et ne réponds pas."
+    }
+  },
+  {
+    "id": "df8cc5bf-1689-40d2-aaa9-db16f25c242e",
+    "type": "dare",
+    "question": "Describe everyone in the room in three words.",
+    "translations": {
+      "de": "Beschreibe jeden im Raum in drei Worten.",
+      "es": "Describe a todos los presentes en tres palabras.",
+      "fr": "Décris en trois mots toutes les personnes présentes dans la pièce."
+    }
+  },
+  {
+    "id": "98b99efa-10f2-4727-8c7e-c27fbf70db3d",
+    "type": "dare",
+    "question": "Let your friends post something on your social media",
+    "translations": {
+      "de": "Lass deine Freunde etwas auf deinen sozialen Medien posten",
+      "es": "Deja que tus amigos publiquen algo en tus redes sociales",
+      "fr": "Laisse tes amis publier quelque chose sur tes médias sociaux."
+    }
+  },
+  {
+    "id": "c749ebda-f716-4878-a529-cc39487b8a0e",
+    "type": "dare",
+    "question": "Send your favorite joke",
+    "translations": {
+      "de": "Sende deinen Lieblingswitz",
+      "es": "Envía tu chiste favorito",
+      "fr": "Envoie ta blague préférée"
+    }
+  },
+  {
+    "id": "79d2a9c5-22b6-4648-9b0e-f4e64938a4e7",
+    "type": "dare",
+    "question": "Tell the other players something you've never told anyone before",
+    "translations": {
+      "de": "Erzähle den anderen Spielern etwas, das du noch nie jemandem erzählt hast",
+      "es": "Cuenta a los demás jugadores algo que nunca antes hayas contado a nadie",
+      "fr": "Dis aux autres joueurs quelque chose que tu n'as jamais dit à personne auparavant."
+    }
+  },
+  {
+    "id": "91c854a7-ec1d-417b-a0c3-f5f61d61cc28",
+    "type": "dare",
+    "question": "Everything you say for the next 5 rounds has to rhyme.",
+    "translations": {
+      "de": "Alles, was du in den nächsten 5 Runden sagst, muss sich reimen.",
+      "es": "Todo lo que digas durante las 5 rondas siguientes tiene que rimar.",
+      "fr": "Tout ce que tu diras pendant les 5 prochains tours doit rimer."
+    }
+  },
+  {
+    "id": "fc6a6146-20ae-43c1-9a92-463cd6ede36f",
+    "type": "dare",
+    "question": "Send the first word that comes to your mind right now",
+    "translations": {
+      "de": "Sende das erste Wort, das dir gerade in den Sinn kommt",
+      "es": "Envía la primera palabra que te venga a la mente en este momento",
+      "fr": "Envoie le premier mot qui te vient à l'esprit en ce moment."
+    }
+  },
+  {
+    "id": "72f59dcc-d956-48f4-a513-7d753362d377",
+    "type": "dare",
+    "question": "Take a picture of you doing over-done ducklips.",
+    "translations": {
+      "de": "Mach ein Foto von dir, wie du überdrehte Entenlippen machst.",
+      "es": "Hazte una foto haciendo \"ducklips\" sobrehechos.",
+      "fr": "Prends une photo de toi en train de faire des culs-de-basse-fosse trop faits."
+    }
+  },
+  {
+    "id": "8cea191f-16b8-4ea0-91d0-e3d1185e2866",
+    "type": "dare",
+    "question": "Call your first DM for no reason",
+    "translations": {
+      "de": "Ruf deinen ersten DM ohne Grund an",
+      "es": "Llama a tu primer DM sin motivo",
+      "fr": "Appelle ton premier SM sans raison"
+    }
+  },
+  {
+    "id": "2e49a5b4-dcda-4bdc-9fe4-c46d1f9f1ceb",
+    "type": "dare",
+    "question": "Google images the first word that comes to your head and send the first image",
+    "translations": {
+      "de": "Google Bilder das erste Wort, das dir in den Sinn kommt und sende das erste Bild",
+      "es": "Busca en Google imágenes la primera palabra que te venga a la cabeza y envía la primera imagen",
+      "fr": "Google images le premier mot qui te vient à l'esprit et envoie la première image."
+    }
+  },
+  {
+    "id": "0de5030e-3dc1-4ef5-8514-7d724e853c22",
+    "type": "dare",
+    "question": "Show the group an embarrasing picture of you.",
+    "translations": {
+      "de": "Zeige der Gruppe ein peinliches Bild von dir.",
+      "es": "Muestra al grupo una foto tuya que te avergüence.",
+      "fr": "Montre au groupe une photo embarrassante de toi."
+    }
+  },
+  {
+    "id": "caed9c79-f32c-4406-b0b2-ec25b098ffde",
+    "type": "dare",
+    "question": "Send a song you're embarrassed to listen to",
+    "translations": {
+      "de": "Schicke einen Song, der dir peinlich ist, wenn du ihn hörst",
+      "es": "Envía una canción que te dé vergüenza escuchar",
+      "fr": "Envoie une chanson que tu as honte d'écouter."
+    }
+  },
+  {
+    "id": "0b3b9a05-a0d7-4abe-a2fe-f649aec0fa89",
+    "type": "dare",
+    "question": "Use your non-dominant hand for an hour",
+    "translations": {
+      "de": "Benutze eine Stunde lang deine nicht-dominante Hand",
+      "es": "Utiliza tu mano no dominante durante una hora",
+      "fr": "Utilise ta main non dominante pendant une heure."
+    }
+  },
+  {
+    "id": "8f8d6825-f6d5-4cbb-93a8-86c8c2e636b9",
+    "type": "dare",
+    "question": "Ask someone random for a hug",
+    "translations": {
+      "de": "Jemand zufällig um eine Umarmung bitten",
+      "es": "Pide un abrazo a alguien al azar",
+      "fr": "Demande un câlin à quelqu'un au hasard"
+    }
+  },
+  {
+    "id": "469c5ee3-c5c5-4089-9150-a44599366aea",
+    "type": "dare",
+    "question": "Show the group your latest YouTube searches",
+    "translations": {
+      "de": "Zeige der Gruppe deine letzten YouTube-Suchen",
+      "es": "Muestra al grupo tus últimas búsquedas en YouTube",
+      "fr": "Montre au groupe tes dernières recherches sur YouTube"
+    }
+  },
+  {
+    "id": "126fbd92-a76b-4b3b-9874-faf2f14794df",
+    "type": "dare",
+    "question": "Put ice in your clothes and wait until it melts.",
+    "translations": {
+      "de": "Stecke Eis in deine Kleidung und warte, bis es schmilzt.",
+      "es": "Pon hielo en tu ropa y espera a que se derrita.",
+      "fr": "Mets de la glace dans tes vêtements et attends qu'elle fonde."
+    }
+  },
+  {
+    "id": "86a78149-8124-4ffc-8dc2-a9b1e4d92c80",
+    "type": "dare",
+    "question": "Tell the group something about you that you've never told them before",
+    "translations": {
+      "de": "Erzähle der Gruppe etwas über dich, was du ihr noch nie erzählt hast",
+      "es": "Cuenta al grupo algo sobre ti que nunca antes les hayas contado",
+      "fr": "Dis au groupe quelque chose sur toi que tu ne leur as jamais dit auparavant."
+    }
+  },
+  {
+    "id": "23b2f690-4af1-4b7d-8c9b-cb6f4ab072d0",
+    "type": "dare",
+    "question": "Take a sniff of everyone playing.",
+    "translations": {
+      "de": "Schnuppere an allen Spielern.",
+      "es": "Huele a todos los que juegan.",
+      "fr": "Prends le pouls de tous ceux qui jouent."
+    }
+  },
+  {
+    "id": "b08fcb8a-a546-4dd2-860f-144d8429653b",
+    "type": "dare",
+    "question": "Ask a friend for their mom's phone number",
+    "translations": {
+      "de": "Frage einen Freund nach der Telefonnummer seiner Mutter",
+      "es": "Pide a un amigo el número de teléfono de su madre",
+      "fr": "Demande à un ami le numéro de téléphone de sa mère."
+    }
+  },
+  {
+    "id": "c13f60e2-feb0-44c9-a428-e3719eea50ad",
+    "type": "dare",
+    "question": "Make an owo emote for the group.",
+    "translations": {
+      "de": "Erstelle ein Owo-Emote für die Gruppe.",
+      "es": "Haz un emote owo para el grupo.",
+      "fr": "Crée une émote owo pour le groupe."
+    }
+  }
+]
