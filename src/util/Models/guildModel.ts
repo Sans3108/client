@@ -150,9 +150,7 @@ const guildProfileSchema = new Schema(
   { timestamps: true },
 );
 
-const GuildModel = model<IGuildModel>(
+export const GuildModel = model<IGuildModel>(
   "guildProfile",
   guildProfileSchema,
 );
-
-export default GuildModel;
